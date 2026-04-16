@@ -70,8 +70,9 @@ PRIORITY_SLUGS = [
 # ── Request settings ───────────────────────────────────────────────────────────
 REQUEST_DELAY_MIN = 2.0   # seconds
 REQUEST_DELAY_MAX = 4.0   # seconds
-PAGE_LOAD_TIMEOUT = 30000  # ms (Playwright)
-HEADLESS = True            # Set False to watch the browser
+PAGE_LOAD_TIMEOUT = 90000  # ms — Angular apps are slow; use 90s
+JS_SETTLE_WAIT   = 8       # seconds to wait after page load for Angular to render
+HEADLESS = True            # Set False to watch the browser (requires display)
 
 # ── Logging ────────────────────────────────────────────────────────────────────
 SCRAPE_LOG = LOGS_DIR / "scrape.log"
