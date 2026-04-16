@@ -138,64 +138,72 @@ def find_subpage_paths(data: dict) -> list[str]:
 
 # ── Per-series discovery ───────────────────────────────────────────────────────
 
+def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> set[str]:
+    """
+    Fetch a URL and all its paginated variants (?page=2, ?page=3, …).
+    Returns all slugs found across all pages.
+    """
+    slugs: set[str] = set()
+    for page_num in range(1, 200):  # generous upper bound
+        url = base_url if page_num == 1 else f"{base_url}?page={page_num}"
+        html = fetch_html(client, url)
+        if not html:
+            break
+        before = len(slugs)
+        slugs.update(mine_slugs_from_html(html))
+        data = extract_next_data(html)
+        if data:
+            mine_slugs_recursive(data, slugs)
+        new = len(slugs) - before
+        log.info(f"  {label} p{page_num}: +{new} slugs (total {len(slugs)})")
+        if new == 0:
+            break  # no new slugs = end of pagination
+        time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
+    return slugs
+
+
 def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[str]:
     all_slugs: set[str] = set()
     console.print(f"\n[bold cyan]Discovering:[/] {series}")
 
-    # Step 1: Fetch the series index page
+    # Step 1: Fetch series index page to find year/volume sub-pages
     html = fetch_html(client, browse_url)
     if not html:
         log.error(f"Could not fetch {browse_url}")
         return []
 
-    # Mine slugs from raw HTML
+    data = extract_next_data(html)
+    if not data:
+        log.warning(f"No __NEXT_DATA__ on {browse_url}")
+        return []
+
+    # Mine slugs directly on series page (usually 0 but worth checking)
+    mine_slugs_recursive(data, all_slugs)
     all_slugs.update(mine_slugs_from_html(html))
 
-    # Extract __NEXT_DATA__
-    data = extract_next_data(html)
-    if data:
-        mine_slugs_recursive(data, all_slugs)
-        console.print(f"  Series page: {len(all_slugs)} slugs found in __NEXT_DATA__")
+    # Step 2: Find year/volume sub-pages and crawl each with pagination
+    subpages = find_subpage_paths(data)
 
-        # Step 2: Find and fetch volume sub-pages
-        subpages = find_subpage_paths(data)
-        if subpages:
-            console.print(f"  Found {len(subpages)} volume sub-pages to crawl")
-            for sub_path in subpages:
-                sub_url = BASE_URL + sub_path if not sub_path.startswith("http") else sub_path
-                log.info(f"  Fetching volume: {sub_url}")
-                sub_html = fetch_html(client, sub_url)
-                if sub_html:
-                    before = len(all_slugs)
-                    all_slugs.update(mine_slugs_from_html(sub_html))
-                    sub_data = extract_next_data(sub_html)
-                    if sub_data:
-                        mine_slugs_recursive(sub_data, all_slugs)
-                    new = len(all_slugs) - before
-                    if new:
-                        console.print(f"    {sub_path}: +{new} slugs")
-                time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
-    else:
-        log.warning(f"No __NEXT_DATA__ found on {browse_url}")
+    if subpages:
+        # Prefer year-based pages over volume pages to avoid duplicates
+        year_pages = [p for p in subpages if re.search(r'/\d{4}$|/pre\d+$', p)]
+        vol_pages  = [p for p in subpages if p not in year_pages]
+        ordered = year_pages if year_pages else vol_pages
 
-    # Step 3: Try paginated listing if zero slugs found
-    if not all_slugs:
-        console.print(f"  [yellow]No slugs on series page, trying paginated API…[/]")
-        for page_num in range(1, 30):
-            paged_url = f"{browse_url}?page={page_num}"
-            p_html = fetch_html(client, paged_url)
-            if not p_html:
-                break
+        console.print(f"  {len(ordered)} sub-pages to crawl ({'year' if year_pages else 'volume'}-based)")
+
+        for sub_path in ordered:
+            sub_url = BASE_URL + sub_path
             before = len(all_slugs)
-            all_slugs.update(mine_slugs_from_html(p_html))
-            p_data = extract_next_data(p_html)
-            if p_data:
-                mine_slugs_recursive(p_data, all_slugs)
-            new = len(all_slugs) - before
-            if new == 0:
-                break
-            console.print(f"  Page {page_num}: +{new} slugs")
-            time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
+            new_slugs = fetch_all_pages(client, sub_url, sub_path)
+            all_slugs.update(new_slugs)
+            added = len(all_slugs) - before
+            console.print(f"  {sub_path}: +{added} slugs")
+
+    else:
+        # No sub-pages found — try paginating the series root directly
+        console.print(f"  No sub-pages found, paginating series root…")
+        all_slugs.update(fetch_all_pages(client, browse_url, series))
 
     console.print(f"  [green]Total: {len(all_slugs)} slugs for {series}[/]")
     return sorted(all_slugs)
