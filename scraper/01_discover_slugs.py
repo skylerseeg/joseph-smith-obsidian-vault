@@ -203,49 +203,80 @@ def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[
 
 # ── Test mode ─────────────────────────────────────────────────────────────────
 
-def run_test(client: httpx.Client) -> None:
-    url = f"{BASE_URL}/the-papers/documents"
-    console.print(f"\n[bold]Test: fetching {url}[/]")
+def inspect_page(client: httpx.Client, url: str, label: str) -> dict | None:
+    console.print(f"\n[bold]── {label} ──[/]")
+    console.print(f"URL: {url}")
     html = fetch_html(client, url)
     if not html:
-        console.print("[red]Failed to fetch page[/]")
-        return
-
-    console.print(f"HTML length: {len(html)} chars")
-
+        console.print("[red]Failed to fetch[/]")
+        return None
+    console.print(f"HTML: {len(html)} chars")
     data = extract_next_data(html)
     if not data:
-        console.print("[red]No __NEXT_DATA__ found[/]")
-        return
+        console.print("[red]No __NEXT_DATA__[/]")
+        return None
+    console.print(f"__NEXT_DATA__: {len(json.dumps(data))} chars")
 
-    console.print(f"\n[green]Found __NEXT_DATA__:[/] {len(json.dumps(data))} chars")
-    console.print("\n[bold]Top-level keys:[/]")
-    pprint(list(data.keys()))
-
-    console.print("\n[bold]pageProps keys:[/]")
     pp = data.get("props", {}).get("pageProps", {})
-    pprint(list(pp.keys()))
 
-    # Print the full structure (truncated)
-    console.print("\n[bold]Full __NEXT_DATA__ (first 3000 chars):[/]")
-    console.print(json.dumps(data, indent=2)[:3000])
+    # Print docDetails — this is the document listing
+    doc_details = pp.get("docDetails")
+    if doc_details:
+        console.print(f"\n[green]docDetails type:[/] {type(doc_details).__name__}")
+        if isinstance(doc_details, dict):
+            console.print(f"docDetails keys: {list(doc_details.keys())}")
+            console.print(json.dumps(doc_details, indent=2)[:3000])
+        elif isinstance(doc_details, list):
+            console.print(f"docDetails length: {len(doc_details)}")
+            console.print(json.dumps(doc_details[:3], indent=2))
+    else:
+        console.print("[yellow]No docDetails key[/]")
+        console.print(f"pageProps keys: {list(pp.keys())}")
+        # Print first 2000 chars of pageProps to find where docs are
+        console.print(json.dumps(pp, indent=2)[:2000])
 
     # Mine slugs
     slugs: set[str] = set()
     mine_slugs_recursive(data, slugs)
-    console.print(f"\n[bold]Slugs found:[/] {len(slugs)}")
-    for s in sorted(slugs)[:20]:
+    console.print(f"\nSlugs found: {len(slugs)}")
+    for s in sorted(slugs)[:15]:
         console.print(f"  {s}")
 
-    # Find subpages
-    subpages = find_subpage_paths(data)
-    console.print(f"\n[bold]Volume sub-pages found:[/] {len(subpages)}")
-    for p in subpages:
-        console.print(f"  {p}")
+    return data
 
-    # Save full data for offline inspection
-    Path("nextdata_test.json").write_text(json.dumps(data, indent=2))
-    console.print("\n[dim]Full __NEXT_DATA__ saved → nextdata_test.json[/]")
+
+def run_test(client: httpx.Client) -> None:
+    # Test 1: series index page
+    data = inspect_page(client, f"{BASE_URL}/the-papers/documents", "Documents series index")
+    if data:
+        Path("nextdata_series.json").write_text(json.dumps(data, indent=2))
+        console.print("[dim]Saved → nextdata_series.json[/]")
+
+    # Test 2: year sub-page (1830 — smallest year, fastest)
+    data2 = inspect_page(client, f"{BASE_URL}/the-papers/documents/1830", "Documents / 1830 year page")
+    if data2:
+        Path("nextdata_1830.json").write_text(json.dumps(data2, indent=2))
+        console.print("[dim]Saved → nextdata_1830.json[/]")
+
+    # Test 3: probe the internal API directly
+    console.print("\n[bold]── Internal API probe ──[/]")
+    api_base = "https://jsp-api.pvu.cf.churchofjesuschrist.org"
+    api_probes = [
+        f"{api_base}/documents",
+        f"{api_base}/papers",
+        f"{api_base}/api/documents",
+        f"{api_base}/api/papers",
+        f"{api_base}/paper-summary",
+        f"{api_base}/the-papers/documents",
+    ]
+    for api_url in api_probes:
+        try:
+            r = client.get(api_url, headers=HEADERS, timeout=10, follow_redirects=True)
+            console.print(f"  {r.status_code}  {api_url}  [{r.headers.get('content-type', '?')}]  {len(r.text)} chars")
+            if r.status_code == 200 and "json" in r.headers.get("content-type", ""):
+                console.print(f"    Preview: {r.text[:300]}")
+        except Exception as e:
+            console.print(f"  ERR  {api_url}  {e}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
