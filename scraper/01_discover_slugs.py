@@ -1,17 +1,23 @@
 #!/usr/bin/env python3
 """
-Phase 1 — Slug Discovery
+Phase 1 — Slug Discovery (Next.js edition)
 
-Strategy: intercept the Angular app's internal API calls to capture the
-document list JSON directly, rather than waiting for links to render in HTML.
-Falls back to mining raw HTML for /paper-summary/ slugs if no API found.
+The JSPP site is built on Next.js. Every page embeds its data in a
+<script id="__NEXT_DATA__"> JSON blob in the initial HTML response.
+We extract that JSON directly — no browser, no JavaScript, no timeouts.
+
+Strategy:
+  1. Fetch each series page with httpx (fast, no Playwright needed)
+  2. Extract __NEXT_DATA__ JSON
+  3. Recursively mine it for all document slugs
+  4. If a series page links to volume sub-pages, fetch those too
+  5. Fall back to Playwright only if httpx is blocked
 
 Usage:
     python 01_discover_slugs.py
-    python 01_discover_slugs.py --series documents journals
+    python 01_discover_slugs.py --series documents
     python 01_discover_slugs.py --reset
-    python 01_discover_slugs.py --test           # connectivity + API sniff
-    python 01_discover_slugs.py --calendar       # use calendar-of-documents page
+    python 01_discover_slugs.py --test         # test one page, print structure
 """
 
 import argparse
@@ -20,18 +26,18 @@ import json
 import logging
 import random
 import re
+import time
 from pathlib import Path
+from typing import Any
 
-from playwright.async_api import async_playwright, Page, Request, Response, TimeoutError as PWTimeout
+import httpx
 from rich.console import Console
+from rich.pretty import pprint
 
 from config import (
     BASE_URL,
     SERIES_BROWSE_URLS,
     SLUGS_DIR,
-    PAGE_LOAD_TIMEOUT,
-    JS_SETTLE_WAIT,
-    HEADLESS,
     REQUEST_DELAY_MIN,
     REQUEST_DELAY_MAX,
     SCRAPE_LOG,
@@ -46,153 +52,208 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 console = Console()
 
-SLUG_RE = re.compile(r"/paper-summary/([^/?#\s\"'<>]+)")
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.5",
+}
+
+SLUG_RE = re.compile(r"/paper-summary/([^/?#\s\"'<>\\]+)")
+NEXT_DATA_RE = re.compile(
+    r'<script id="__NEXT_DATA__" type="application/json">(.*?)</script>',
+    re.DOTALL,
+)
 
 
-# ── Page loading ───────────────────────────────────────────────────────────────
+# ── HTTP fetch ─────────────────────────────────────────────────────────────────
 
-async def load_page(page: Page, url: str, settle: int = JS_SETTLE_WAIT) -> bool:
+def fetch_html(client: httpx.Client, url: str, retries: int = 3) -> str | None:
+    for attempt in range(retries):
+        try:
+            r = client.get(url, headers=HEADERS, follow_redirects=True, timeout=30)
+            if r.status_code == 200:
+                return r.text
+            log.warning(f"HTTP {r.status_code} for {url}")
+            return None
+        except Exception as e:
+            log.warning(f"Attempt {attempt+1} failed for {url}: {e}")
+            time.sleep(2 ** attempt)
+    return None
+
+
+def extract_next_data(html: str) -> dict | None:
+    m = NEXT_DATA_RE.search(html)
+    if not m:
+        return None
     try:
-        await page.goto(url, wait_until="load", timeout=PAGE_LOAD_TIMEOUT)
-        await asyncio.sleep(settle)
-        return True
-    except PWTimeout:
-        log.warning(f"'load' timeout on {url}, trying domcontentloaded…")
-    try:
-        await page.goto(url, wait_until="domcontentloaded", timeout=PAGE_LOAD_TIMEOUT)
-        await asyncio.sleep(settle + 5)
-        return True
-    except PWTimeout:
-        log.error(f"Total timeout on {url}")
-        return False
+        return json.loads(m.group(1))
+    except json.JSONDecodeError as e:
+        log.error(f"Failed to parse __NEXT_DATA__: {e}")
+        return None
 
 
-# ── API interception ───────────────────────────────────────────────────────────
+# ── Slug mining ────────────────────────────────────────────────────────────────
 
-async def sniff_api_for_slugs(page: Page, url: str, wait_seconds: int = 15) -> tuple[list[str], list[str]]:
+def mine_slugs_recursive(obj: Any, found: set[str]) -> None:
+    """Recursively walk any JSON structure mining paper-summary slugs."""
+    if isinstance(obj, str):
+        for m in SLUG_RE.finditer(obj):
+            found.add(m.group(1))
+    elif isinstance(obj, dict):
+        for v in obj.values():
+            mine_slugs_recursive(v, found)
+    elif isinstance(obj, list):
+        for item in obj:
+            mine_slugs_recursive(item, found)
+
+
+def mine_slugs_from_html(html: str) -> set[str]:
+    """Mine all paper-summary slugs from raw HTML (catches all occurrences)."""
+    return set(SLUG_RE.findall(html))
+
+
+# ── Volume sub-page discovery ─────────────────────────────────────────────────
+
+def find_subpage_paths(data: dict) -> list[str]:
     """
-    Load a page while intercepting all JSON API responses.
-    Returns (slugs_found, api_urls_seen).
+    Extract any /the-papers/* sub-paths from __NEXT_DATA__ that look like
+    volume or sub-series pages (e.g. /the-papers/documents/jspd1).
     """
-    api_responses: list[dict] = []
-    api_urls: list[str] = []
-
-    async def handle_response(response: Response):
-        rurl = response.url
-        ctype = response.headers.get("content-type", "")
-        if "json" in ctype or rurl.endswith(".json"):
-            api_urls.append(rurl)
-            try:
-                body = await response.json()
-                api_responses.append({"url": rurl, "body": body})
-            except Exception:
-                pass
-
-    page.on("response", handle_response)
-
-    ok = await load_page(page, url, settle=wait_seconds)
-    page.remove_listener("response", handle_response)
-
-    if not ok:
-        return [], api_urls
-
-    # Mine slugs from all captured API responses
-    slugs: set[str] = set()
-    for entry in api_responses:
-        raw = json.dumps(entry["body"])
-        for m in SLUG_RE.finditer(raw):
-            slugs.add(m.group(1))
-
-    # Also mine the rendered HTML
-    html = await page.content()
-    for m in SLUG_RE.finditer(html):
-        slugs.add(m.group(1))
-
-    return sorted(slugs), api_urls
+    raw = json.dumps(data)
+    paths = re.findall(r'"/the-papers/[^"]+/[^"]{4,}"', raw)
+    paths = [p.strip('"') for p in paths]
+    # Filter to paths that look like volume pages (not just series roots)
+    seen = set(SERIES_BROWSE_URLS.values())
+    result = []
+    for p in paths:
+        full = BASE_URL + p if not p.startswith("http") else p
+        if full not in seen and "/the-papers/" in p:
+            result.append(p)
+    return sorted(set(result))
 
 
-# ── Calendar of documents ──────────────────────────────────────────────────────
+# ── Per-series discovery ───────────────────────────────────────────────────────
 
-async def slugs_from_calendar(page: Page, debug: bool = False) -> list[str]:
-    """
-    The /reference/calendar-of-documents page is a comprehensive chronological
-    index. Mine it for every paper-summary slug.
-    """
-    console.print("\n[bold cyan]Mining calendar-of-documents…[/]")
-    url = f"{BASE_URL}/reference/calendar-of-documents"
-    slugs, apis = await sniff_api_for_slugs(page, url, wait_seconds=20)
+def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[str]:
+    all_slugs: set[str] = set()
+    console.print(f"\n[bold cyan]Discovering:[/] {series}")
 
-    if debug:
-        console.print(f"  API endpoints hit: {len(apis)}")
-        for a in apis[:20]:
-            console.print(f"    {a}")
+    # Step 1: Fetch the series index page
+    html = fetch_html(client, browse_url)
+    if not html:
+        log.error(f"Could not fetch {browse_url}")
+        return []
 
-    console.print(f"  Found {len(slugs)} slugs from calendar")
-    return slugs
+    # Mine slugs from raw HTML
+    all_slugs.update(mine_slugs_from_html(html))
+
+    # Extract __NEXT_DATA__
+    data = extract_next_data(html)
+    if data:
+        mine_slugs_recursive(data, all_slugs)
+        console.print(f"  Series page: {len(all_slugs)} slugs found in __NEXT_DATA__")
+
+        # Step 2: Find and fetch volume sub-pages
+        subpages = find_subpage_paths(data)
+        if subpages:
+            console.print(f"  Found {len(subpages)} volume sub-pages to crawl")
+            for sub_path in subpages:
+                sub_url = BASE_URL + sub_path if not sub_path.startswith("http") else sub_path
+                log.info(f"  Fetching volume: {sub_url}")
+                sub_html = fetch_html(client, sub_url)
+                if sub_html:
+                    before = len(all_slugs)
+                    all_slugs.update(mine_slugs_from_html(sub_html))
+                    sub_data = extract_next_data(sub_html)
+                    if sub_data:
+                        mine_slugs_recursive(sub_data, all_slugs)
+                    new = len(all_slugs) - before
+                    if new:
+                        console.print(f"    {sub_path}: +{new} slugs")
+                time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
+    else:
+        log.warning(f"No __NEXT_DATA__ found on {browse_url}")
+
+    # Step 3: Try paginated listing if zero slugs found
+    if not all_slugs:
+        console.print(f"  [yellow]No slugs on series page, trying paginated API…[/]")
+        for page_num in range(1, 30):
+            paged_url = f"{browse_url}?page={page_num}"
+            p_html = fetch_html(client, paged_url)
+            if not p_html:
+                break
+            before = len(all_slugs)
+            all_slugs.update(mine_slugs_from_html(p_html))
+            p_data = extract_next_data(p_html)
+            if p_data:
+                mine_slugs_recursive(p_data, all_slugs)
+            new = len(all_slugs) - before
+            if new == 0:
+                break
+            console.print(f"  Page {page_num}: +{new} slugs")
+            time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
+
+    console.print(f"  [green]Total: {len(all_slugs)} slugs for {series}[/]")
+    return sorted(all_slugs)
 
 
 # ── Test mode ─────────────────────────────────────────────────────────────────
 
-async def run_test(page: Page) -> None:
-    console.print("\n[bold]API sniff test — documents browse page[/]")
+def run_test(client: httpx.Client) -> None:
     url = f"{BASE_URL}/the-papers/documents"
-    slugs, apis = await sniff_api_for_slugs(page, url, wait_seconds=20)
+    console.print(f"\n[bold]Test: fetching {url}[/]")
+    html = fetch_html(client, url)
+    if not html:
+        console.print("[red]Failed to fetch page[/]")
+        return
 
-    console.print(f"\n[bold]API endpoints intercepted ({len(apis)}):[/]")
-    for a in apis:
-        console.print(f"  {a}")
+    console.print(f"HTML length: {len(html)} chars")
 
-    console.print(f"\n[bold]Slugs found ({len(slugs)}):[/]")
-    for s in sorted(slugs)[:30]:
+    data = extract_next_data(html)
+    if not data:
+        console.print("[red]No __NEXT_DATA__ found[/]")
+        return
+
+    console.print(f"\n[green]Found __NEXT_DATA__:[/] {len(json.dumps(data))} chars")
+    console.print("\n[bold]Top-level keys:[/]")
+    pprint(list(data.keys()))
+
+    console.print("\n[bold]pageProps keys:[/]")
+    pp = data.get("props", {}).get("pageProps", {})
+    pprint(list(pp.keys()))
+
+    # Print the full structure (truncated)
+    console.print("\n[bold]Full __NEXT_DATA__ (first 3000 chars):[/]")
+    console.print(json.dumps(data, indent=2)[:3000])
+
+    # Mine slugs
+    slugs: set[str] = set()
+    mine_slugs_recursive(data, slugs)
+    console.print(f"\n[bold]Slugs found:[/] {len(slugs)}")
+    for s in sorted(slugs)[:20]:
         console.print(f"  {s}")
 
-    console.print(f"\n[bold]Also testing calendar page…[/]")
-    url2 = f"{BASE_URL}/reference/calendar-of-documents"
-    slugs2, apis2 = await sniff_api_for_slugs(page, url2, wait_seconds=20)
-    console.print(f"  API endpoints: {len(apis2)}")
-    for a in apis2[:10]:
-        console.print(f"  {a}")
-    console.print(f"  Slugs: {len(slugs2)}")
-    for s in sorted(slugs2)[:20]:
-        console.print(f"  {s}")
+    # Find subpages
+    subpages = find_subpage_paths(data)
+    console.print(f"\n[bold]Volume sub-pages found:[/] {len(subpages)}")
+    for p in subpages:
+        console.print(f"  {p}")
 
-
-# ── Series discovery ───────────────────────────────────────────────────────────
-
-async def discover_series(page: Page, series: str, browse_url: str) -> list[str]:
-    all_slugs: set[str] = set()
-    page_num = 1
-    console.print(f"\n[bold cyan]Discovering:[/] {series}")
-
-    while True:
-        url = browse_url if page_num == 1 else f"{browse_url}?page={page_num}"
-        log.info(f"  {series} p{page_num}: {url}")
-
-        slugs, apis = await sniff_api_for_slugs(page, url, wait_seconds=15)
-
-        if page_num == 1 and apis:
-            log.info(f"  {len(apis)} API calls intercepted for {series}")
-
-        new = set(slugs) - all_slugs
-        if not new:
-            log.info(f"  No new slugs on page {page_num} — done")
-            break
-
-        all_slugs.update(new)
-        console.print(f"  Page {page_num}: +{len(new)} slugs (total {len(all_slugs)})")
-        page_num += 1
-        await asyncio.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
-
-    return sorted(all_slugs)
+    # Save full data for offline inspection
+    Path("nextdata_test.json").write_text(json.dumps(data, indent=2))
+    console.print("\n[dim]Full __NEXT_DATA__ saved → nextdata_test.json[/]")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-async def main(
+def main(
     series_filter: list[str] | None = None,
     reset: bool = False,
     test: bool = False,
-    use_calendar: bool = False,
 ) -> None:
     targets = {
         k: v for k, v in SERIES_BROWSE_URLS.items()
@@ -202,36 +263,13 @@ async def main(
     if reset:
         for series in targets:
             p = SLUGS_DIR / f"{series}.json"
-            if p.exists() and json.loads(p.read_text()) == []:
+            if p.exists():
                 p.unlink()
-                console.print(f"[yellow]Deleted empty stub:[/] {p.name}")
+                console.print(f"[yellow]Deleted:[/] {p.name}")
 
-    async with async_playwright() as pw:
-        browser = await pw.chromium.launch(headless=HEADLESS)
-        context = await browser.new_context(
-            user_agent=(
-                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-                "AppleWebKit/537.36 (KHTML, like Gecko) "
-                "Chrome/124.0.0.0 Safari/537.36"
-            ),
-            viewport={"width": 1280, "height": 900},
-        )
-        page = await context.new_page()
-
+    with httpx.Client() as client:
         if test:
-            await run_test(page)
-            await browser.close()
-            return
-
-        if use_calendar:
-            all_slugs = await slugs_from_calendar(page)
-            out = SLUGS_DIR / "calendar-all.json"
-            out.write_text(json.dumps(sorted(all_slugs), indent=2))
-            console.print(f"[green]Saved {len(all_slugs)} slugs → {out.name}[/]")
-            # Write master
-            master = [{"series": "calendar", "slug": s} for s in all_slugs]
-            (SLUGS_DIR / "master.json").write_text(json.dumps(master, indent=2))
-            await browser.close()
+            run_test(client)
             return
 
         grand_total = 0
@@ -247,13 +285,10 @@ async def main(
                 else:
                     out_path.unlink()
 
-            slugs = await discover_series(page, series, browse_url)
+            slugs = discover_series(client, series, browse_url)
             out_path.write_text(json.dumps(slugs, indent=2))
-            console.print(f"[green]Saved[/] {len(slugs)} slugs → {out_path.name}")
             grand_total += len(slugs)
-            await asyncio.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
-
-        await browser.close()
+            time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
 
     console.print(f"\n[bold green]Done.[/] Total slugs: {grand_total}")
 
@@ -271,7 +306,6 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--series", nargs="+", choices=list(SERIES_BROWSE_URLS.keys()))
     parser.add_argument("--reset", action="store_true")
-    parser.add_argument("--test", action="store_true", help="Sniff API calls, report what's found")
-    parser.add_argument("--calendar", action="store_true", help="Mine calendar-of-documents for all slugs")
+    parser.add_argument("--test", action="store_true", help="Inspect __NEXT_DATA__ structure of documents page")
     args = parser.parse_args()
-    asyncio.run(main(args.series, reset=args.reset, test=args.test, use_calendar=args.calendar))
+    main(args.series, reset=args.reset, test=args.test)
