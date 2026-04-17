@@ -64,13 +64,21 @@ def make_filename(doc: dict) -> str:
     abbrev = SERIES_ABBREV.get(series, series.capitalize()[:5])
 
     # Normalize date to YYYY-MM-DD or YYYY
-    date_str = doc.get("date", "")
-    m = re.search(r"(\d{4})[^\d]*(\d{1,2})?[^\d]*(\d{1,2})?", date_str or "")
+    # Match YYYY optionally followed by a 1-2 digit month/day, but stop
+    # before another 4-digit year (handles "1832–1834" correctly).
+    date_str = doc.get("date", "") or ""
+    m = re.search(r"(\d{4})(?:[^\d](\d{1,2})(?:[^\d](\d{1,2})(?!\d))?)?(?!\d)", date_str)
     if m:
         y = m.group(1)
         mo = m.group(2) or "00"
-        d = m.group(3) or "00"
-        date_part = f"{y}-{int(mo):02d}-{int(d):02d}" if mo != "00" else y
+        d_val = m.group(3) or "00"
+        # Reject month/day values that look like a year fragment (>12 or >31)
+        if mo != "00" and int(mo) > 12:
+            mo = "00"
+            d_val = "00"
+        elif d_val != "00" and int(d_val) > 31:
+            d_val = "00"
+        date_part = f"{y}-{int(mo):02d}-{int(d_val):02d}" if mo != "00" else y
     else:
         date_part = "undated"
 
@@ -87,9 +95,9 @@ def make_filename(doc: dict) -> str:
 NOTE_TEMPLATE = """\
 # JSPP — {{ title }}
 
-**Tags:** #source/joseph-smith-papers {{ series_tag }}{% if era_tag %} {{ era_tag }}{% endif %}
+**Tags:** #source/joseph-smith-papers {{ series_tag }}{{ " " + era_tag if era_tag else "" }}
 **Date:** {{ date or "Unknown" }}
-**Series:** {{ series_display }}{% if volume %}, {{ volume }}{% endif %}
+**Series:** {{ series_display }}{{ ", " + volume if volume else "" }}
 **Document Type:** {{ doc_type or "Document" }}
 **Location:** {{ location or "Unknown" }}
 **Source URL:** {{ url }}
