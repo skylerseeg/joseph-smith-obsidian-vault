@@ -20,6 +20,7 @@ import random
 import re
 import time
 from datetime import datetime, timezone
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Any
 
@@ -38,6 +39,7 @@ from config import (
     REQUEST_DELAY_MIN,
     REQUEST_DELAY_MAX,
     PRIORITY_SLUGS,
+    PRIORITY_SERIES,
     SCRAPE_LOG,
     ERROR_LOG,
 )
@@ -165,49 +167,49 @@ def find_all(obj: Any, key: str, results: list | None = None) -> list:
 
 
 SLUG_RE = re.compile(r"/paper-summary/([^/?#\s\"'<>\\]+)")
+CDN_IMAGE_BASE = "https://cdn.churchofjesuschrist.org/ch/jsp/images/content/restricted"
 
 
-# Keys in pageProps that are UI localization dicts, not document data.
-# Excluding them prevents find_key from returning false matches like
-# metaStrings["title"] == "Title" or metaStrings["People"] == "People".
-_UI_KEYS = frozenset({"metaStrings", "layoutStrings", "env", "searchOptions"})
+# ── HTML stripping ─────────────────────────────────────────────────────────────
+
+class _TextExtractor(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__()
+        self._parts: list[str] = []
+
+    def handle_data(self, data: str) -> None:
+        self._parts.append(data)
+
+    def get_text(self) -> str:
+        return re.sub(r"\s+", " ", "".join(self._parts)).strip()
 
 
-def _doc_scope(pp: dict) -> dict:
-    """Return pageProps with UI-only keys stripped out."""
-    return {k: v for k, v in pp.items() if k not in _UI_KEYS}
+def strip_html(text: str) -> str:
+    """Strip HTML tags and normalize whitespace."""
+    if not text or "<" not in text:
+        return (text or "").strip()
+    try:
+        ex = _TextExtractor()
+        ex.feed(text)
+        return ex.get_text()
+    except Exception:
+        return re.sub(r"<[^>]+>", " ", text).strip()
 
 
-def _extract_people(raw_items: list) -> list[str]:
-    names: list[str] = []
-    for item in raw_items:
-        if isinstance(item, str) and item:
-            names.append(item)
-        elif isinstance(item, dict):
-            name = item.get("name") or item.get("label") or item.get("displayName")
-            if name:
-                names.append(name)
-        elif isinstance(item, list):
-            for sub in item:
-                if isinstance(sub, str):
-                    names.append(sub)
-                elif isinstance(sub, dict):
-                    name = sub.get("name") or sub.get("label")
-                    if name:
-                        names.append(name)
-    return names
-
+# ── Document parsing ───────────────────────────────────────────────────────────
+# Confirmed pageProps structure (from journal-1832-1834 inspection):
+#   summary.documentSeriesTitle  → document title
+#   summary.date                 → page-level date
+#   summary.clearText            → transcript HTML for this page
+#   summary.expandedText         → expanded transcript HTML (preferred)
+#   summary.historicalIntro      → editorial introduction (HTML)
+#   summary.sourceNotes          → source notes (array or str)
+#   summary.footnotes            → footnote array
+#   summary.numberOfPages        → total page count (int)
+#   gallery                      → list of {image, page, label, href} per page
+#   tableOfContents              → list of {date, pageTitle, intPageNumber, …}
 
 def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
-    """
-    Parse __NEXT_DATA__ from a paper-summary page into a JSPPDocument.
-
-    pageProps structure (confirmed on paper-summary pages):
-      summary  — document metadata: title, date, type, people, places, source note
-      gallery  — facsimile viewer pages (image URLs, page count)
-      tableOfContents — document sections
-      metaStrings / layoutStrings — UI i18n strings (EXCLUDED from search)
-    """
     doc = JSPPDocument(
         slug=slug,
         series=series,
@@ -216,76 +218,69 @@ def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
     )
 
     pp = data.get("props", {}).get("pageProps", {})
-    scope = _doc_scope(pp)
-
-    # The 'summary' sub-object holds most document metadata.
-    # Search it first so we get document values, not UI strings.
     summary = pp.get("summary") or {}
-    gallery = pp.get("gallery") or {}
-
-    def _first(keys: list[str], obj: dict, fallback: dict | None = None, *, min_len: int = 1) -> str | None:
-        for key in keys:
-            val = find_key(obj, key)
-            if not val and fallback:
-                val = find_key(fallback, key)
-            if isinstance(val, str) and len(val) >= min_len:
-                return val.strip()
-        return None
+    gallery = pp.get("gallery") or []
+    toc = pp.get("tableOfContents") or []
 
     # ── Title ──────────────────────────────────────────────────────────────────
-    title = _first(["title", "documentTitle", "paperTitle", "heading", "label"], summary, scope, min_len=4)
-    if title:
-        doc.title = title
+    doc.title = (
+        summary.get("documentSeriesTitle") or
+        summary.get("editorialTitle") or
+        summary.get("cleanEditorialTitle") or
+        ""
+    ).strip()
 
     # ── Date ───────────────────────────────────────────────────────────────────
-    date_val = _first(["date", "documentDate", "dateString", "pubDate", "displayDate"], summary, scope)
-    if date_val:
-        doc.date = date_val
+    # summary.date is the date of the current page. Derive document range from TOC.
+    if isinstance(toc, list) and toc:
+        start = toc[0].get("date", "")
+        end = toc[-1].get("date", "")
+        if start and end and start != end:
+            doc.date = f"{start} – {end}"
+        elif start:
+            doc.date = start
+    if not doc.date and isinstance(summary.get("date"), str):
+        doc.date = summary["date"].strip()
 
-    # ── Document type — deliberately exclude "type" (matches JSON schema fields)
-    doc_type = _first(["documentType", "docType", "genre", "category", "docClass"], summary, scope)
-    if doc_type:
-        doc.doc_type = doc_type
+    # ── Transcript (HTML → plain text) ─────────────────────────────────────────
+    raw = summary.get("expandedText") or summary.get("clearText") or ""
+    if raw:
+        doc.transcript = strip_html(raw)
 
-    # ── Location ───────────────────────────────────────────────────────────────
-    location = _first(["location", "place", "originPlace", "origin"], summary, scope)
-    if location:
-        doc.location = location
+    # ── Historical intro → source_note ─────────────────────────────────────────
+    raw_intro = summary.get("historicalIntro") or ""
+    if raw_intro:
+        doc.source_note = strip_html(raw_intro)
+    else:
+        src = summary.get("sourceNotes") or ""
+        if isinstance(src, list):
+            doc.source_note = " ".join(
+                strip_html(s.get("text") or s) if isinstance(s, dict) else strip_html(str(s))
+                for s in src[:3]
+            )
+        elif isinstance(src, str):
+            doc.source_note = strip_html(src)
 
-    # ── Transcript ─────────────────────────────────────────────────────────────
-    for key in ["transcript", "transcription", "documentText", "text", "content", "body", "fullText"]:
-        val = find_key(summary, key) or find_key(scope, key)
-        if val:
-            extracted = text_from(val).strip()
-            if len(extracted) > 50:
-                doc.transcript = extracted
-                break
+    # ── Footnotes ──────────────────────────────────────────────────────────────
+    for fn in (summary.get("footnotes") or []):
+        if isinstance(fn, dict):
+            doc.footnotes.append({
+                "number": str(fn.get("footnoteId") or fn.get("number") or ""),
+                "text": strip_html(fn.get("text") or fn.get("content") or ""),
+            })
 
-    # ── Source note ────────────────────────────────────────────────────────────
-    note = _first(["sourceNote", "source_note", "historicalIntro", "introduction", "description"],
-                  summary, scope, min_len=20)
-    if note:
-        doc.source_note = note
+    # ── Page count from gallery (each entry = one facsimile page) ──────────────
+    if isinstance(gallery, list) and gallery:
+        doc.page_count = len(gallery)
+    elif isinstance(summary.get("numberOfPages"), int):
+        doc.page_count = summary["numberOfPages"]
 
-    # ── People ─────────────────────────────────────────────────────────────────
-    people_raw = (
-        find_all(summary, "people") + find_all(summary, "persons") +
-        find_all(scope, "people") + find_all(scope, "persons")
-    )
-    doc.people = list(dict.fromkeys(_extract_people(people_raw)))
+    # ── Image URLs ─────────────────────────────────────────────────────────────
+    for entry in (gallery if isinstance(gallery, list) else []):
+        if img := entry.get("image"):
+            doc.image_urls.append(f"{CDN_IMAGE_BASE}{img}")
 
-    # ── Places ─────────────────────────────────────────────────────────────────
-    places_raw = find_all(summary, "places") + find_all(scope, "places") + find_all(scope, "locations")
-    for item in places_raw:
-        if isinstance(item, str) and item:
-            doc.places.append(item)
-        elif isinstance(item, dict):
-            name = item.get("name") or item.get("label")
-            if name:
-                doc.places.append(name)
-    doc.places = list(dict.fromkeys(doc.places))
-
-    # ── Related slugs ──────────────────────────────────────────────────────────
+    # ── Related slugs from full JSON scan ──────────────────────────────────────
     raw_json = json.dumps(data)
     for m in SLUG_RE.finditer(raw_json):
         s = m.group(1)
@@ -293,19 +288,18 @@ def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
             doc.related_slugs.append(s)
     doc.related_slugs = sorted(set(doc.related_slugs))
 
-    # ── Page count (gallery has the facsimile pages) ───────────────────────────
-    page_count = (
-        find_key(gallery, "pageCount") or find_key(gallery, "totalPages") or
-        find_key(pp, "pageCount") or find_key(pp, "totalPages")
-    )
-    if isinstance(page_count, int) and page_count > 0:
-        doc.page_count = page_count
-
     return doc
 
 
+def _page_transcript(pg_data: dict) -> str:
+    """Extract transcript text from a single page's __NEXT_DATA__."""
+    summary = pg_data.get("props", {}).get("pageProps", {}).get("summary") or {}
+    raw = summary.get("expandedText") or summary.get("clearText") or ""
+    return strip_html(raw)
+
+
 def scrape_all_pages(client: httpx.Client, slug: str, series: str) -> JSPPDocument | None:
-    """Fetch page 1 to get structure, then collect transcripts from all pages."""
+    """Fetch page 1, parse metadata, then collect transcripts from remaining pages."""
     url1 = f"{BASE_URL}/paper-summary/{slug}/1"
     html1 = fetch(client, url1)
     if not html1:
@@ -315,25 +309,22 @@ def scrape_all_pages(client: httpx.Client, slug: str, series: str) -> JSPPDocume
     data = extract_next_data(html1)
     if not data:
         log.warning(f"No __NEXT_DATA__ for {slug}")
-        # Still try to save whatever we can
         data = {}
 
     doc = parse_document(data, slug, series)
 
-    # If multi-page, collect additional transcript pages
+    # Collect remaining pages' transcripts
     if doc.page_count > 1:
-        extra = []
+        extra: list[str] = []
         for pg in range(2, doc.page_count + 1):
             pg_html = fetch(client, f"{BASE_URL}/paper-summary/{slug}/{pg}")
             if not pg_html:
                 break
             pg_data = extract_next_data(pg_html)
             if pg_data:
-                for key in ["transcript", "text", "content", "body"]:
-                    val = find_key(pg_data.get("props", {}).get("pageProps", {}), key)
-                    if val:
-                        extra.append(text_from(val).strip())
-                        break
+                text = _page_transcript(pg_data)
+                if text:
+                    extra.append(text)
             time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
         if extra:
             doc.transcript = doc.transcript + "\n\n" + "\n\n".join(extra)
@@ -406,7 +397,19 @@ def main(
         if single_slug:
             queue = [{"series": "unknown", "slug": single_slug}]
         elif priority_only:
-            queue = [{"series": "priority", "slug": s} for s in PRIORITY_SLUGS]
+            master_path = SLUGS_DIR / "master.json"
+            if master_path.exists():
+                all_entries = json.loads(master_path.read_text())
+                slug_map = {e["slug"]: e for e in all_entries}
+                # Start with any confirmed priority slugs
+                pinned = [slug_map[s] for s in PRIORITY_SLUGS if s in slug_map]
+                # Then all entries from priority series (small series, scrape in full first)
+                from_series = [e for e in all_entries if e["series"] in PRIORITY_SERIES
+                                and e["slug"] not in {p["slug"] for p in pinned}]
+                queue = pinned + from_series
+                console.print(f"Priority queue: {len(pinned)} pinned + {len(from_series)} from {PRIORITY_SERIES}")
+            else:
+                queue = [{"series": "priority", "slug": s} for s in PRIORITY_SLUGS]
         else:
             master_path = SLUGS_DIR / "master.json"
             if not master_path.exists():

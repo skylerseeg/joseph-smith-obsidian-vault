@@ -53,26 +53,22 @@ SERIES_TAGS = {
     "financial-records":       "#jspp/financial",
 }
 
-# ── High-priority document slugs ──────────────────────────────────────────────
-# Scrape these first before the full crawl.
+# ── High-priority series ───────────────────────────────────────────────────────
+# When --priority-only is used, slugs from these series are scraped first.
+# The small series (journals 10, histories 22, revelations 20, admin 13) are
+# scraped in full before the large documents series (4,125 slugs).
+PRIORITY_SERIES = ["journals", "histories", "revelations", "administrative-records"]
+
+# Known valid slugs to always move to front of queue (confirmed to exist).
+# Add slugs here only after verifying them against the live site or master.json.
 PRIORITY_SLUGS = [
-    "discourse-29-august-1843",
-    "letter-to-the-church-16-december-1838",
-    "revelation-12-july-1843-d-c-132",
-    "nauvoo-city-council-rough-minute-book-june-1844",
-    "council-of-fifty-minutes-march-1844-january-1846",
     "history-1834-1836",
-    "history-circa-1841",
     "journal-1832-1834",
-    "journal-december-1842-june-1844-book-1",
 ]
 
 # ── Request settings ───────────────────────────────────────────────────────────
 REQUEST_DELAY_MIN = 2.0   # seconds
 REQUEST_DELAY_MAX = 4.0   # seconds
-PAGE_LOAD_TIMEOUT = 90000  # ms — Angular apps are slow; use 90s
-JS_SETTLE_WAIT   = 8       # seconds to wait after page load for Angular to render
-HEADLESS = True            # Set False to watch the browser (requires display)
 
 # ── Logging ────────────────────────────────────────────────────────────────────
 SCRAPE_LOG = LOGS_DIR / "scrape.log"
