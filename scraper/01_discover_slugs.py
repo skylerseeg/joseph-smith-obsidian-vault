@@ -138,6 +138,21 @@ def find_subpage_paths(data: dict) -> list[str]:
 
 # ── Per-series discovery ───────────────────────────────────────────────────────
 
+THE_PAPERS_HREF_RE = re.compile(r'href="(/the-papers/[^"]{6,})"')
+
+
+def find_subpage_paths_from_html(html: str) -> list[str]:
+    """Extract /the-papers/* paths from raw HTML href attributes."""
+    paths = THE_PAPERS_HREF_RE.findall(html)
+    seen = set(SERIES_BROWSE_URLS.values())
+    result = []
+    for p in paths:
+        full = BASE_URL + p
+        if full not in seen:
+            result.append(p)
+    return sorted(set(result))
+
+
 def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> tuple[set[str], list[str]]:
     """
     Fetch a URL and all its paginated variants (?page=2, ?page=3, …).
@@ -157,7 +172,12 @@ def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> tuple[se
         if data:
             mine_slugs_recursive(data, slugs)
             if page_num == 1:
-                p1_sub_paths = find_subpage_paths(data)
+                # Collect sub-pages from both __NEXT_DATA__ and raw HTML hrefs
+                p1_sub_paths = sorted(set(
+                    find_subpage_paths(data) + find_subpage_paths_from_html(html)
+                ))
+        elif page_num == 1 and html:
+            p1_sub_paths = find_subpage_paths_from_html(html)
         new = len(slugs) - before
         log.info(f"  {label} p{page_num}: +{new} slugs (total {len(slugs)})")
         if new == 0:
@@ -186,8 +206,10 @@ def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[
     mine_slugs_recursive(data, all_slugs)
     all_slugs.update(mine_slugs_from_html(html))
 
-    # Step 2: Find year/volume sub-pages and crawl each with pagination
-    subpages = find_subpage_paths(data)
+    # Step 2: Find year/volume sub-pages (from both __NEXT_DATA__ and HTML hrefs)
+    subpages = sorted(set(
+        find_subpage_paths(data) + find_subpage_paths_from_html(html)
+    ))
 
     if subpages:
         # Prefer year-based pages over volume pages to avoid duplicates
@@ -212,6 +234,9 @@ def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[
             before = len(all_slugs)
             new_slugs, child_paths = fetch_all_pages(client, sub_url, sub_path)
             all_slugs.update(new_slugs)
+            added = len(all_slugs) - before
+            console.print(f"  {sub_path}: +{added} slugs")
+
             # If this page had no slugs but has child pages, queue them (up to depth 2)
             if added == 0 and depth < 2 and child_paths:
                 base_path = sub_path.rstrip("/")
