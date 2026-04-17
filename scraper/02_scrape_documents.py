@@ -39,6 +39,7 @@ from config import (
     REQUEST_DELAY_MIN,
     REQUEST_DELAY_MAX,
     PRIORITY_SLUGS,
+    PRIORITY_SERIES,
     SCRAPE_LOG,
     ERROR_LOG,
 )
@@ -396,7 +397,19 @@ def main(
         if single_slug:
             queue = [{"series": "unknown", "slug": single_slug}]
         elif priority_only:
-            queue = [{"series": "priority", "slug": s} for s in PRIORITY_SLUGS]
+            master_path = SLUGS_DIR / "master.json"
+            if master_path.exists():
+                all_entries = json.loads(master_path.read_text())
+                slug_map = {e["slug"]: e for e in all_entries}
+                # Start with any confirmed priority slugs
+                pinned = [slug_map[s] for s in PRIORITY_SLUGS if s in slug_map]
+                # Then all entries from priority series (small series, scrape in full first)
+                from_series = [e for e in all_entries if e["series"] in PRIORITY_SERIES
+                                and e["slug"] not in {p["slug"] for p in pinned}]
+                queue = pinned + from_series
+                console.print(f"Priority queue: {len(pinned)} pinned + {len(from_series)} from {PRIORITY_SERIES}")
+            else:
+                queue = [{"series": "priority", "slug": s} for s in PRIORITY_SLUGS]
         else:
             master_path = SLUGS_DIR / "master.json"
             if not master_path.exists():
