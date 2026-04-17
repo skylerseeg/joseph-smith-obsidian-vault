@@ -138,12 +138,14 @@ def find_subpage_paths(data: dict) -> list[str]:
 
 # ── Per-series discovery ───────────────────────────────────────────────────────
 
-def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> set[str]:
+def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> tuple[set[str], list[str]]:
     """
     Fetch a URL and all its paginated variants (?page=2, ?page=3, …).
-    Returns all slugs found across all pages.
+    Returns (slugs_found, sub_page_paths_from_page1).
+    Sub-page paths are returned so callers can recurse when slugs == 0.
     """
     slugs: set[str] = set()
+    p1_sub_paths: list[str] = []
     for page_num in range(1, 200):  # generous upper bound
         url = base_url if page_num == 1 else f"{base_url}?page={page_num}"
         html = fetch_html(client, url)
@@ -154,16 +156,19 @@ def fetch_all_pages(client: httpx.Client, base_url: str, label: str) -> set[str]
         data = extract_next_data(html)
         if data:
             mine_slugs_recursive(data, slugs)
+            if page_num == 1:
+                p1_sub_paths = find_subpage_paths(data)
         new = len(slugs) - before
         log.info(f"  {label} p{page_num}: +{new} slugs (total {len(slugs)})")
         if new == 0:
             break  # no new slugs = end of pagination
         time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
-    return slugs
+    return slugs, p1_sub_paths
 
 
 def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[str]:
     all_slugs: set[str] = set()
+    visited: set[str] = set()
     console.print(f"\n[bold cyan]Discovering:[/] {series}")
 
     # Step 1: Fetch series index page to find year/volume sub-pages
@@ -192,18 +197,38 @@ def discover_series(client: httpx.Client, series: str, browse_url: str) -> list[
 
         console.print(f"  {len(ordered)} sub-pages to crawl ({'year' if year_pages else 'volume'}-based)")
 
-        for sub_path in ordered:
+        # Depth-aware queue: (path, depth). Legal/financial records have a 3rd tier
+        # (case pages between volume pages and paper-summary docs), so we recurse up
+        # to depth=2 when a page yields 0 slugs but has its own sub-pages.
+        queue: list[tuple[str, int]] = [(p, 0) for p in ordered]
+
+        while queue:
+            sub_path, depth = queue.pop(0)
             sub_url = BASE_URL + sub_path
+            if sub_url in visited:
+                continue
+            visited.add(sub_url)
+
             before = len(all_slugs)
-            new_slugs = fetch_all_pages(client, sub_url, sub_path)
+            new_slugs, child_paths = fetch_all_pages(client, sub_url, sub_path)
             all_slugs.update(new_slugs)
-            added = len(all_slugs) - before
-            console.print(f"  {sub_path}: +{added} slugs")
+            # If this page had no slugs but has child pages, queue them (up to depth 2)
+            if added == 0 and depth < 2 and child_paths:
+                base_path = sub_path.rstrip("/")
+                deeper = [p for p in child_paths if p.startswith(base_path + "/")]
+                if deeper:
+                    log.info(f"  {sub_path}: 0 slugs — queuing {len(deeper)} deeper pages")
+                    for dp in deeper:
+                        if BASE_URL + dp not in visited:
+                            queue.append((dp, depth + 1))
+
+            time.sleep(random.uniform(REQUEST_DELAY_MIN, REQUEST_DELAY_MAX))
 
     else:
         # No sub-pages found — try paginating the series root directly
         console.print(f"  No sub-pages found, paginating series root…")
-        all_slugs.update(fetch_all_pages(client, browse_url, series))
+        new_slugs, _ = fetch_all_pages(client, browse_url, series)
+        all_slugs.update(new_slugs)
 
     console.print(f"  [green]Total: {len(all_slugs)} slugs for {series}[/]")
     return sorted(all_slugs)
@@ -346,5 +371,11 @@ if __name__ == "__main__":
     parser.add_argument("--series", nargs="+", choices=list(SERIES_BROWSE_URLS.keys()))
     parser.add_argument("--reset", action="store_true")
     parser.add_argument("--test", action="store_true", help="Inspect __NEXT_DATA__ structure of documents page")
+    parser.add_argument("--inspect-url", metavar="URL", help="Inspect __NEXT_DATA__ of any URL and exit")
     args = parser.parse_args()
-    main(args.series, reset=args.reset, test=args.test)
+
+    if args.inspect_url:
+        with httpx.Client() as client:
+            inspect_page(client, args.inspect_url, args.inspect_url)
+    else:
+        main(args.series, reset=args.reset, test=args.test)
