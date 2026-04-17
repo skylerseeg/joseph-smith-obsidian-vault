@@ -1,0 +1,1442 @@
+{
+  "props": {
+    "pageProps": {
+      "env": {
+        "date": 1776370917324,
+        "PUBLIC_ADOBE_LAUNCH_URI": "https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js",
+        "PUBLIC_ADOBE_LAUNCH_HIDE_FLICKER": "false",
+        "PUBLIC_IMAGE_PROXY_URL": "https://www.josephsmithpapers.org/",
+        "PUBLIC_IMAGE_BASE_PATH": "bc-jsp",
+        "PUBLIC_CDN_URL": "https://cdn.churchofjesuschrist.org",
+        "PUBLIC_CACHE_CONTROL_MAX_AGE": "1800",
+        "PUBLIC_DEPLOY_ENV": "production",
+        "PUBLIC_API_URL": "https://jsp-api.pvu.cf.churchofjesuschrist.org"
+      },
+      "metaStrings": {
+        "enhancedFacsimileView": "Enhanced Facsimile View",
+        "/Home": "Home",
+        "/news-News": "News",
+        "/news-PageTitle2": "News | Joseph Smith Papers",
+        "/thepapers-MetaAuthor": "The Church Historian\u2019s Press",
+        "/thepapers-MetaDescription": "View the original histories, journals, revelations, and other documents of Joseph Smith, the founding prophet of The Church of Jesus Christ of Latter-day Saints",
+        "/thepapers-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/thepapers-MetaTitle": "The Joseph Smith Papers: The Papers",
+        "/thepapers-PageTitle": "The Joseph Smith Papers: The Papers",
+        "about-the-project": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">About the Project</span><br clear=\"none\" xmlns=\"http://www.w3.org/1999/xhtml\"/>",
+        "add-to": "Add to",
+        "add-to-study-notebook": "Add to study notebook",
+        "additionalAdministrativeRecords": "Additional Administrative Records",
+        "additionalHistories": "Additional Histories",
+        "additionalLegal": "Additional Legal, Business, and Financial Records",
+        "additionalMaterial": "Additional Material",
+        "additionalRevelationAndTranslations": "Additional Revelations and Translations",
+        "address": "Address:",
+        "addressError": "An address must be provided.",
+        "administrativeRecords": "Administrative Records",
+        "administrativeRecordsDescription": "Minutes and other official records",
+        "appendixItems": "Appendix Items",
+        "availableForPurchase": "AVAILABLE FOR PURCHASE",
+        "Bookmark": "Bookmark",
+        "breadcrumb-Administrative": "Administrative Records",
+        "breadcrumb-Documents": "Documents",
+        "breadcrumb-Histories": "Histories",
+        "breadcrumb-Journals": "Journals",
+        "breadcrumb-Legal": "Legal, Business, and Financial Records",
+        "breadcrumb-Other Contemporary Papers": "Other Contemporary Papers",
+        "breadcrumb-Revelations and Translations": "Revelations and Translations",
+        "browse-the-papers": "Browse the Papers",
+        "calendarOfDocs": "Calendar of Documents",
+        "calendarOfDocuments": "Calendar of Documents",
+        "calendarOfDocumentsDescription": "Chronological list of all known Joseph Smith documents, including multiple versions of documents",
+        "cite-this-page": "Cite this page",
+        "city": "City:",
+        "cityError": "A city must be provided.",
+        "clearAll": "Clear All",
+        "contact-us": "Contact Us",
+        "copy-link": "Copy link",
+        "country": "Country:",
+        "doc-search": "Search this document",
+        "DocsV2Intro": "Documents, Volume 2 Introduction: Joseph Smith Documents Dating from July 1831 through January 1833",
+        "DocsV2Part1": "Documents, Volume 2, Part 1 Introduction: Missouri, Summer 1831",
+        "DocsV2Part2": "Documents, Volume 2, Part 2 Introduction: Hiram, Ohio, Fall 1831",
+        "DocsV2Part3": "Documents, Volume 2, Part 3 Introduction: Hiram, Ohio, Winter 1831\u20131832",
+        "DocsV2Part4": "Documents, Volume 2, Part 4 Introduction: Missouri, Indiana, and Ohio, Spring and Summer 1832",
+        "DocsV2Part5": "Documents, Volume 2, Part 5 Introduction: Kirtland, Ohio. Fall 1832 and Winter 1832\u20131833",
+        "documents": "Documents",
+        "documentsAfter1844": "Documents, After 1844",
+        "documentsByEarlyLeadersAndOtherContemporaries": "Forthcoming: selected historical accounts, journal entries, and other documents by early church leaders and other contemporaries of Joseph Smith that shed light on events and themes mentioned in Joseph Smith's papers",
+        "documentsDescription": "Letters, revelations, reports of discourses, minutes, etc.",
+        "DocumentsVolume1IntroductionJosephSmithDocumentsDatingthroughJune1831": "Documents, Volume 1 Introduction: Joseph Smith Documents Dating through June 1831",
+        "DocumentsVolume1Part1IntroductionJuly1828March1829": "Documents, Volume 1, Part 1 Introduction: July 1828\u2013March 1829",
+        "DocumentsVolume1Part2IntroductionApril1829March1830": "Documents, Volume 1, Part 2 Introduction: April 1829\u2013March 1830",
+        "DocumentsVolume1Part3IntroductionAprilSeptember1830": "Documents, Volume 1, Part 3 Introduction: April\u2013September 1830",
+        "DocumentsVolume1Part4IntroductionOctober1830January1831": "Documents, Volume 1, Part 4 Introduction: October 1830\u2013January 1831",
+        "DocumentsVolume1Part5IntroductionFebruaryJune1831": "Documents, Volume 1, Part 5 Introduction: February\u2013June 1831",
+        "DocumentsVolume3Part1IntroductionFebruaryMarch1833": "Documents, Volume 3, Part 1 Introduction: February\u2013March 1833",
+        "DocumentsVolume3Part2IntroductionAprilJune1833": "Documents, Volume 3, Part 2 Introduction: April\u2013June 1833",
+        "DocumentsVolume3Part3IntroductionJulySeptember1833": "Documents, Volume 3, Part 3 Introduction: July\u2013September 1833",
+        "DocumentsVolume3Part4IntroductionOctoberDecember1833": "Documents, Volume 3, Part 4 Introduction: October\u2013December 1833",
+        "DocumentsVolume3Part5IntroductionJanuaryMarch1834": "Documents, Volume 3, Part 5 Introduction: January\u2013March 1834",
+        "download": "Download",
+        "earlyHistoriesAndMultivolumeHistory": "Forthcoming: images and transcripts of early histories written by Joseph Smith, early histories written by other church members by assignment, and more of the multivolume history of the church",
+        "editorial-method": "Editorial Method",
+        "editorialMethod": "Editorial Method",
+        "email-updates": "Email Updates",
+        "emailAddress": "Email address:",
+        "emailAddressError": "A valid email address must be provided.",
+        "endorsements": "Endorsements",
+        "EssayonSourcesCitedinDocumentsVolume1": "Essay on Sources Cited in Documents, Volume 1",
+        "EssayonSourcesCitedinDocumentsVolume2": "Essay on Sources Cited in Documents, Volume 2",
+        "EssayOnSourcesCitedInDocumentsVolume3": "Essay on Sources Cited in Documents, Volume 3",
+        "essayOnSourcesCitedInHistoriesVolume1": "Essay on Sources Cited in Histories, Volume 1",
+        "essayOnSourcesCitedInHistoriesVolume2": "Essay on Sources Cited in Histories, Volume 2",
+        "essayOnSourcesCitedInJournalsVolume1": "Essay on Sources Cited in Journals, Volume 1",
+        "essayOnSourcesCitedInJournalsVolume2": "Essay on Sources Cited in Journals, Volume 2",
+        "events": "Events",
+        "events-description": "<p xmlns=\"http://www.w3.org/1999/xhtml\">Timeline of major events mentioned in Joseph Smith\u2019s papers. Events include major journeys and migrations, births and deaths of Joseph Smith\u2019s children, selected revelations, essential developments in ecclesiastical organization, and other significant incidents. Future releases will expand the list of events.</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">For more information about an event, click on the event name. Move the \u201chandles\u201d on the blue bar to see a larger or smaller time span. To zoom in to a month-by-month view, move both handles inside a single year span. You can also use the arrows on the left and right side of the bar to move through the timeline. Note that choosing a smaller time span will allow you to see more events. You can also use your mouse wheel to zoom in and out. Hover over an event and roll up once to zoom to a month-by-month view and again for a day-by-day view. Roll down to zoom out.</p>",
+        "Facebook": "Facebook",
+        "faq": "FAQ",
+        "first-name-option": "First Name",
+        "fiveLaterJournals1841To1844": "Forthcoming: images and transcripts of Joseph Smith's last journals covering almost every day of his life from April 1843 to his murder in June 1844",
+        "header-churchHistory": "Church History",
+        "header-papersLanding": "The Collection",
+        "header-peopleLanding": "People of the Time",
+        "header-placesLanding": "Places of the Time",
+        "header-recentlyVisited": "Recently Visited",
+        "header-search": "Search",
+        "header-searchJosephSmithPapers": "search Joseph Smith Papers",
+        "header-theJosephSmithPapers": "The Joseph Smith Papers",
+        "header-timeline": "Timeline of Events",
+        "header-topicsLanding": "Topics",
+        "histories": "Histories",
+        "historiesDescription": "Early histories and draft material for the later <span class=\"plain-title\" xmlns=\"http://www.w3.org/1999/xhtml\">History of the Church</span>",
+        "historiesInitiatedByAssignment": "Histories Initiated by Assignment of Joseph Smith, 1831\u20131847",
+        "history": "History",
+        "History2C201838u201318562028Manuscript20History20of20the20Church2920": "History 1838-1856 Manuscript History of the Church",
+        "historySeriesIntroduction": "History Series Introduction",
+        "imagesAndTranscripts": "Images and Transcripts",
+        "indexError": "You need to select at least one index.",
+        "indexForHistoriesVolume1and2": "",
+        "indexForJournalsVolume1": "",
+        "indexForJournalsVolume2": "",
+        "indexIntroText": "<p xmlns=\"http://www.w3.org/1999/xhtml\">To request a free, softbound copy of the index for <em>Journals, Volume 1: 1832\u20131839</em> or <em>Journals, Volume 2: December 1841\u2013April 1843,</em> please complete the following form. When you are ready to submit your request, click \"Submit.\"</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">Please be aware that the information you submit will be shared with Deseret Book Company, the print and distribution partner of the Joseph Smith Papers Project. Your request constitutes permission for the project and Deseret Book Company to send you periodic email updates about the project and its publications.</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">Please select which index you are requesting.<br/></p>",
+        "indexJ1Title": "Journals, Volume 1: 1832\u20131839",
+        "indexJ2Title": "Journals, Volume 2: December 1841\u2013April 1843",
+        "indexRequestFromEmail": "josephsmithpapers@ldschurch.org",
+        "indexRequestFromName": "Joseph Smith Papers Website",
+        "indexRequestTitle": "Request for index",
+        "indexRequestToEmail": "service@deseretbook.com",
+        "indexRequestToName": "Deseret Book",
+        "info": "Info",
+        "interim-content": "INTERIM CONTENT",
+        "IntroductionDocumentsSeries": "Documents Series Introduction",
+        "introductionTo1830sJournals": "Introduction to 1830s Journals",
+        "introductionToAbrahamManuscripts": "Introduction to Book of Abraham Manuscripts",
+        "IntroductionToDocumentsVolume3February1833March1834": "Documents, Volume 3 Introduction: Joseph Smith Documents from February 1833 through March 1834",
+        "introductionToEgyptianMaterial": "Introduction to Egyptian Material",
+        "introductionToJosephSmithOfficePapers": "Introduction to Joseph Smith Office Papers",
+        "introductionToManuscriptHisotryOfTheChurch": "Introduction to History, 1838\u20131856 (Manuscript History of the Church)",
+        "introductionToNauvooJournals": "Introduction to Nauvoo Journals, December 1841\u2013April 1843",
+        "introductionToTheJournals": "Introduction to the Journals",
+        "introductionToTheManuscriptRevelationBooks": "Introduction to the Manuscript Revelation Books",
+        "IntroEarlyDraftsOfHistory1838": "Introduction to Early Drafts of History, 1838\u20131856",
+        "IntroToHistoryDrafts1838": "Introduction to History Drafts, 1838\u20131842",
+        "IntroToHistoryDrafts1844": "Introduction to History Drafts, 1844\u20131856",
+        "invalidEmail": "A valid email address must be provided.",
+        "invert": "Invert",
+        "Joseph20Smith20Histories20": "Joseph Smith Histories",
+        "JosephSmith-EraPublicationsOfRevelations": "Joseph Smith\u2013Era Publications of Revelations",
+        "josephSmithAsRevelatorAndTranslator": "Joseph Smith as Revelator and Translator",
+        "josephSmithsHistoricalEnterprise": "Joseph Smith\u2019s Historical Enterprise",
+        "journals": "Journals",
+        "journalsDescription": "Journals and diaries",
+        "JS-and-his-papers": "Joseph Smith and His Papers",
+        "JSPPA1": "Letterbooks",
+        "JSPPA2": "Minute Books",
+        "JSPPA4": "Records of Organizations",
+        "JSPPA5": "Miscellaneous",
+        "JSPPA9": "Joseph Smith Office Papers",
+        "JSPPH1": "Joseph Smith Histories",
+        "JSPPH1-SUB": "Fair Copy",
+        "JSPPH2": "Assigned Histories",
+        "JSPPH2-SUB": "Sources for Assigned Histories",
+        "JSPPH3": "History, 1838\u20131856 (Manuscript History of the Church)",
+        "JSPPH3-SUB": "Early Drafts",
+        "JSPPH3-SUB1": "Drafts, 1838\u20131842",
+        "JSPPH3-SUB2": "Drafts, 1844\u20131856",
+        "JSPPH4": "Other Histories",
+        "JSPPJ1": "Journals, 1832\u20131839",
+        "JSPPJ2": "Journals, 1841\u20131843",
+        "JSPPJ3": "Journals, 1844",
+        "JSPPL1": "New York, Pennsylvania, and Ohio",
+        "JSPPL1-SUB01": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Hurlbut v. Smith</em>, Ontario Co., NY, Court of Common Pleas, 6 February 1819",
+        "JSPPL1-SUB02": "<em xmlns=\"http://www.w3.org/1999/xhtml\">People v. Smith</em>, Chenango Co., NY, Justice of the Peace Court, 20 March 1826",
+        "JSPPL1-SUB05": "<em xmlns=\"http://www.w3.org/1999/xhtml\">People v. Smith</em>, Chenango and Broome Cos., NY Justice of the Peace Courts, July 1830",
+        "JSPPL1-SUB06": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Noble v. Smith</em>, Susquehanna Co., PA Court of Common Pleas, August 1830",
+        "JSPPL1-SUB07": "<em xmlns=\"http://www.w3.org/1999/xhtml\">State of Ohio v. Hurlbut</em>, Geauga Co., OH, Court of Common Pleas, 21 December 1833",
+        "JSPPL1-SUB08": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Johnson v. Remonstrants</em>, Geauga Co., OH, Court of Common Pleas, 5 April 1834",
+        "JSPPL1-SUB13": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Rounds qui tam v. Smith</em>, Geauga Co., OH, Court of Common Pleas, 10 February 1837",
+        "JSPPL1-SUB18": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Holmes v. Dayton, Slitor, and Smith</em>, Geauga Co., OH, Court of Common Pleas, 28 March 1837",
+        "JSPPL1-SUB28": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Lake for the use of Quinn v. Millet, Smith, and Smith</em>, Geauga Co., OH, Justice of the Peace Court, 8 July 1837",
+        "JSPPL1-SUB29": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Millet for the use of Smith v. Woodstock</em>, Geauga Co., OH, Justice of the Peace Court, 15 July 1837",
+        "JSPPL1-SUB35": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Granger</em>, Geauga Co., OH, Justice of the Peace Court, 16 August 1837",
+        "JSPPL1-SUB36": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Smith, Cowdery, Carter, Knight, Orton, and Cahoon</em>, Geauga Co., OH, Justice of the Peace Court, 3 January 1838",
+        "JSPPL1-SUB39": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Wright v. Rigdon, Smith, Cowdery, Whitney, and Johnson</em>, Geauga Co., OH, Court of Common Pleas, 11 October 1837",
+        "JSPPL1-SUB42": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Boynton and Hyde v. Smith</em>, Geauga Co., OH, Court of Common Pleas, 26 October 1837",
+        "JSPPL1-SUB49": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Wilder and Strong v. Rounds</em>, Geauga Co., OH, Justice of the Peace Court, 16 January 1838",
+        "JSPPL1-SUB50": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Spencer v. Cahoon, Carter, Smith, Smith, Rigdon, and Smith</em>, Geauga Co., OH, Justice of the Peace Court, 25 January 1838",
+        "JSPPL1-SUB51": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Smith for the use of Granger v. Smalling and Coltrin</em>, Geauga Co., OH, Court of Common Pleas, 28 February 1838",
+        "JSPPL1-SUB53": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Granger</em>, Geauga Co., OH, Court of Common Pleas, circa 4 May 1838",
+        "JSPPL1-SUB99": "Invoices",
+        "JSPPL2": "Missouri",
+        "JSPPL2-SUB01": "<em xmlns=\"http://www.w3.org/1999/xhtml\">State of Missouri v. JS et al. for Treason and Other Crimes</em>, Missouri 5th Judicial Circuit, 12\u201329 November 1838",
+        "JSPPR1": "Manuscript Revelation Books",
+        "JSPPR2": "Published Revelations",
+        "JSPPR3": "Book of Mormon Manuscripts",
+        "JSPPR4": "Book of Mormon Editions",
+        "JSPPR5": "Bible Revision Manuscripts",
+        "JSPPR6": "Book of Abraham and Other Egyptian Material",
+        "JSPPREL1": "Secondary Accounts of the First Vision",
+        "last-name-option": "Last Name",
+        "laterDocuments": "Later Documents",
+        "laterJournals": "Later Journals",
+        "legalAndBusinessPapers": "Forthcoming: images and transcripts of additional legal, business, and financial papers from New York, Pennsylvania, Ohio, Missouri, Iowa, and Illinois, including records of the many court cases in which Joseph Smith was a plaintiff, defendant, or witness",
+        "legalAndBusinessRecords": "Legal, Business, and Financial Records",
+        "legalAndBusinessRecordsDescription": "Court, land, and business papers",
+        "letterbooksAndInstitutionalRecords": "Forthcoming: images and transcripts of Joseph Smith's letterbooks and other institutional records",
+        "lettersRevelationsArticlesAndDocuments": "Forthcoming: images and transcripts of hundreds of Joseph Smith letters, revelations, newpaper articles, and other documents covering 1842\u20131844",
+        "library": "Library",
+        "library-of-stories": "Library of stories",
+        "map": "Map",
+        "month-short-01": "Jan",
+        "month-short-02": "Feb",
+        "month-short-03": "Mar",
+        "month-short-04": "Apr",
+        "month-short-05": "May",
+        "month-short-06": "Jun",
+        "month-short-07": "Jul",
+        "month-short-08": "Aug",
+        "month-short-09": "Sep",
+        "month-short-10": "Oct",
+        "month-short-11": "Nov",
+        "month-short-12": "Dec",
+        "monthlyEmail": "Monthly Email Updates",
+        "name": "Name:",
+        "nameError": "A name must be provided.",
+        "news": "News",
+        "noResults": "No results found for",
+        "note-on-images": "Note on Images",
+        "notes": "Notes",
+        "of": "of",
+        "options": "Options",
+        "Other20Histories": "Other Histories",
+        "otherContemporaryPapers": "Other Contemporary Papers",
+        "otherContemporaryPapersDescription": "Selected papers of Joseph Smith's contemporaries",
+        "page": "Page",
+        "paper-summary-additional-versions-help-text": "Asterisk (*) denotes a \"featured\" version, which includes an introduction and annotation",
+        "paper-summary-additional-versions-label": "Additional Versions",
+        "paper-summary-facts-label": "Document Information",
+        "paper-summary-footnotes-label": "Footnotes",
+        "paper-summary-historical-introduction-label": "Historical Introduction",
+        "paper-summary-source-note-label": "Source Note",
+        "paper-summary-toc-label": "Table of Contents",
+        "people": "People",
+        "people-date1": "17 Feb. 1792\u20137 Mar. 1872",
+        "people-date2": "12 Apr. 1807\u201313 May 1857",
+        "people-date3": "3 Oct. 1806\u20133 Mar. 1850",
+        "people-desc1": "Writer, teacher, printer, newspaper editor, publisher, postmaster, lawyer; born at Hanover, Morris Co.",
+        "people-desc2": "Farmer, editor, publisher, teacher, school administrator, legislator, explorer, author; born at Burlington, Otsego Co., New York.",
+        "people-desc3": "Clerk, teacher, justice of the peace, lawyer, newspaper editor; born at Wells, Rutland Co., Vermont. Son of William Cowdery and Rebecca Fuller",
+        "people-description": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">Brief biographical sketches for selected persons mentioned in Joseph Smith\u2019s papers. Names listed in this directory include church leaders and members, Smith family members, people Joseph Smith encountered in his travels, parties involved in legal and business matters, and other acquaintances. </span>",
+        "people-href1": "/person/william-wines-phelps",
+        "people-href2": "/person/parley-parker-pratt",
+        "people-href3": "/person/oliver-cowdery",
+        "people-img1": "william-phelps-sm.jpg",
+        "people-img2": "parley-pratt-sm.jpg",
+        "people-img3": "oliver-cowdery-sm.jpg",
+        "people-title1": "William W. Phelps",
+        "people-title2": "Parley P. Pratt",
+        "people-title3": "Oliver Cowdery",
+        "places": "Places",
+        "places-description": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">Geographical descriptions of many of the places mentioned in Joseph Smith\u2019s papers, including towns, villages, counties, states, landforms, waterways, and significant structures. </span>",
+        "print": "Print",
+        "project-team": "Project Team",
+        "published-volumes": "Published Volumes",
+        "referencing-the-project": "Referencing the Project",
+        "related-content": "Related content",
+        "relatedMaterials": "Related Materials",
+        "relatedResources": "Related Resources",
+        "reset": "Reset",
+        "results": "results",
+        "revBook2": "Forthcoming: additional images and transcripts of scriptural works, including published versions",
+        "revelationsAndTranslations": "Revelations and Translations",
+        "revelationsAndTranslationsDescription": "Early manuscript and printed versions of scriptural works",
+        "reviews": "Reviews",
+        "revInEveningMorningStar": "Revelations Printed in The Evening and the Morning Star",
+        "right-sidebar-1-header": "Finding aids",
+        "right-sidebar-2-header": "MOST-VISITED DOCUMENTS",
+        "right-sidebar-3-header": "Videos",
+        "right-sidebar-4-header": "available for purchase",
+        "right-sidebar-5-header": "request for documents",
+        "right-sidebar-6-header": "email updates",
+        "save": "Save",
+        "search": "Search",
+        "searchCriteria": "Current Search Criteria",
+        "send": "Send",
+        "series": "Series",
+        "share": "Share",
+        "Share": "Share",
+        "show-clear-text": "show clear text",
+        "showing": "Showing",
+        "sign-in": "Sign in",
+        "Sources20for20Assigned20Histories": "Sources for Assigned Histories",
+        "state": "State:",
+        "stateError": "A state or province must be provided.",
+        "subject": "JSP Index Request",
+        "submit": "Submit",
+        "subscribe": "Subscribe",
+        "table-of-contents": "Table of contents",
+        "tagged-with": "Tagged with",
+        "text": "Text",
+        "theHistoriesOfJosephSmith": "The Histories of Joseph Smith, 1832\u20131844",
+        "thePapers": "The Papers",
+        "timeline": "Timeline",
+        "title": "Title",
+        "topic-description": "<p xmlns=\"http://www.w3.org/1999/xhtml\">Definitions for terms appearing in Joseph Smith\u2019s papers that have particular meaning in Mormon usage\u2014especially ordinances, offices, and organizations. Terms are defined as they were used at the time.<br clear=\"none\"/></p>",
+        "topics": "Glossary",
+        "toReceiveEmails": "To receive free email updates on The Joseph Smith Papers enter your email address:",
+        "Twitter": "Twitter",
+        "works-cited-comprehensive-description": "For more information about the works cited, including a guide to the abbreviations used, see <a href=\"/articles/introduction-to-works-cited\" xmlns=\"http://www.w3.org/1999/xhtml\">Introduction to Works Cited</a>.",
+        "worksCited": "Comprehensive Works Cited",
+        "worksCitedDescription": "List of all sources cited on the Joseph Smith Papers website",
+        "worksCitedForJournalsVolume1": "Works Cited for Journals, Volume 1",
+        "zip": "Zip:",
+        "zipError": "A postal code must be provided.",
+        "article-email-PageTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "article-endorsements-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-endorsements-MetaDescription": "Read about endorsements for the Joseph Smith Papers, including an endorsement from the National Historical Publications and Records Commission",
+        "article-endorsements-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-endorsements-MetaTitle": "The Joseph Smith Papers: Endorsements",
+        "article-endorsements-PageTitle": "The Joseph Smith Papers: Endorsements",
+        "article-faq1-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq1-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq1-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq1-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq1-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq2-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq2-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq2-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq2-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq2-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq3-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq3-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq3-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq3-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq3-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaDescription": "An introduction to The Joseph Smith Papers, including his origins, initiatives, character, place in history, and records",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaTitle": "Joseph Smith and His Papers: An Introduction",
+        "article-joseph-smith-and-his-papers-an-introduction-PageTitle": "Joseph Smith and His Papers: An Introduction",
+        "article-note-on-images-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-note-on-images-MetaDescription": "An explanation of why document images and transcripts may appear to differ in the online presentation of the Joseph Smith Papers",
+        "article-note-on-images-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-note-on-images-MetaTitle": "The Joseph Smith Papers: Note on images",
+        "article-note-on-images-PageTitle": "The Joseph Smith Papers: Note on images",
+        "article-project-team-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-project-team-MetaDescription": "Learn about the Editorial Board, National Advisory Board, historians, editors, and other staff members behind the project",
+        "article-project-team-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-project-team-MetaTitle": "The Joseph Smith Papers: Project team",
+        "article-project-team-PageTitle": "The Joseph Smith Papers: Project team",
+        "article-published-volumes-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-published-volumes-MetaDescription": "Order the already-published volumes from each series of the Joseph Smith Papers, including Documents, Journals, Histories, and Revelations and Translations.",
+        "article-published-volumes-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-published-volumes-MetaTitle": "The Joseph Smith Papers: Order the print volumes",
+        "article-published-volumes-PageTitle": "The Joseph Smith Papers: Order the print volumes",
+        "article-reviews-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-reviews-MetaDescription": "A collection of scholarly reviews of the Joseph Smith Papers",
+        "article-reviews-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-reviews-MetaTitle": "The Joseph Smith Papers: Reviews",
+        "article-reviews-PageTitle": "The Joseph Smith Papers: Reviews",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaDescription": "Guidelines for citing or referring to the Joseph Smith Papers, its component series or volumes, or materials on the Joseph Smith Papers website",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaTitle": "The Joseph Smith Papers: Style guidelines for referencing the papers",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-PageTitle": "The Joseph Smith Papers: Style guidelines for referencing the papers",
+        "siteName": "The Joseph Smith Papers Project",
+        "/email-MetaAuthor": "The Church Historian\u2019s Press",
+        "/email-MetaDescription": "Register to receive periodic emails about news and updates for the Joseph Smith Papers Project",
+        "/email-MetaKeywords": "Joseph Smith Papers, email, Mormon",
+        "/email-MetaTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "/email-PageTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "/events-MetaAuthor": "The Church Historian\u2019s Press",
+        "/events-MetaDescription": "Timeline of major events mentioned in papers of Joseph Smith. LDS Church history events.",
+        "/events-MetaKeywords": "Joseph Smith Papers, LDS Church History Events, Events in Church History, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/events-MetaTitle": "The Joseph Smith Papers: Timeline of Events",
+        "/events-PageTitle": "The Joseph Smith Papers: Timeline of Events",
+        "/faq-MetaAuthor": "The Church Historian\u2019s Press",
+        "/faq-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "/faq-MetaKeywords": "Joseph Smith Papers, Frequently Asked Questions, FAQ, Answers",
+        "/faq-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "/faq-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "/jsp-MetaAuthor": "The Church Historian\u2019s Press",
+        "/jsp-MetaDescription": "View the original histories, journals, revelations, and other documents of Joseph Smith, the founding prophet of The Church of Jesus Christ of Latter-day Saints",
+        "/jsp-MetaKeywords": "smith joseph, the life of the prophet, smith journal, revelation books, prophet joseph smith, joseph smith mormon, extant papers, histories, journals, legal",
+        "/jsp-MetaTitle": "The Joseph Smith Papers: A comprehensive digital collection of the papers of Joseph Smith",
+        "/jsp-PageTitle": "The Joseph Smith Papers: A comprehensive digital collection of the papers of Joseph Smith",
+        "/library-MetaAuthor": "The Church Historian\u2019s Press",
+        "/library-MetaDescription": "Joseph Smith Papers Media Library: Collection of artwork, photographs, and other media depicting people, places, and events mentioned in Joseph Smith's papers. The library also includes maps, charts, and other reference materials.",
+        "/library-MetaKeywords": "Joseph Smith Papers Media Library, Prophet Joseph Smith, Joseph Smith Mormon, LDS Media",
+        "/library-MetaTitle": "The Joseph Smith Papers: Media Library",
+        "/library-PageTitle": "The Joseph Smith Papers: Media Library",
+        "/news-MetaAuthor": "The Church Historian\u2019s Press",
+        "/news-MetaDescription": "Learn about the latest updates, new publications, and events for the Joseph Smith Papers Project",
+        "/news-MetaKeywords": "Joseph Smith Papers, news, Mormon",
+        "/news-MetaTitle": "The Joseph Smith Papers: News and updates",
+        "/news-PageTitle": "The Joseph Smith Papers: News and updates",
+        "/papers-MetaAuthor": "The Church Historian\u2019s Press",
+        "/people-MetaAuthor": "The Church Historian\u2019s Press",
+        "/people-MetaDescription": "Joseph Smith Papers: The people mentioned in the journals and other papers of Joseph Smith.",
+        "/people-MetaKeywords": "Joseph Smith Papers, smith journal, prophet joseph smith, joseph smith mormon",
+        "/people-MetaTitle": "The Joseph Smith Papers: People of the Time",
+        "/people-PageTitle": "The Joseph Smith Papers: People of the Time",
+        "/places-MetaAuthor": "The Church Historian\u2019s Press",
+        "/places-MetaDescription": "Joseph Smith Papers: The places mentioned in the papers of Joseph Smith. Historic sites - Church of Jesus Christ of Latter-day Saints.",
+        "/places-MetaKeywords": "Joseph Smith Papers, Historic Sites - Church of Jesus Christ of Latter-day Saints, Church History Places, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/places-MetaTitle": "The Joseph Smith Papers: Places of the Time",
+        "/places-PageTitle": "The Joseph Smith Papers: Places of the Time",
+        "/privacyPolicy-MetaAuthor": "The Church Historian\u2019s Press",
+        "/privacyPolicy-MetaDescription": "Privacy Policy for the Joseph Smith Papers Project",
+        "/privacyPolicy-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/privacyPolicy-MetaTitle": "The Joseph Smith Papers: Privacy Policy",
+        "/privacyPolicy-PageTitle": "The Joseph Smith Papers: Privacy Policy",
+        "/reference-MetaAuthor": "The Church Historian\u2019s Press",
+        "/reference-MetaDescription": "Joseph Smith Papers: View the people, places, events, and topics that appears in the papers of Joseph Smith the founding prophet of The Church of Jesus Christ of Latter-day Saints.",
+        "/reference-MetaKeywords": "Joseph Smith, history of the church, prophet joseph smith, joseph smith Mormon, parley p pratt",
+        "/reference-MetaTitle": "The Joseph Smith Papers: Reference",
+        "/reference-PageTitle": "The Joseph Smith Papers: Reference",
+        "/rightsAndUse-MetaAuthor": "The Church Historian\u2019s Press",
+        "/rightsAndUse-MetaDescription": "Rights and Use Information for the Joseph Smith Papers Project",
+        "/rightsAndUse-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/rightsAndUse-MetaTitle": "The Joseph Smith Papers: Rights and Use",
+        "/rightsAndUse-PageTitle": "The Joseph Smith Papers: Rights and Use",
+        "/search-MetaAuthor": "The Church Historian\u2019s Press",
+        "/search-MetaDescription": "Search the Joseph Smith Papers for original documents and information about Joseph Smith, Mormonism, and American religious history.",
+        "/search-MetaKeywords": "Joseph Smith Papers, Mormon History, Mormon",
+        "/search-MetaTitle": "The Joseph Smith Papers: Search",
+        "/search-PageTitle": "The Joseph Smith Papers: Search",
+        "/topics-MetaAuthor": "The Church Historian\u2019s Press",
+        "/topics-MetaDescription": "Joseph Smith Papers: Definitions for terms appearing in Joseph Smith's papers that have particular meaning in Mormon usage\u2014especially ordinances, offices, andorganizations. Terms are defined as they were used at the time. LDS Topics.",
+        "/topics-MetaKeywords": "Joseph Smith Papers, LDS Topics, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/topics-MetaTitle": "The Joseph Smith Papers: Topics",
+        "/topics-PageTitle": "The Joseph Smith Papers: Topics",
+        "/works-cited-MetaAuthor": "The Church Historian\u2019s Press",
+        "/works-cited-MetaDescription": "A comprehensive list of works cited in the Joseph Smith Papers.",
+        "/works-cited-MetaKeywords": "Joseph Smith Papers, comprehensive, works cited, history, Mormon",
+        "/works-cited-MetaTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/works-cited-PageTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/worksCited-MetaAuthor": "The Church Historian\u2019s Press",
+        "/worksCited-MetaDescription": "A comprehensive list of works cited in the Joseph Smith Papers.",
+        "/worksCited-MetaKeywords": "Joseph Smith Papers, comprehensive, works cited, history, Mormon",
+        "/worksCited-MetaTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/worksCited-PageTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "article-about-the-project-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-about-the-project-MetaDescription": "The Joseph Smith Papers project is the definitive collection of journals, letters, and other documents written by Joseph Smith, the prophet of The Church of Jesus Christ of Latter-day Saints.",
+        "article-about-the-project-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-about-the-project-MetaTitle": "The Joseph Smith Papers: About the project",
+        "article-about-the-project-PageTitle": "The Joseph Smith Papers: About the project",
+        "article-contact-us-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-contact-us-MetaDescription": "Contact us if you have comments or questions on the print volumes, website, or the project in general",
+        "article-contact-us-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-contact-us-MetaTitle": "The Joseph Smith Papers: Contact us",
+        "article-contact-us-PageTitle": "The Joseph Smith Papers: Contact us",
+        "article-editorial-method-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-editorial-method-MetaDescription": "Learn about the editorial method for the Joseph Smith Papers Project, including transcription rules, annotation conventions, and document selection",
+        "article-editorial-method-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-editorial-method-MetaTitle": "The Joseph Smith Papers: Editorial Method",
+        "article-editorial-method-PageTitle": "The Joseph Smith Papers: Editorial Method",
+        "article-email-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-email-MetaDescription": "Register to receive periodic emails about news and updates for the Joseph Smith Papers Project",
+        "article-email-MetaKeywords": "Joseph Smith Papers, email, Mormon",
+        "article-email-MetaTitle": "The Joseph Smith Papers: Register for email updates about the project"
+      },
+      "layoutStrings": {
+        "project-menu": {
+          "id": "61482810845808514070-eng",
+          "links": [
+            {
+              "text": "The Papers",
+              "subLinks": [
+                {
+                  "text": "Browse the Papers",
+                  "href": "/the-papers"
+                },
+                {
+                  "text": "Documents",
+                  "href": "/the-papers/documents"
+                },
+                {
+                  "text": "Journals",
+                  "href": "/the-papers/journals"
+                },
+                {
+                  "text": "Administrative Records",
+                  "href": "/the-papers/administrative-records"
+                },
+                {
+                  "text": "Revelations and Translations",
+                  "href": "/the-papers/revelations-and-translations"
+                },
+                {
+                  "text": "Histories",
+                  "href": "/the-papers/histories"
+                },
+                {
+                  "text": "Legal Records",
+                  "href": "/the-papers/legal-records"
+                },
+                {
+                  "text": "Financial Records",
+                  "href": "/the-papers/financial-records"
+                },
+                {
+                  "text": "Other Contemporary Papers",
+                  "href": "/the-papers/other-contemporary-papers"
+                }
+              ]
+            },
+            {
+              "text": "Reference",
+              "subLinks": [
+                {
+                  "text": "People",
+                  "href": "/reference/people"
+                },
+                {
+                  "text": "Places",
+                  "href": "/reference/places"
+                },
+                {
+                  "text": "Events",
+                  "href": "/reference/events"
+                },
+                {
+                  "text": "Glossary",
+                  "href": "/reference/topics"
+                },
+                {
+                  "text": "Legal Glossary",
+                  "href": "/reference/topics?useTerm=legal"
+                },
+                {
+                  "text": "Financial Glossary",
+                  "href": "/reference/topics?useTerm=financial"
+                },
+                {
+                  "text": "Calendar of Documents",
+                  "href": "/reference/calendar-of-documents"
+                },
+                {
+                  "text": "Works Cited",
+                  "href": "/works-cited"
+                },
+                {
+                  "text": "Featured Topics",
+                  "href": "/finding-aids"
+                },
+                {
+                  "text": "Lesson Plans",
+                  "href": "/curriculum-for-educators"
+                },
+                {
+                  "text": "Related Publications",
+                  "href": "/articles/related-publications"
+                }
+              ]
+            },
+            {
+              "text": "Media",
+              "subLinks": [
+                {
+                  "text": "Videos",
+                  "href": "/media/videos"
+                },
+                {
+                  "text": "Photographs",
+                  "href": "/media/photographs"
+                },
+                {
+                  "text": "Illustrations",
+                  "href": "/media/illustrations"
+                },
+                {
+                  "text": "Charts",
+                  "href": "/media/charts"
+                },
+                {
+                  "text": "Maps",
+                  "href": "/media/maps"
+                },
+                {
+                  "text": "Podcasts",
+                  "href": "/articles/joseph-smith-papers-podcasts"
+                }
+              ]
+            },
+            {
+              "text": "News",
+              "subLinks": [
+                {
+                  "text": "Current News",
+                  "href": "/news/"
+                },
+                {
+                  "text": "Archive",
+                  "href": "/articles/2025-news"
+                },
+                {
+                  "text": "Newsletter",
+                  "href": "/articles/newsletter"
+                },
+                {
+                  "text": "Subscribe",
+                  "href": "/articles/subscribe"
+                },
+                {
+                  "text": "JSP Conferences",
+                  "href": "/articles/joseph-smith-papers-conferences?lang=eng"
+                }
+              ]
+            },
+            {
+              "text": "About",
+              "subLinks": [
+                {
+                  "text": "About the Project",
+                  "href": "/aboutTheProject"
+                },
+                {
+                  "text": "Joseph Smith and His Papers",
+                  "href": "/josephSmithAndHisPapers"
+                },
+                {
+                  "text": "FAQ",
+                  "href": "/articles/faq1"
+                },
+                {
+                  "text": "Awards",
+                  "href": "/awards"
+                },
+                {
+                  "text": "Endorsements",
+                  "href": "/endorsements"
+                },
+                {
+                  "text": "Reviews",
+                  "href": "/reviews"
+                },
+                {
+                  "text": "Editorial Method",
+                  "href": "/editorialMethod"
+                },
+                {
+                  "text": "Note on Transcriptions",
+                  "href": "/articles/note-on-transcriptions"
+                },
+                {
+                  "text": "Note on Images of People and Places",
+                  "href": "/articles/note-on-images"
+                },
+                {
+                  "text": "Referencing the Project",
+                  "href": "/referencingTheProject"
+                },
+                {
+                  "text": "Citing This Website",
+                  "href": "/articles/citing-this-website"
+                },
+                {
+                  "text": "Project Team",
+                  "href": "/projectTeam"
+                },
+                {
+                  "text": "Acknowledgments",
+                  "href": "/articles/acknowledgments"
+                },
+                {
+                  "text": "Contact Us",
+                  "href": "/contactUs"
+                }
+              ]
+            },
+            {
+              "text": "Published Volumes",
+              "subLinks": [
+                {
+                  "text": "Published Volumes",
+                  "href": "/publishedVolumes"
+                }
+              ]
+            }
+          ]
+        },
+        "project-footer": {
+          "links": [
+            {
+              "text": "Contact Us",
+              "href": "/contactUs"
+            },
+            {
+              "text": "FAQ",
+              "href": "/faq"
+            },
+            {
+              "text": "Follow Us on Facebook",
+              "href": "https://www.facebook.com/JosephSmithPapers"
+            }
+          ],
+          "requestHeader": "Request for Documents",
+          "requestQuestion": "Do you know of any Joseph Smith documents that we might not have heard about?",
+          "requestLink": {
+            "text": "Tell us",
+            "href": "https://app.pipefy.com/public/form/zbef7n4J"
+          },
+          "disclaimer": "The Church Historian\u2019s Press is an imprint of the Church History Department of The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah, and a trademark of Intellectual Reserve, Inc.",
+          "copyright": "\u00a9 2026 by Intellectual Reserve, Inc. All rights reserved.",
+          "rightsLink": {
+            "text": "Terms of Use",
+            "date": "Updated 2021-04-13",
+            "href": "https://www.churchofjesuschrist.org/legal/terms-of-use?lang=eng&country=go"
+          },
+          "privacyLink": {
+            "text": "Privacy Notice",
+            "date": "Updated 2021-04-06",
+            "href": "https://www.churchofjesuschrist.org/legal/privacy-notice?lang=eng&country=go"
+          },
+          "chPressLink": {
+            "href": "https://www.churchhistorianspress.org"
+          }
+        }
+      },
+      "context": "published",
+      "host": "www.josephsmithpapers.org",
+      "showHeader": true,
+      "footerStyle": "mini",
+      "statusCode": 200,
+      "publisherMenuData": null,
+      "uri": [
+        "documents",
+        "1830"
+      ],
+      "page": "",
+      "baseInfo": {
+        "requestTimestamp": "2026-04-16T20:16:21.456Z",
+        "panes": [
+          {
+            "title": "Browse the Papers",
+            "uri": "series",
+            "sections": [
+              {
+                "title": "",
+                "links": [
+                  {
+                    "title": {
+                      "text": "\r\n\tDocuments",
+                      "href": "/the-papers/documents",
+                      "uri": "documents",
+                      "documentSeriesId": "JSPPD"
+                    },
+                    "color": "blue",
+                    "description": "Letters, revelations, reports of discourses, minutes, etc.",
+                    "text": null,
+                    "count": "4159"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tJournals",
+                      "href": "/the-papers/journals",
+                      "uri": "journals",
+                      "documentSeriesId": "JSPPJ"
+                    },
+                    "color": "red",
+                    "description": "Journals and diaries",
+                    "text": null,
+                    "count": "32"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tAdministrative Records",
+                      "href": "/the-papers/administrative-records",
+                      "uri": "administrative-records",
+                      "documentSeriesId": "JSPPA"
+                    },
+                    "color": "orange",
+                    "description": "Minutes and other official records",
+                    "text": null,
+                    "count": "2553"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tRevelations and Translations",
+                      "href": "/the-papers/revelations-and-translations",
+                      "uri": "revelations-and-translations",
+                      "documentSeriesId": "JSPPR"
+                    },
+                    "color": "purple",
+                    "description": "Early manuscript and printed versions of scriptural works",
+                    "text": null,
+                    "count": "68"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tHistories",
+                      "href": "/the-papers/histories",
+                      "uri": "histories",
+                      "documentSeriesId": "JSPPH"
+                    },
+                    "color": "green",
+                    "description": "Early histories and draft material for the later History of the Church",
+                    "text": null,
+                    "count": "57"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tLegal Records",
+                      "href": "/the-papers/legal-records",
+                      "uri": "legal-records",
+                      "documentSeriesId": "JSPPL"
+                    },
+                    "color": "gold",
+                    "description": "Court papers",
+                    "text": null,
+                    "count": "2500"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tFinancial Records",
+                      "href": "/the-papers/financial-records",
+                      "uri": "financial-records",
+                      "documentSeriesId": "JSPPF"
+                    },
+                    "color": "skyBlue",
+                    "description": "Deeds, promissory notes, invoices, agreements, daybooks, ledgers, etc.",
+                    "text": null,
+                    "count": "1910"
+                  }
+                ]
+              },
+              {
+                "title": "Related Resources",
+                "links": [
+                  {
+                    "title": {
+                      "text": "\r\n\tOther Contemporary Papers",
+                      "href": "/the-papers/other-contemporary-papers",
+                      "uri": "other-contemporary-papers",
+                      "documentSeriesId": "JSPADM"
+                    },
+                    "color": "black",
+                    "description": "Selected papers of Joseph Smith's contemporaries"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tCalendar of Documents",
+                      "href": "/reference/calendar-of-documents",
+                      "uri": "calendar-of-documents",
+                      "documentSeriesId": ""
+                    },
+                    "color": "red",
+                    "description": "Chronological list of all known Joseph Smith documents, including multiple versions of                    documents"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tComprehensive Works Cited",
+                      "href": "/works-cited",
+                      "uri": "works-cited",
+                      "documentSeriesId": ""
+                    },
+                    "color": "red",
+                    "description": "List of all sources cited on the Joseph Smith Papers website"
+                  }
+                ]
+              }
+            ],
+            "id": "63883369654089332260-eng"
+          }
+        ],
+        "id": "63883369654089332260-eng"
+      },
+      "docDetails": {
+        "panes": [
+          {
+            "title": "Browse the Papers",
+            "uri": "series",
+            "sections": [
+              {
+                "title": "",
+                "links": [
+                  {
+                    "title": {
+                      "text": "\r\n\tDocuments",
+                      "href": "/the-papers/documents",
+                      "uri": "documents",
+                      "documentSeriesId": "JSPPD"
+                    },
+                    "color": "blue",
+                    "description": "Letters, revelations, reports of discourses, minutes, etc.",
+                    "text": null,
+                    "count": "4159"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tJournals",
+                      "href": "/the-papers/journals",
+                      "uri": "journals",
+                      "documentSeriesId": "JSPPJ"
+                    },
+                    "color": "red",
+                    "description": "Journals and diaries",
+                    "text": null,
+                    "count": "32"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tAdministrative Records",
+                      "href": "/the-papers/administrative-records",
+                      "uri": "administrative-records",
+                      "documentSeriesId": "JSPPA"
+                    },
+                    "color": "orange",
+                    "description": "Minutes and other official records",
+                    "text": null,
+                    "count": "2553"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tRevelations and Translations",
+                      "href": "/the-papers/revelations-and-translations",
+                      "uri": "revelations-and-translations",
+                      "documentSeriesId": "JSPPR"
+                    },
+                    "color": "purple",
+                    "description": "Early manuscript and printed versions of scriptural works",
+                    "text": null,
+                    "count": "68"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tHistories",
+                      "href": "/the-papers/histories",
+                      "uri": "histories",
+                      "documentSeriesId": "JSPPH"
+                    },
+                    "color": "green",
+                    "description": "Early histories and draft material for the later History of the Church",
+                    "text": null,
+                    "count": "57"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tLegal Records",
+                      "href": "/the-papers/legal-records",
+                      "uri": "legal-records",
+                      "documentSeriesId": "JSPPL"
+                    },
+                    "color": "gold",
+                    "description": "Court papers",
+                    "text": null,
+                    "count": "2500"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tFinancial Records",
+                      "href": "/the-papers/financial-records",
+                      "uri": "financial-records",
+                      "documentSeriesId": "JSPPF"
+                    },
+                    "color": "skyBlue",
+                    "description": "Deeds, promissory notes, invoices, agreements, daybooks, ledgers, etc.",
+                    "text": null,
+                    "count": "1910"
+                  }
+                ]
+              },
+              {
+                "title": "Related Resources",
+                "links": [
+                  {
+                    "title": {
+                      "text": "\r\n\tOther Contemporary Papers",
+                      "href": "/the-papers/other-contemporary-papers",
+                      "uri": "other-contemporary-papers",
+                      "documentSeriesId": "JSPADM"
+                    },
+                    "color": "black",
+                    "description": "Selected papers of Joseph Smith's contemporaries"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tCalendar of Documents",
+                      "href": "/reference/calendar-of-documents",
+                      "uri": "calendar-of-documents",
+                      "documentSeriesId": ""
+                    },
+                    "color": "red",
+                    "description": "Chronological list of all known Joseph Smith documents, including multiple versions of                    documents"
+                  },
+                  {
+                    "title": {
+                      "text": "\r\n\tComprehensive Works Cited",
+                      "href": "/works-cited",
+                      "uri": "works-cited",
+                      "documentSeriesId": ""
+                    },
+                    "color": "red",
+                    "description": "List of all sources cited on the Joseph Smith Papers website"
+                  }
+                ]
+              }
+            ],
+            "id": "63883369654089332260-eng"
+          },
+          {
+            "title": "Browse the Papers: Documents",
+            "uri": "documents",
+            "message": "",
+            "sections": [
+              {
+                "title": "Images and transcripts",
+                "links": [
+                  {
+                    "text": "\r\n\tDocuments, 1827&ndash;1829",
+                    "href": "/the-papers/documents/pre1830",
+                    "uri": "documents/pre1830",
+                    "documentSeriesId": "pre1830",
+                    "query": "select-all-children",
+                    "count": "35"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1830",
+                    "href": "/the-papers/documents/1830",
+                    "uri": "documents/1830",
+                    "documentSeriesId": "1830",
+                    "query": "",
+                    "count": "38"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1831",
+                    "href": "/the-papers/documents/1831",
+                    "uri": "documents/1831",
+                    "documentSeriesId": "1831",
+                    "query": "",
+                    "count": "65"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1832",
+                    "href": "/the-papers/documents/1832",
+                    "uri": "documents/1832",
+                    "documentSeriesId": "1832",
+                    "query": "",
+                    "count": "37"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1833",
+                    "href": "/the-papers/documents/1833",
+                    "uri": "documents/1833",
+                    "documentSeriesId": "1833",
+                    "query": "",
+                    "count": "78"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1834",
+                    "href": "/the-papers/documents/1834",
+                    "uri": "documents/1834",
+                    "documentSeriesId": "1834",
+                    "query": "",
+                    "count": "68"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1835",
+                    "href": "/the-papers/documents/1835",
+                    "uri": "documents/1835",
+                    "documentSeriesId": "1835",
+                    "query": "select-all-children",
+                    "count": "165"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1836",
+                    "href": "/the-papers/documents/1836",
+                    "uri": "documents/1836",
+                    "documentSeriesId": "1836",
+                    "query": "",
+                    "count": "482"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1837",
+                    "href": "/the-papers/documents/1837",
+                    "uri": "documents/1837",
+                    "documentSeriesId": "1837",
+                    "query": "",
+                    "count": "86"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1838",
+                    "href": "/the-papers/documents/1838",
+                    "uri": "documents/1838",
+                    "documentSeriesId": "1838",
+                    "query": "",
+                    "count": "147"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1839",
+                    "href": "/the-papers/documents/1839",
+                    "uri": "documents/1839",
+                    "documentSeriesId": "1839",
+                    "query": "",
+                    "count": "299"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1840",
+                    "href": "/the-papers/documents/1840",
+                    "uri": "documents/1840",
+                    "documentSeriesId": "1840",
+                    "query": "",
+                    "count": "597"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1841",
+                    "href": "/the-papers/documents/1841",
+                    "uri": "documents/1841",
+                    "documentSeriesId": "1841",
+                    "query": "",
+                    "count": "358"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1842",
+                    "href": "/the-papers/documents/1842",
+                    "uri": "documents/1842",
+                    "documentSeriesId": "1842",
+                    "query": "",
+                    "count": "572"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1843",
+                    "href": "/the-papers/documents/1843",
+                    "uri": "documents/1843",
+                    "documentSeriesId": "1843",
+                    "query": "",
+                    "count": "637"
+                  },
+                  {
+                    "text": "\r\n\tDocuments, 1844",
+                    "href": "/the-papers/documents/1844",
+                    "uri": "documents/1844",
+                    "documentSeriesId": "1844",
+                    "query": "",
+                    "count": "470"
+                  }
+                ]
+              },
+              {
+                "title": "Related Materials",
+                "links": [
+                  {
+                    "text": "\r\n\tDocuments Series Introduction",
+                    "href": "/doc/series-introduction-for-the-documents-series",
+                    "uri": "",
+                    "documentSeriesId": "",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tEditorial Method",
+                    "href": "/editorialMethod",
+                    "uri": "",
+                    "documentSeriesId": "",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 1",
+                    "href": "/the-papers/documents/volume-1",
+                    "uri": "documents/volume-1",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 2",
+                    "href": "/the-papers/documents/volume-2",
+                    "uri": "documents/volume-2",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 3",
+                    "href": "/the-papers/documents/volume-3",
+                    "uri": "documents/volume-3",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 4",
+                    "href": "/the-papers/documents/volume-4",
+                    "uri": "documents/volume-4",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 5",
+                    "href": "/the-papers/documents/volume-5",
+                    "uri": "documents/volume-5",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 6",
+                    "href": "/the-papers/documents/volume-6",
+                    "uri": "documents/volume-6",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 7",
+                    "href": "/the-papers/documents/volume-7",
+                    "uri": "documents/volume-7",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 8",
+                    "href": "/the-papers/documents/volume-8",
+                    "uri": "documents/volume-8",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 9",
+                    "href": "/the-papers/documents/volume-9",
+                    "uri": "documents/volume-9",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 10",
+                    "href": "/the-papers/documents/volume-10",
+                    "uri": "documents/volume-10",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 11",
+                    "href": "/the-papers/documents/volume-11",
+                    "uri": "documents/volume-11",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 12",
+                    "href": "/the-papers/documents/volume-12",
+                    "uri": "documents/volume-12",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 13",
+                    "href": "/the-papers/documents/volume-13",
+                    "uri": "documents/volume-13",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  },
+                  {
+                    "text": "\r\n\tDocuments, Volume 14",
+                    "href": "/the-papers/documents/volume-14",
+                    "uri": "documents/volume-14",
+                    "documentSeriesId": "related",
+                    "query": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "\r\n\tDocuments, 1830",
+            "uri": "documents/1830",
+            "sections": [
+              {
+                "links": [
+                  {
+                    "text": "Agreement with Martin Harris, 16 January 1830",
+                    "href": "/paper-summary/agreement-with-martin-harris-16-january-1830"
+                  },
+                  {
+                    "text": "Revelation, circa Early 1830",
+                    "href": "/paper-summary/revelation-circa-early-1830"
+                  },
+                  {
+                    "text": "Articles and Covenants, circa April 1830 [D&C 20]",
+                    "href": "/paper-summary/articles-and-covenants-circa-april-1830-dc-20"
+                  },
+                  {
+                    "text": "Revelation, 6 April 1830 [D&C 21]",
+                    "href": "/paper-summary/revelation-6-april-1830-dc-21"
+                  },
+                  {
+                    "text": "Revelation, April 1830\u2013A [D&C 23:1\u20132]",
+                    "href": "/paper-summary/revelation-april-1830-a-dc-231-2"
+                  },
+                  {
+                    "text": "Revelation, April 1830\u2013B [D&C 23:3]",
+                    "href": "/paper-summary/revelation-april-1830-b-dc-233"
+                  },
+                  {
+                    "text": "Revelation, April 1830\u2013C [D&C 23:4]",
+                    "href": "/paper-summary/revelation-april-1830-c-dc-234"
+                  },
+                  {
+                    "text": "Revelation, April 1830\u2013D [D&C 23:5]",
+                    "href": "/paper-summary/revelation-april-1830-d-dc-235"
+                  },
+                  {
+                    "text": "Revelation, April 1830\u2013E [D&C 23:6\u20137]",
+                    "href": "/paper-summary/revelation-april-1830-e-dc-236-7"
+                  },
+                  {
+                    "text": "Revelation, 16 April 1830 [D&C 22]",
+                    "href": "/paper-summary/revelation-16-april-1830-dc-22"
+                  },
+                  {
+                    "text": "Minutes, 9 June 1830",
+                    "href": "/paper-summary/minutes-9-june-1830"
+                  },
+                  {
+                    "text": "License for John Whitmer, 9 June 1830",
+                    "href": "/paper-summary/license-for-john-whitmer-9-june-1830"
+                  },
+                  {
+                    "text": "License for Joseph Smith Sr., 9 June 1830",
+                    "href": "/paper-summary/license-for-joseph-smith-sr-9-june-1830"
+                  },
+                  {
+                    "text": "License for Christian Whitmer, 9 June 1830",
+                    "href": "/paper-summary/license-for-christian-whitmer-9-june-1830"
+                  },
+                  {
+                    "text": "Visions of Moses, June 1830 [Moses 1]",
+                    "href": "/paper-summary/visions-of-moses-june-1830-moses-1"
+                  },
+                  {
+                    "text": "Revelation, July 1830\u2013A [D&C 24]",
+                    "href": "/paper-summary/revelation-july-1830-a-dc-24"
+                  },
+                  {
+                    "text": "Revelation, July 1830\u2013B [D&C 26]",
+                    "href": "/paper-summary/revelation-july-1830-b-dc-26"
+                  },
+                  {
+                    "text": "Revelation, July 1830\u2013C [D&C 25]",
+                    "href": "/paper-summary/revelation-july-1830-c-dc-25"
+                  },
+                  {
+                    "text": "Revelation, circa August 1830 [D&C 27]",
+                    "href": "/paper-summary/revelation-circa-august-1830-dc-27"
+                  },
+                  {
+                    "text": "Deed from Isaac and Elizabeth Hale, 25 August 1830",
+                    "href": "/paper-summary/deed-from-isaac-and-elizabeth-hale-25-august-1830"
+                  },
+                  {
+                    "text": "Letter to Newel Knight and the Church in Colesville, 28 August 1830",
+                    "href": "/paper-summary/letter-to-newel-knight-and-the-church-in-colesville-28-august-1830"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013A [D&C 29]",
+                    "href": "/paper-summary/revelation-september-1830-a-dc-29"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013B [D&C 28]",
+                    "href": "/paper-summary/revelation-september-1830-b-dc-28"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013C [D&C 30:1\u20134]",
+                    "href": "/paper-summary/revelation-september-1830-c-dc-301-4"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013D [D&C 30:5\u20138]",
+                    "href": "/paper-summary/revelation-september-1830-d-dc-305-8"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013E [D&C 30:9\u201311]",
+                    "href": "/paper-summary/revelation-september-1830-e-dc-309-11"
+                  },
+                  {
+                    "text": "Minutes, 26 September 1830",
+                    "href": "/paper-summary/minutes-26-september-1830"
+                  },
+                  {
+                    "text": "Revelation, September 1830\u2013F [D&C 31]",
+                    "href": "/paper-summary/revelation-september-1830-f-dc-31"
+                  },
+                  {
+                    "text": "Revelation, October 1830\u2013A [D&C 32]",
+                    "href": "/paper-summary/revelation-october-1830-a-dc-32"
+                  },
+                  {
+                    "text": "Covenant of Oliver Cowdery and Others, 17 October 1830",
+                    "href": "/paper-summary/covenant-of-oliver-cowdery-and-others-17-october-1830"
+                  },
+                  {
+                    "text": "Revelation, October 1830\u2013B [D&C 33]",
+                    "href": "/paper-summary/revelation-october-1830-b-dc-33"
+                  },
+                  {
+                    "text": "Revelation, 4 November 1830 [D&C 34]",
+                    "href": "/paper-summary/revelation-4-november-1830-dc-34"
+                  },
+                  {
+                    "text": "Letter from Oliver Cowdery, 12 November 1830",
+                    "href": "/paper-summary/letter-from-oliver-cowdery-12-november-1830"
+                  },
+                  {
+                    "text": "Letter to the Church in Colesville, 2 December 1830",
+                    "href": "/paper-summary/letter-to-the-church-in-colesville-2-december-1830"
+                  },
+                  {
+                    "text": "Revelation, 7 December 1830 [D&C 35]",
+                    "href": "/paper-summary/revelation-7-december-1830-dc-35"
+                  },
+                  {
+                    "text": "Revelation, 9 December 1830 [D&C 36]",
+                    "href": "/paper-summary/revelation-9-december-1830-dc-36"
+                  },
+                  {
+                    "text": "Revelation, 30 December 1830 [D&C 37]",
+                    "href": "/paper-summary/revelation-30-december-1830-dc-37"
+                  },
+                  {
+                    "text": "Explanation of Scripture, 1830 [D&C 74]",
+                    "href": "/paper-summary/explanation-of-scripture-1830-dc-74"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "id": "63883369654089332260-eng"
+      },
+      "is404": false,
+      "disableVerticalScroll": true
+    },
+    "__N_SSP": true
+  },
+  "page": "/the-papers/[[...uri]]",
+  "query": {
+    "uri": [
+      "documents",
+      "1830"
+    ]
+  },
+  "buildId": "dmDupS4tJR_KYz9o832Y2",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gssp": true,
+  "appGip": true,
+  "scriptLoader": []
+}
