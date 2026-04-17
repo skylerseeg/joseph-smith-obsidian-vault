@@ -184,10 +184,17 @@ class _TextExtractor(HTMLParser):
         return re.sub(r"\s+", " ", "".join(self._parts)).strip()
 
 
-def strip_html(text: str) -> str:
-    """Strip HTML tags and normalize whitespace."""
-    if not text or "<" not in text:
-        return (text or "").strip()
+def strip_html(text: Any) -> str:
+    """Strip HTML tags from a string (or recursively extract text from dict/list)."""
+    if not text:
+        return ""
+    if isinstance(text, dict):
+        return " ".join(strip_html(v) for v in text.values() if v).strip()
+    if isinstance(text, list):
+        return " ".join(strip_html(i) for i in text if i).strip()
+    text = str(text)
+    if "<" not in text:
+        return text.strip()
     try:
         ex = _TextExtractor()
         ex.feed(text)
@@ -450,7 +457,12 @@ def main(
                 slug = entry["slug"]
                 progress.update(task, description=f"[cyan]{slug[:55]}")
 
-                doc = scrape_all_pages(client, slug, series)
+                try:
+                    doc = scrape_all_pages(client, slug, series)
+                except Exception as e:
+                    log.error(f"CRASH  {series}  {slug}  {e}")
+                    error_log.error(f"CRASH  {series}  {slug}  {e}")
+                    doc = None
                 if doc:
                     out = RAW_DIR / f"{slug}.json"
                     out.write_text(doc.model_dump_json(indent=2))
