@@ -167,10 +167,46 @@ def find_all(obj: Any, key: str, results: list | None = None) -> list:
 SLUG_RE = re.compile(r"/paper-summary/([^/?#\s\"'<>\\]+)")
 
 
+# Keys in pageProps that are UI localization dicts, not document data.
+# Excluding them prevents find_key from returning false matches like
+# metaStrings["title"] == "Title" or metaStrings["People"] == "People".
+_UI_KEYS = frozenset({"metaStrings", "layoutStrings", "env", "searchOptions"})
+
+
+def _doc_scope(pp: dict) -> dict:
+    """Return pageProps with UI-only keys stripped out."""
+    return {k: v for k, v in pp.items() if k not in _UI_KEYS}
+
+
+def _extract_people(raw_items: list) -> list[str]:
+    names: list[str] = []
+    for item in raw_items:
+        if isinstance(item, str) and item:
+            names.append(item)
+        elif isinstance(item, dict):
+            name = item.get("name") or item.get("label") or item.get("displayName")
+            if name:
+                names.append(name)
+        elif isinstance(item, list):
+            for sub in item:
+                if isinstance(sub, str):
+                    names.append(sub)
+                elif isinstance(sub, dict):
+                    name = sub.get("name") or sub.get("label")
+                    if name:
+                        names.append(name)
+    return names
+
+
 def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
     """
     Parse __NEXT_DATA__ from a paper-summary page into a JSPPDocument.
-    The structure varies by document type; we probe multiple known key paths.
+
+    pageProps structure (confirmed on paper-summary pages):
+      summary  — document metadata: title, date, type, people, places, source note
+      gallery  — facsimile viewer pages (image URLs, page count)
+      tableOfContents — document sections
+      metaStrings / layoutStrings — UI i18n strings (EXCLUDED from search)
     """
     doc = JSPPDocument(
         slug=slug,
@@ -180,39 +216,45 @@ def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
     )
 
     pp = data.get("props", {}).get("pageProps", {})
+    scope = _doc_scope(pp)
+
+    # The 'summary' sub-object holds most document metadata.
+    # Search it first so we get document values, not UI strings.
+    summary = pp.get("summary") or {}
+    gallery = pp.get("gallery") or {}
+
+    def _first(keys: list[str], obj: dict, fallback: dict | None = None, *, min_len: int = 1) -> str | None:
+        for key in keys:
+            val = find_key(obj, key)
+            if not val and fallback:
+                val = find_key(fallback, key)
+            if isinstance(val, str) and len(val) >= min_len:
+                return val.strip()
+        return None
 
     # ── Title ──────────────────────────────────────────────────────────────────
-    for key in ["title", "documentTitle", "paperTitle", "heading"]:
-        val = find_key(pp, key)
-        if isinstance(val, str) and len(val) > 3:
-            doc.title = val.strip()
-            break
+    title = _first(["title", "documentTitle", "paperTitle", "heading", "label"], summary, scope, min_len=4)
+    if title:
+        doc.title = title
 
     # ── Date ───────────────────────────────────────────────────────────────────
-    for key in ["date", "documentDate", "dateString", "pubDate"]:
-        val = find_key(pp, key)
-        if isinstance(val, str) and val:
-            doc.date = val.strip()
-            break
+    date_val = _first(["date", "documentDate", "dateString", "pubDate", "displayDate"], summary, scope)
+    if date_val:
+        doc.date = date_val
 
-    # ── Document type ──────────────────────────────────────────────────────────
-    for key in ["documentType", "docType", "type", "genre"]:
-        val = find_key(pp, key)
-        if isinstance(val, str) and val:
-            doc.doc_type = val.strip()
-            break
+    # ── Document type — deliberately exclude "type" (matches JSON schema fields)
+    doc_type = _first(["documentType", "docType", "genre", "category", "docClass"], summary, scope)
+    if doc_type:
+        doc.doc_type = doc_type
 
     # ── Location ───────────────────────────────────────────────────────────────
-    for key in ["location", "place", "createdAt", "originPlace"]:
-        val = find_key(pp, key)
-        if isinstance(val, str) and val:
-            doc.location = val.strip()
-            break
+    location = _first(["location", "place", "originPlace", "origin"], summary, scope)
+    if location:
+        doc.location = location
 
     # ── Transcript ─────────────────────────────────────────────────────────────
-    # Try known transcript container keys
-    for key in ["transcript", "transcription", "text", "content", "body", "documentText"]:
-        val = find_key(pp, key)
+    for key in ["transcript", "transcription", "documentText", "text", "content", "body", "fullText"]:
+        val = find_key(summary, key) or find_key(scope, key)
         if val:
             extracted = text_from(val).strip()
             if len(extracted) > 50:
@@ -220,33 +262,20 @@ def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
                 break
 
     # ── Source note ────────────────────────────────────────────────────────────
-    for key in ["sourceNote", "source_note", "historicalIntro", "introduction"]:
-        val = find_key(pp, key)
-        if isinstance(val, str) and len(val) > 20:
-            doc.source_note = val.strip()
-            break
+    note = _first(["sourceNote", "source_note", "historicalIntro", "introduction", "description"],
+                  summary, scope, min_len=20)
+    if note:
+        doc.source_note = note
 
     # ── People ─────────────────────────────────────────────────────────────────
-    people_raw = find_all(pp, "people") + find_all(pp, "persons") + find_all(pp, "individuals")
-    for item in people_raw:
-        if isinstance(item, str) and item:
-            doc.people.append(item)
-        elif isinstance(item, dict):
-            name = item.get("name") or item.get("label") or item.get("displayName")
-            if name:
-                doc.people.append(name)
-        elif isinstance(item, list):
-            for subitem in item:
-                if isinstance(subitem, str):
-                    doc.people.append(subitem)
-                elif isinstance(subitem, dict):
-                    name = subitem.get("name") or subitem.get("label")
-                    if name:
-                        doc.people.append(name)
-    doc.people = list(dict.fromkeys(doc.people))  # deduplicate
+    people_raw = (
+        find_all(summary, "people") + find_all(summary, "persons") +
+        find_all(scope, "people") + find_all(scope, "persons")
+    )
+    doc.people = list(dict.fromkeys(_extract_people(people_raw)))
 
     # ── Places ─────────────────────────────────────────────────────────────────
-    places_raw = find_all(pp, "places") + find_all(pp, "locations")
+    places_raw = find_all(summary, "places") + find_all(scope, "places") + find_all(scope, "locations")
     for item in places_raw:
         if isinstance(item, str) and item:
             doc.places.append(item)
@@ -264,9 +293,12 @@ def parse_document(data: dict, slug: str, series: str) -> JSPPDocument:
             doc.related_slugs.append(s)
     doc.related_slugs = sorted(set(doc.related_slugs))
 
-    # ── Page count ─────────────────────────────────────────────────────────────
-    page_count = find_key(pp, "pageCount") or find_key(pp, "totalPages") or find_key(pp, "pages")
-    if isinstance(page_count, int):
+    # ── Page count (gallery has the facsimile pages) ───────────────────────────
+    page_count = (
+        find_key(gallery, "pageCount") or find_key(gallery, "totalPages") or
+        find_key(pp, "pageCount") or find_key(pp, "totalPages")
+    )
+    if isinstance(page_count, int) and page_count > 0:
         doc.page_count = page_count
 
     return doc
@@ -329,9 +361,12 @@ def run_test(client: httpx.Client, slug: str = "journal-1832-1834") -> None:
     console.print(f"__NEXT_DATA__: {len(json.dumps(data))} chars")
     console.print(f"\npageProps keys: {list(pp.keys())}")
 
-    # Print first 4000 chars of pageProps
-    console.print("\n[bold]pageProps (first 4000 chars):[/]")
-    console.print(json.dumps(pp, indent=2)[:4000])
+    # Show the document data sub-sections (most useful for debugging)
+    for section in ["summary", "gallery", "tableOfContents", "context"]:
+        obj = pp.get(section)
+        if obj:
+            console.print(f"\n[bold]{section} keys:[/] {list(obj.keys()) if isinstance(obj, dict) else type(obj).__name__}")
+            console.print(json.dumps(obj, indent=2)[:2000])
 
     # Save full data
     out = Path(f"nextdata_{slug[:30]}.json")
@@ -347,7 +382,9 @@ def run_test(client: httpx.Client, slug: str = "journal-1832-1834") -> None:
     console.print(f"  Location:   {doc.location!r}")
     console.print(f"  Page count: {doc.page_count}")
     console.print(f"  People:     {doc.people[:5]}")
-    console.print(f"  Transcript: {doc.transcript[:200]!r}")
+    console.print(f"  Places:     {doc.places[:5]}")
+    console.print(f"  Transcript: {doc.transcript[:300]!r}")
+    console.print(f"  Source note:{doc.source_note[:200]!r}")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
