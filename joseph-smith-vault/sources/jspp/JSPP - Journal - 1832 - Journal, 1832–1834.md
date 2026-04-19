@@ -6,7 +6,7 @@
 **Document Type:** Journal
 **Location:** Kirtland, Ohio
 **Source URL:** https://www.josephsmithpapers.org/paper-summary/journal-1832-1834/1
-**Scraped:** 2026-04-17
+**Scraped:** 2026-04-19
 
 ---
 
