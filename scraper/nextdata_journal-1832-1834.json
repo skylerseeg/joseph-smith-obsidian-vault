@@ -1,0 +1,2395 @@
+{
+  "props": {
+    "pageProps": {
+      "env": {
+        "date": 1776453819930,
+        "PUBLIC_ADOBE_LAUNCH_URI": "https://assets.adobedtm.com/05064fe6cab0/b9d37f296ace/launch-fe44d8adbb98.min.js",
+        "PUBLIC_ADOBE_LAUNCH_HIDE_FLICKER": "false",
+        "PUBLIC_IMAGE_PROXY_URL": "https://www.josephsmithpapers.org/",
+        "PUBLIC_IMAGE_BASE_PATH": "bc-jsp",
+        "PUBLIC_CDN_URL": "https://cdn.churchofjesuschrist.org",
+        "PUBLIC_CACHE_CONTROL_MAX_AGE": "1800",
+        "PUBLIC_DEPLOY_ENV": "production",
+        "PUBLIC_API_URL": "https://jsp-api.pvu.cf.churchofjesuschrist.org"
+      },
+      "metaStrings": {
+        "enhancedFacsimileView": "Enhanced Facsimile View",
+        "/Home": "Home",
+        "/news-News": "News",
+        "/news-PageTitle2": "News | Joseph Smith Papers",
+        "/thepapers-MetaAuthor": "The Church Historian\u2019s Press",
+        "/thepapers-MetaDescription": "View the original histories, journals, revelations, and other documents of Joseph Smith, the founding prophet of The Church of Jesus Christ of Latter-day Saints",
+        "/thepapers-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/thepapers-MetaTitle": "The Joseph Smith Papers: The Papers",
+        "/thepapers-PageTitle": "The Joseph Smith Papers: The Papers",
+        "about-the-project": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">About the Project</span><br clear=\"none\" xmlns=\"http://www.w3.org/1999/xhtml\"/>",
+        "add-to": "Add to",
+        "add-to-study-notebook": "Add to study notebook",
+        "additionalAdministrativeRecords": "Additional Administrative Records",
+        "additionalHistories": "Additional Histories",
+        "additionalLegal": "Additional Legal, Business, and Financial Records",
+        "additionalMaterial": "Additional Material",
+        "additionalRevelationAndTranslations": "Additional Revelations and Translations",
+        "address": "Address:",
+        "addressError": "An address must be provided.",
+        "administrativeRecords": "Administrative Records",
+        "administrativeRecordsDescription": "Minutes and other official records",
+        "appendixItems": "Appendix Items",
+        "availableForPurchase": "AVAILABLE FOR PURCHASE",
+        "Bookmark": "Bookmark",
+        "breadcrumb-Administrative": "Administrative Records",
+        "breadcrumb-Documents": "Documents",
+        "breadcrumb-Histories": "Histories",
+        "breadcrumb-Journals": "Journals",
+        "breadcrumb-Legal": "Legal, Business, and Financial Records",
+        "breadcrumb-Other Contemporary Papers": "Other Contemporary Papers",
+        "breadcrumb-Revelations and Translations": "Revelations and Translations",
+        "browse-the-papers": "Browse the Papers",
+        "calendarOfDocs": "Calendar of Documents",
+        "calendarOfDocuments": "Calendar of Documents",
+        "calendarOfDocumentsDescription": "Chronological list of all known Joseph Smith documents, including multiple versions of documents",
+        "cite-this-page": "Cite this page",
+        "city": "City:",
+        "cityError": "A city must be provided.",
+        "clearAll": "Clear All",
+        "contact-us": "Contact Us",
+        "copy-link": "Copy link",
+        "country": "Country:",
+        "doc-search": "Search this document",
+        "DocsV2Intro": "Documents, Volume 2 Introduction: Joseph Smith Documents Dating from July 1831 through January 1833",
+        "DocsV2Part1": "Documents, Volume 2, Part 1 Introduction: Missouri, Summer 1831",
+        "DocsV2Part2": "Documents, Volume 2, Part 2 Introduction: Hiram, Ohio, Fall 1831",
+        "DocsV2Part3": "Documents, Volume 2, Part 3 Introduction: Hiram, Ohio, Winter 1831\u20131832",
+        "DocsV2Part4": "Documents, Volume 2, Part 4 Introduction: Missouri, Indiana, and Ohio, Spring and Summer 1832",
+        "DocsV2Part5": "Documents, Volume 2, Part 5 Introduction: Kirtland, Ohio. Fall 1832 and Winter 1832\u20131833",
+        "documents": "Documents",
+        "documentsAfter1844": "Documents, After 1844",
+        "documentsByEarlyLeadersAndOtherContemporaries": "Forthcoming: selected historical accounts, journal entries, and other documents by early church leaders and other contemporaries of Joseph Smith that shed light on events and themes mentioned in Joseph Smith's papers",
+        "documentsDescription": "Letters, revelations, reports of discourses, minutes, etc.",
+        "DocumentsVolume1IntroductionJosephSmithDocumentsDatingthroughJune1831": "Documents, Volume 1 Introduction: Joseph Smith Documents Dating through June 1831",
+        "DocumentsVolume1Part1IntroductionJuly1828March1829": "Documents, Volume 1, Part 1 Introduction: July 1828\u2013March 1829",
+        "DocumentsVolume1Part2IntroductionApril1829March1830": "Documents, Volume 1, Part 2 Introduction: April 1829\u2013March 1830",
+        "DocumentsVolume1Part3IntroductionAprilSeptember1830": "Documents, Volume 1, Part 3 Introduction: April\u2013September 1830",
+        "DocumentsVolume1Part4IntroductionOctober1830January1831": "Documents, Volume 1, Part 4 Introduction: October 1830\u2013January 1831",
+        "DocumentsVolume1Part5IntroductionFebruaryJune1831": "Documents, Volume 1, Part 5 Introduction: February\u2013June 1831",
+        "DocumentsVolume3Part1IntroductionFebruaryMarch1833": "Documents, Volume 3, Part 1 Introduction: February\u2013March 1833",
+        "DocumentsVolume3Part2IntroductionAprilJune1833": "Documents, Volume 3, Part 2 Introduction: April\u2013June 1833",
+        "DocumentsVolume3Part3IntroductionJulySeptember1833": "Documents, Volume 3, Part 3 Introduction: July\u2013September 1833",
+        "DocumentsVolume3Part4IntroductionOctoberDecember1833": "Documents, Volume 3, Part 4 Introduction: October\u2013December 1833",
+        "DocumentsVolume3Part5IntroductionJanuaryMarch1834": "Documents, Volume 3, Part 5 Introduction: January\u2013March 1834",
+        "download": "Download",
+        "earlyHistoriesAndMultivolumeHistory": "Forthcoming: images and transcripts of early histories written by Joseph Smith, early histories written by other church members by assignment, and more of the multivolume history of the church",
+        "editorial-method": "Editorial Method",
+        "editorialMethod": "Editorial Method",
+        "email-updates": "Email Updates",
+        "emailAddress": "Email address:",
+        "emailAddressError": "A valid email address must be provided.",
+        "endorsements": "Endorsements",
+        "EssayonSourcesCitedinDocumentsVolume1": "Essay on Sources Cited in Documents, Volume 1",
+        "EssayonSourcesCitedinDocumentsVolume2": "Essay on Sources Cited in Documents, Volume 2",
+        "EssayOnSourcesCitedInDocumentsVolume3": "Essay on Sources Cited in Documents, Volume 3",
+        "essayOnSourcesCitedInHistoriesVolume1": "Essay on Sources Cited in Histories, Volume 1",
+        "essayOnSourcesCitedInHistoriesVolume2": "Essay on Sources Cited in Histories, Volume 2",
+        "essayOnSourcesCitedInJournalsVolume1": "Essay on Sources Cited in Journals, Volume 1",
+        "essayOnSourcesCitedInJournalsVolume2": "Essay on Sources Cited in Journals, Volume 2",
+        "events": "Events",
+        "events-description": "<p xmlns=\"http://www.w3.org/1999/xhtml\">Timeline of major events mentioned in Joseph Smith\u2019s papers. Events include major journeys and migrations, births and deaths of Joseph Smith\u2019s children, selected revelations, essential developments in ecclesiastical organization, and other significant incidents. Future releases will expand the list of events.</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">For more information about an event, click on the event name. Move the \u201chandles\u201d on the blue bar to see a larger or smaller time span. To zoom in to a month-by-month view, move both handles inside a single year span. You can also use the arrows on the left and right side of the bar to move through the timeline. Note that choosing a smaller time span will allow you to see more events. You can also use your mouse wheel to zoom in and out. Hover over an event and roll up once to zoom to a month-by-month view and again for a day-by-day view. Roll down to zoom out.</p>",
+        "Facebook": "Facebook",
+        "faq": "FAQ",
+        "first-name-option": "First Name",
+        "fiveLaterJournals1841To1844": "Forthcoming: images and transcripts of Joseph Smith's last journals covering almost every day of his life from April 1843 to his murder in June 1844",
+        "header-churchHistory": "Church History",
+        "header-papersLanding": "The Collection",
+        "header-peopleLanding": "People of the Time",
+        "header-placesLanding": "Places of the Time",
+        "header-recentlyVisited": "Recently Visited",
+        "header-search": "Search",
+        "header-searchJosephSmithPapers": "search Joseph Smith Papers",
+        "header-theJosephSmithPapers": "The Joseph Smith Papers",
+        "header-timeline": "Timeline of Events",
+        "header-topicsLanding": "Topics",
+        "histories": "Histories",
+        "historiesDescription": "Early histories and draft material for the later <span class=\"plain-title\" xmlns=\"http://www.w3.org/1999/xhtml\">History of the Church</span>",
+        "historiesInitiatedByAssignment": "Histories Initiated by Assignment of Joseph Smith, 1831\u20131847",
+        "history": "History",
+        "History2C201838u201318562028Manuscript20History20of20the20Church2920": "History 1838-1856 Manuscript History of the Church",
+        "historySeriesIntroduction": "History Series Introduction",
+        "imagesAndTranscripts": "Images and Transcripts",
+        "indexError": "You need to select at least one index.",
+        "indexForHistoriesVolume1and2": "",
+        "indexForJournalsVolume1": "",
+        "indexForJournalsVolume2": "",
+        "indexIntroText": "<p xmlns=\"http://www.w3.org/1999/xhtml\">To request a free, softbound copy of the index for <em>Journals, Volume 1: 1832\u20131839</em> or <em>Journals, Volume 2: December 1841\u2013April 1843,</em> please complete the following form. When you are ready to submit your request, click \"Submit.\"</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">Please be aware that the information you submit will be shared with Deseret Book Company, the print and distribution partner of the Joseph Smith Papers Project. Your request constitutes permission for the project and Deseret Book Company to send you periodic email updates about the project and its publications.</p> <p xmlns=\"http://www.w3.org/1999/xhtml\">Please select which index you are requesting.<br/></p>",
+        "indexJ1Title": "Journals, Volume 1: 1832\u20131839",
+        "indexJ2Title": "Journals, Volume 2: December 1841\u2013April 1843",
+        "indexRequestFromEmail": "josephsmithpapers@ldschurch.org",
+        "indexRequestFromName": "Joseph Smith Papers Website",
+        "indexRequestTitle": "Request for index",
+        "indexRequestToEmail": "service@deseretbook.com",
+        "indexRequestToName": "Deseret Book",
+        "info": "Info",
+        "interim-content": "INTERIM CONTENT",
+        "IntroductionDocumentsSeries": "Documents Series Introduction",
+        "introductionTo1830sJournals": "Introduction to 1830s Journals",
+        "introductionToAbrahamManuscripts": "Introduction to Book of Abraham Manuscripts",
+        "IntroductionToDocumentsVolume3February1833March1834": "Documents, Volume 3 Introduction: Joseph Smith Documents from February 1833 through March 1834",
+        "introductionToEgyptianMaterial": "Introduction to Egyptian Material",
+        "introductionToJosephSmithOfficePapers": "Introduction to Joseph Smith Office Papers",
+        "introductionToManuscriptHisotryOfTheChurch": "Introduction to History, 1838\u20131856 (Manuscript History of the Church)",
+        "introductionToNauvooJournals": "Introduction to Nauvoo Journals, December 1841\u2013April 1843",
+        "introductionToTheJournals": "Introduction to the Journals",
+        "introductionToTheManuscriptRevelationBooks": "Introduction to the Manuscript Revelation Books",
+        "IntroEarlyDraftsOfHistory1838": "Introduction to Early Drafts of History, 1838\u20131856",
+        "IntroToHistoryDrafts1838": "Introduction to History Drafts, 1838\u20131842",
+        "IntroToHistoryDrafts1844": "Introduction to History Drafts, 1844\u20131856",
+        "invalidEmail": "A valid email address must be provided.",
+        "invert": "Invert",
+        "Joseph20Smith20Histories20": "Joseph Smith Histories",
+        "JosephSmith-EraPublicationsOfRevelations": "Joseph Smith\u2013Era Publications of Revelations",
+        "josephSmithAsRevelatorAndTranslator": "Joseph Smith as Revelator and Translator",
+        "josephSmithsHistoricalEnterprise": "Joseph Smith\u2019s Historical Enterprise",
+        "journals": "Journals",
+        "journalsDescription": "Journals and diaries",
+        "JS-and-his-papers": "Joseph Smith and His Papers",
+        "JSPPA1": "Letterbooks",
+        "JSPPA2": "Minute Books",
+        "JSPPA4": "Records of Organizations",
+        "JSPPA5": "Miscellaneous",
+        "JSPPA9": "Joseph Smith Office Papers",
+        "JSPPH1": "Joseph Smith Histories",
+        "JSPPH1-SUB": "Fair Copy",
+        "JSPPH2": "Assigned Histories",
+        "JSPPH2-SUB": "Sources for Assigned Histories",
+        "JSPPH3": "History, 1838\u20131856 (Manuscript History of the Church)",
+        "JSPPH3-SUB": "Early Drafts",
+        "JSPPH3-SUB1": "Drafts, 1838\u20131842",
+        "JSPPH3-SUB2": "Drafts, 1844\u20131856",
+        "JSPPH4": "Other Histories",
+        "JSPPJ1": "Journals, 1832\u20131839",
+        "JSPPJ2": "Journals, 1841\u20131843",
+        "JSPPJ3": "Journals, 1844",
+        "JSPPL1": "New York, Pennsylvania, and Ohio",
+        "JSPPL1-SUB01": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Hurlbut v. Smith</em>, Ontario Co., NY, Court of Common Pleas, 6 February 1819",
+        "JSPPL1-SUB02": "<em xmlns=\"http://www.w3.org/1999/xhtml\">People v. Smith</em>, Chenango Co., NY, Justice of the Peace Court, 20 March 1826",
+        "JSPPL1-SUB05": "<em xmlns=\"http://www.w3.org/1999/xhtml\">People v. Smith</em>, Chenango and Broome Cos., NY Justice of the Peace Courts, July 1830",
+        "JSPPL1-SUB06": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Noble v. Smith</em>, Susquehanna Co., PA Court of Common Pleas, August 1830",
+        "JSPPL1-SUB07": "<em xmlns=\"http://www.w3.org/1999/xhtml\">State of Ohio v. Hurlbut</em>, Geauga Co., OH, Court of Common Pleas, 21 December 1833",
+        "JSPPL1-SUB08": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Johnson v. Remonstrants</em>, Geauga Co., OH, Court of Common Pleas, 5 April 1834",
+        "JSPPL1-SUB13": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Rounds qui tam v. Smith</em>, Geauga Co., OH, Court of Common Pleas, 10 February 1837",
+        "JSPPL1-SUB18": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Holmes v. Dayton, Slitor, and Smith</em>, Geauga Co., OH, Court of Common Pleas, 28 March 1837",
+        "JSPPL1-SUB28": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Lake for the use of Quinn v. Millet, Smith, and Smith</em>, Geauga Co., OH, Justice of the Peace Court, 8 July 1837",
+        "JSPPL1-SUB29": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Millet for the use of Smith v. Woodstock</em>, Geauga Co., OH, Justice of the Peace Court, 15 July 1837",
+        "JSPPL1-SUB35": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Granger</em>, Geauga Co., OH, Justice of the Peace Court, 16 August 1837",
+        "JSPPL1-SUB36": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Smith, Cowdery, Carter, Knight, Orton, and Cahoon</em>, Geauga Co., OH, Justice of the Peace Court, 3 January 1838",
+        "JSPPL1-SUB39": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Wright v. Rigdon, Smith, Cowdery, Whitney, and Johnson</em>, Geauga Co., OH, Court of Common Pleas, 11 October 1837",
+        "JSPPL1-SUB42": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Boynton and Hyde v. Smith</em>, Geauga Co., OH, Court of Common Pleas, 26 October 1837",
+        "JSPPL1-SUB49": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Wilder and Strong v. Rounds</em>, Geauga Co., OH, Justice of the Peace Court, 16 January 1838",
+        "JSPPL1-SUB50": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Spencer v. Cahoon, Carter, Smith, Smith, Rigdon, and Smith</em>, Geauga Co., OH, Justice of the Peace Court, 25 January 1838",
+        "JSPPL1-SUB51": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Smith for the use of Granger v. Smalling and Coltrin</em>, Geauga Co., OH, Court of Common Pleas, 28 February 1838",
+        "JSPPL1-SUB53": "<em xmlns=\"http://www.w3.org/1999/xhtml\">Allen v. Granger</em>, Geauga Co., OH, Court of Common Pleas, circa 4 May 1838",
+        "JSPPL1-SUB99": "Invoices",
+        "JSPPL2": "Missouri",
+        "JSPPL2-SUB01": "<em xmlns=\"http://www.w3.org/1999/xhtml\">State of Missouri v. JS et al. for Treason and Other Crimes</em>, Missouri 5th Judicial Circuit, 12\u201329 November 1838",
+        "JSPPR1": "Manuscript Revelation Books",
+        "JSPPR2": "Published Revelations",
+        "JSPPR3": "Book of Mormon Manuscripts",
+        "JSPPR4": "Book of Mormon Editions",
+        "JSPPR5": "Bible Revision Manuscripts",
+        "JSPPR6": "Book of Abraham and Other Egyptian Material",
+        "JSPPREL1": "Secondary Accounts of the First Vision",
+        "last-name-option": "Last Name",
+        "laterDocuments": "Later Documents",
+        "laterJournals": "Later Journals",
+        "legalAndBusinessPapers": "Forthcoming: images and transcripts of additional legal, business, and financial papers from New York, Pennsylvania, Ohio, Missouri, Iowa, and Illinois, including records of the many court cases in which Joseph Smith was a plaintiff, defendant, or witness",
+        "legalAndBusinessRecords": "Legal, Business, and Financial Records",
+        "legalAndBusinessRecordsDescription": "Court, land, and business papers",
+        "letterbooksAndInstitutionalRecords": "Forthcoming: images and transcripts of Joseph Smith's letterbooks and other institutional records",
+        "lettersRevelationsArticlesAndDocuments": "Forthcoming: images and transcripts of hundreds of Joseph Smith letters, revelations, newpaper articles, and other documents covering 1842\u20131844",
+        "library": "Library",
+        "library-of-stories": "Library of stories",
+        "map": "Map",
+        "month-short-01": "Jan",
+        "month-short-02": "Feb",
+        "month-short-03": "Mar",
+        "month-short-04": "Apr",
+        "month-short-05": "May",
+        "month-short-06": "Jun",
+        "month-short-07": "Jul",
+        "month-short-08": "Aug",
+        "month-short-09": "Sep",
+        "month-short-10": "Oct",
+        "month-short-11": "Nov",
+        "month-short-12": "Dec",
+        "monthlyEmail": "Monthly Email Updates",
+        "name": "Name:",
+        "nameError": "A name must be provided.",
+        "news": "News",
+        "noResults": "No results found for",
+        "note-on-images": "Note on Images",
+        "notes": "Notes",
+        "of": "of",
+        "options": "Options",
+        "Other20Histories": "Other Histories",
+        "otherContemporaryPapers": "Other Contemporary Papers",
+        "otherContemporaryPapersDescription": "Selected papers of Joseph Smith's contemporaries",
+        "page": "Page",
+        "paper-summary-additional-versions-help-text": "Asterisk (*) denotes a \"featured\" version, which includes an introduction and annotation",
+        "paper-summary-additional-versions-label": "Additional Versions",
+        "paper-summary-facts-label": "Document Information",
+        "paper-summary-footnotes-label": "Footnotes",
+        "paper-summary-historical-introduction-label": "Historical Introduction",
+        "paper-summary-source-note-label": "Source Note",
+        "paper-summary-toc-label": "Table of Contents",
+        "people": "People",
+        "people-date1": "17 Feb. 1792\u20137 Mar. 1872",
+        "people-date2": "12 Apr. 1807\u201313 May 1857",
+        "people-date3": "3 Oct. 1806\u20133 Mar. 1850",
+        "people-desc1": "Writer, teacher, printer, newspaper editor, publisher, postmaster, lawyer; born at Hanover, Morris Co.",
+        "people-desc2": "Farmer, editor, publisher, teacher, school administrator, legislator, explorer, author; born at Burlington, Otsego Co., New York.",
+        "people-desc3": "Clerk, teacher, justice of the peace, lawyer, newspaper editor; born at Wells, Rutland Co., Vermont. Son of William Cowdery and Rebecca Fuller",
+        "people-description": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">Brief biographical sketches for selected persons mentioned in Joseph Smith\u2019s papers. Names listed in this directory include church leaders and members, Smith family members, people Joseph Smith encountered in his travels, parties involved in legal and business matters, and other acquaintances. </span>",
+        "people-href1": "/person/william-wines-phelps",
+        "people-href2": "/person/parley-parker-pratt",
+        "people-href3": "/person/oliver-cowdery",
+        "people-img1": "william-phelps-sm.jpg",
+        "people-img2": "parley-pratt-sm.jpg",
+        "people-img3": "oliver-cowdery-sm.jpg",
+        "people-title1": "William W. Phelps",
+        "people-title2": "Parley P. Pratt",
+        "people-title3": "Oliver Cowdery",
+        "places": "Places",
+        "places-description": "<span class=\"c1\" xmlns=\"http://www.w3.org/1999/xhtml\">Geographical descriptions of many of the places mentioned in Joseph Smith\u2019s papers, including towns, villages, counties, states, landforms, waterways, and significant structures. </span>",
+        "print": "Print",
+        "project-team": "Project Team",
+        "published-volumes": "Published Volumes",
+        "referencing-the-project": "Referencing the Project",
+        "related-content": "Related content",
+        "relatedMaterials": "Related Materials",
+        "relatedResources": "Related Resources",
+        "reset": "Reset",
+        "results": "results",
+        "revBook2": "Forthcoming: additional images and transcripts of scriptural works, including published versions",
+        "revelationsAndTranslations": "Revelations and Translations",
+        "revelationsAndTranslationsDescription": "Early manuscript and printed versions of scriptural works",
+        "reviews": "Reviews",
+        "revInEveningMorningStar": "Revelations Printed in The Evening and the Morning Star",
+        "right-sidebar-1-header": "Finding aids",
+        "right-sidebar-2-header": "MOST-VISITED DOCUMENTS",
+        "right-sidebar-3-header": "Videos",
+        "right-sidebar-4-header": "available for purchase",
+        "right-sidebar-5-header": "request for documents",
+        "right-sidebar-6-header": "email updates",
+        "save": "Save",
+        "search": "Search",
+        "searchCriteria": "Current Search Criteria",
+        "send": "Send",
+        "series": "Series",
+        "share": "Share",
+        "Share": "Share",
+        "show-clear-text": "show clear text",
+        "showing": "Showing",
+        "sign-in": "Sign in",
+        "Sources20for20Assigned20Histories": "Sources for Assigned Histories",
+        "state": "State:",
+        "stateError": "A state or province must be provided.",
+        "subject": "JSP Index Request",
+        "submit": "Submit",
+        "subscribe": "Subscribe",
+        "table-of-contents": "Table of contents",
+        "tagged-with": "Tagged with",
+        "text": "Text",
+        "theHistoriesOfJosephSmith": "The Histories of Joseph Smith, 1832\u20131844",
+        "thePapers": "The Papers",
+        "timeline": "Timeline",
+        "title": "Title",
+        "topic-description": "<p xmlns=\"http://www.w3.org/1999/xhtml\">Definitions for terms appearing in Joseph Smith\u2019s papers that have particular meaning in Mormon usage\u2014especially ordinances, offices, and organizations. Terms are defined as they were used at the time.<br clear=\"none\"/></p>",
+        "topics": "Glossary",
+        "toReceiveEmails": "To receive free email updates on The Joseph Smith Papers enter your email address:",
+        "Twitter": "Twitter",
+        "works-cited-comprehensive-description": "For more information about the works cited, including a guide to the abbreviations used, see <a href=\"/articles/introduction-to-works-cited\" xmlns=\"http://www.w3.org/1999/xhtml\">Introduction to Works Cited</a>.",
+        "worksCited": "Comprehensive Works Cited",
+        "worksCitedDescription": "List of all sources cited on the Joseph Smith Papers website",
+        "worksCitedForJournalsVolume1": "Works Cited for Journals, Volume 1",
+        "zip": "Zip:",
+        "zipError": "A postal code must be provided.",
+        "article-email-PageTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "article-endorsements-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-endorsements-MetaDescription": "Read about endorsements for the Joseph Smith Papers, including an endorsement from the National Historical Publications and Records Commission",
+        "article-endorsements-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-endorsements-MetaTitle": "The Joseph Smith Papers: Endorsements",
+        "article-endorsements-PageTitle": "The Joseph Smith Papers: Endorsements",
+        "article-faq1-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq1-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq1-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq1-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq1-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq2-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq2-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq2-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq2-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq2-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq3-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-faq3-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "article-faq3-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-faq3-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-faq3-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaDescription": "An introduction to The Joseph Smith Papers, including his origins, initiatives, character, place in history, and records",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-joseph-smith-and-his-papers-an-introduction-MetaTitle": "Joseph Smith and His Papers: An Introduction",
+        "article-joseph-smith-and-his-papers-an-introduction-PageTitle": "Joseph Smith and His Papers: An Introduction",
+        "article-note-on-images-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-note-on-images-MetaDescription": "An explanation of why document images and transcripts may appear to differ in the online presentation of the Joseph Smith Papers",
+        "article-note-on-images-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-note-on-images-MetaTitle": "The Joseph Smith Papers: Note on images",
+        "article-note-on-images-PageTitle": "The Joseph Smith Papers: Note on images",
+        "article-project-team-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-project-team-MetaDescription": "Learn about the Editorial Board, National Advisory Board, historians, editors, and other staff members behind the project",
+        "article-project-team-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-project-team-MetaTitle": "The Joseph Smith Papers: Project team",
+        "article-project-team-PageTitle": "The Joseph Smith Papers: Project team",
+        "article-published-volumes-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-published-volumes-MetaDescription": "Order the already-published volumes from each series of the Joseph Smith Papers, including Documents, Journals, Histories, and Revelations and Translations.",
+        "article-published-volumes-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-published-volumes-MetaTitle": "The Joseph Smith Papers: Order the print volumes",
+        "article-published-volumes-PageTitle": "The Joseph Smith Papers: Order the print volumes",
+        "article-reviews-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-reviews-MetaDescription": "A collection of scholarly reviews of the Joseph Smith Papers",
+        "article-reviews-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-reviews-MetaTitle": "The Joseph Smith Papers: Reviews",
+        "article-reviews-PageTitle": "The Joseph Smith Papers: Reviews",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaDescription": "Guidelines for citing or referring to the Joseph Smith Papers, its component series or volumes, or materials on the Joseph Smith Papers website",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-MetaTitle": "The Joseph Smith Papers: Style guidelines for referencing the papers",
+        "article-style-guidelines-for-referring-to-the-joseph-smith-papers-PageTitle": "The Joseph Smith Papers: Style guidelines for referencing the papers",
+        "siteName": "The Joseph Smith Papers Project",
+        "/email-MetaAuthor": "The Church Historian\u2019s Press",
+        "/email-MetaDescription": "Register to receive periodic emails about news and updates for the Joseph Smith Papers Project",
+        "/email-MetaKeywords": "Joseph Smith Papers, email, Mormon",
+        "/email-MetaTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "/email-PageTitle": "The Joseph Smith Papers: Register for email updates about the project",
+        "/events-MetaAuthor": "The Church Historian\u2019s Press",
+        "/events-MetaDescription": "Timeline of major events mentioned in papers of Joseph Smith. LDS Church history events.",
+        "/events-MetaKeywords": "Joseph Smith Papers, LDS Church History Events, Events in Church History, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/events-MetaTitle": "The Joseph Smith Papers: Timeline of Events",
+        "/events-PageTitle": "The Joseph Smith Papers: Timeline of Events",
+        "/faq-MetaAuthor": "The Church Historian\u2019s Press",
+        "/faq-MetaDescription": "See answers to frequently asked questions about the Joseph Smith Papers, such as questions about its size, relationship with the LDS Church, pricing of volumes, and the website",
+        "/faq-MetaKeywords": "Joseph Smith Papers, Frequently Asked Questions, FAQ, Answers",
+        "/faq-MetaTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "/faq-PageTitle": "The Joseph Smith Papers: Frequently asked questions (FAQ)",
+        "/jsp-MetaAuthor": "The Church Historian\u2019s Press",
+        "/jsp-MetaDescription": "View the original histories, journals, revelations, and other documents of Joseph Smith, the founding prophet of The Church of Jesus Christ of Latter-day Saints",
+        "/jsp-MetaKeywords": "smith joseph, the life of the prophet, smith journal, revelation books, prophet joseph smith, joseph smith mormon, extant papers, histories, journals, legal",
+        "/jsp-MetaTitle": "The Joseph Smith Papers: A comprehensive digital collection of the papers of Joseph Smith",
+        "/jsp-PageTitle": "The Joseph Smith Papers: A comprehensive digital collection of the papers of Joseph Smith",
+        "/library-MetaAuthor": "The Church Historian\u2019s Press",
+        "/library-MetaDescription": "Joseph Smith Papers Media Library: Collection of artwork, photographs, and other media depicting people, places, and events mentioned in Joseph Smith's papers. The library also includes maps, charts, and other reference materials.",
+        "/library-MetaKeywords": "Joseph Smith Papers Media Library, Prophet Joseph Smith, Joseph Smith Mormon, LDS Media",
+        "/library-MetaTitle": "The Joseph Smith Papers: Media Library",
+        "/library-PageTitle": "The Joseph Smith Papers: Media Library",
+        "/news-MetaAuthor": "The Church Historian\u2019s Press",
+        "/news-MetaDescription": "Learn about the latest updates, new publications, and events for the Joseph Smith Papers Project",
+        "/news-MetaKeywords": "Joseph Smith Papers, news, Mormon",
+        "/news-MetaTitle": "The Joseph Smith Papers: News and updates",
+        "/news-PageTitle": "The Joseph Smith Papers: News and updates",
+        "/papers-MetaAuthor": "The Church Historian\u2019s Press",
+        "/people-MetaAuthor": "The Church Historian\u2019s Press",
+        "/people-MetaDescription": "Joseph Smith Papers: The people mentioned in the journals and other papers of Joseph Smith.",
+        "/people-MetaKeywords": "Joseph Smith Papers, smith journal, prophet joseph smith, joseph smith mormon",
+        "/people-MetaTitle": "The Joseph Smith Papers: People of the Time",
+        "/people-PageTitle": "The Joseph Smith Papers: People of the Time",
+        "/places-MetaAuthor": "The Church Historian\u2019s Press",
+        "/places-MetaDescription": "Joseph Smith Papers: The places mentioned in the papers of Joseph Smith. Historic sites - Church of Jesus Christ of Latter-day Saints.",
+        "/places-MetaKeywords": "Joseph Smith Papers, Historic Sites - Church of Jesus Christ of Latter-day Saints, Church History Places, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/places-MetaTitle": "The Joseph Smith Papers: Places of the Time",
+        "/places-PageTitle": "The Joseph Smith Papers: Places of the Time",
+        "/privacyPolicy-MetaAuthor": "The Church Historian\u2019s Press",
+        "/privacyPolicy-MetaDescription": "Privacy Policy for the Joseph Smith Papers Project",
+        "/privacyPolicy-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/privacyPolicy-MetaTitle": "The Joseph Smith Papers: Privacy Policy",
+        "/privacyPolicy-PageTitle": "The Joseph Smith Papers: Privacy Policy",
+        "/reference-MetaAuthor": "The Church Historian\u2019s Press",
+        "/reference-MetaDescription": "Joseph Smith Papers: View the people, places, events, and topics that appears in the papers of Joseph Smith the founding prophet of The Church of Jesus Christ of Latter-day Saints.",
+        "/reference-MetaKeywords": "Joseph Smith, history of the church, prophet joseph smith, joseph smith Mormon, parley p pratt",
+        "/reference-MetaTitle": "The Joseph Smith Papers: Reference",
+        "/reference-PageTitle": "The Joseph Smith Papers: Reference",
+        "/rightsAndUse-MetaAuthor": "The Church Historian\u2019s Press",
+        "/rightsAndUse-MetaDescription": "Rights and Use Information for the Joseph Smith Papers Project",
+        "/rightsAndUse-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "/rightsAndUse-MetaTitle": "The Joseph Smith Papers: Rights and Use",
+        "/rightsAndUse-PageTitle": "The Joseph Smith Papers: Rights and Use",
+        "/search-MetaAuthor": "The Church Historian\u2019s Press",
+        "/search-MetaDescription": "Search the Joseph Smith Papers for original documents and information about Joseph Smith, Mormonism, and American religious history.",
+        "/search-MetaKeywords": "Joseph Smith Papers, Mormon History, Mormon",
+        "/search-MetaTitle": "The Joseph Smith Papers: Search",
+        "/search-PageTitle": "The Joseph Smith Papers: Search",
+        "/topics-MetaAuthor": "The Church Historian\u2019s Press",
+        "/topics-MetaDescription": "Joseph Smith Papers: Definitions for terms appearing in Joseph Smith's papers that have particular meaning in Mormon usage\u2014especially ordinances, offices, andorganizations. Terms are defined as they were used at the time. LDS Topics.",
+        "/topics-MetaKeywords": "Joseph Smith Papers, LDS Topics, Prophet Joseph Smith, Joseph Smith Mormon",
+        "/topics-MetaTitle": "The Joseph Smith Papers: Topics",
+        "/topics-PageTitle": "The Joseph Smith Papers: Topics",
+        "/works-cited-MetaAuthor": "The Church Historian\u2019s Press",
+        "/works-cited-MetaDescription": "A comprehensive list of works cited in the Joseph Smith Papers.",
+        "/works-cited-MetaKeywords": "Joseph Smith Papers, comprehensive, works cited, history, Mormon",
+        "/works-cited-MetaTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/works-cited-PageTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/worksCited-MetaAuthor": "The Church Historian\u2019s Press",
+        "/worksCited-MetaDescription": "A comprehensive list of works cited in the Joseph Smith Papers.",
+        "/worksCited-MetaKeywords": "Joseph Smith Papers, comprehensive, works cited, history, Mormon",
+        "/worksCited-MetaTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "/worksCited-PageTitle": "The Joseph Smith Papers: Comprehensive List of Works Cited",
+        "article-about-the-project-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-about-the-project-MetaDescription": "The Joseph Smith Papers project is the definitive collection of journals, letters, and other documents written by Joseph Smith, the prophet of The Church of Jesus Christ of Latter-day Saints.",
+        "article-about-the-project-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-about-the-project-MetaTitle": "The Joseph Smith Papers: About the project",
+        "article-about-the-project-PageTitle": "The Joseph Smith Papers: About the project",
+        "article-contact-us-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-contact-us-MetaDescription": "Contact us if you have comments or questions on the print volumes, website, or the project in general",
+        "article-contact-us-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-contact-us-MetaTitle": "The Joseph Smith Papers: Contact us",
+        "article-contact-us-PageTitle": "The Joseph Smith Papers: Contact us",
+        "article-editorial-method-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-editorial-method-MetaDescription": "Learn about the editorial method for the Joseph Smith Papers Project, including transcription rules, annotation conventions, and document selection",
+        "article-editorial-method-MetaKeywords": "Joseph Smith, smith joseph, smith journal, revelation books, prophet joseph smith, joseph smith mormon",
+        "article-editorial-method-MetaTitle": "The Joseph Smith Papers: Editorial Method",
+        "article-editorial-method-PageTitle": "The Joseph Smith Papers: Editorial Method",
+        "article-email-MetaAuthor": "The Church Historian\u2019s Press",
+        "article-email-MetaDescription": "Register to receive periodic emails about news and updates for the Joseph Smith Papers Project",
+        "article-email-MetaKeywords": "Joseph Smith Papers, email, Mormon",
+        "article-email-MetaTitle": "The Joseph Smith Papers: Register for email updates about the project"
+      },
+      "layoutStrings": {
+        "project-menu": {
+          "id": "61482810845808514070-eng",
+          "links": [
+            {
+              "text": "The Papers",
+              "subLinks": [
+                {
+                  "text": "Browse the Papers",
+                  "href": "/the-papers"
+                },
+                {
+                  "text": "Documents",
+                  "href": "/the-papers/documents"
+                },
+                {
+                  "text": "Journals",
+                  "href": "/the-papers/journals"
+                },
+                {
+                  "text": "Administrative Records",
+                  "href": "/the-papers/administrative-records"
+                },
+                {
+                  "text": "Revelations and Translations",
+                  "href": "/the-papers/revelations-and-translations"
+                },
+                {
+                  "text": "Histories",
+                  "href": "/the-papers/histories"
+                },
+                {
+                  "text": "Legal Records",
+                  "href": "/the-papers/legal-records"
+                },
+                {
+                  "text": "Financial Records",
+                  "href": "/the-papers/financial-records"
+                },
+                {
+                  "text": "Other Contemporary Papers",
+                  "href": "/the-papers/other-contemporary-papers"
+                }
+              ]
+            },
+            {
+              "text": "Reference",
+              "subLinks": [
+                {
+                  "text": "People",
+                  "href": "/reference/people"
+                },
+                {
+                  "text": "Places",
+                  "href": "/reference/places"
+                },
+                {
+                  "text": "Events",
+                  "href": "/reference/events"
+                },
+                {
+                  "text": "Glossary",
+                  "href": "/reference/topics"
+                },
+                {
+                  "text": "Legal Glossary",
+                  "href": "/reference/topics?useTerm=legal"
+                },
+                {
+                  "text": "Financial Glossary",
+                  "href": "/reference/topics?useTerm=financial"
+                },
+                {
+                  "text": "Calendar of Documents",
+                  "href": "/reference/calendar-of-documents"
+                },
+                {
+                  "text": "Works Cited",
+                  "href": "/works-cited"
+                },
+                {
+                  "text": "Featured Topics",
+                  "href": "/finding-aids"
+                },
+                {
+                  "text": "Lesson Plans",
+                  "href": "/curriculum-for-educators"
+                },
+                {
+                  "text": "Related Publications",
+                  "href": "/articles/related-publications"
+                }
+              ]
+            },
+            {
+              "text": "Media",
+              "subLinks": [
+                {
+                  "text": "Videos",
+                  "href": "/media/videos"
+                },
+                {
+                  "text": "Photographs",
+                  "href": "/media/photographs"
+                },
+                {
+                  "text": "Illustrations",
+                  "href": "/media/illustrations"
+                },
+                {
+                  "text": "Charts",
+                  "href": "/media/charts"
+                },
+                {
+                  "text": "Maps",
+                  "href": "/media/maps"
+                },
+                {
+                  "text": "Podcasts",
+                  "href": "/articles/joseph-smith-papers-podcasts"
+                }
+              ]
+            },
+            {
+              "text": "News",
+              "subLinks": [
+                {
+                  "text": "Current News",
+                  "href": "/news/"
+                },
+                {
+                  "text": "Archive",
+                  "href": "/articles/2025-news"
+                },
+                {
+                  "text": "Newsletter",
+                  "href": "/articles/newsletter"
+                },
+                {
+                  "text": "Subscribe",
+                  "href": "/articles/subscribe"
+                },
+                {
+                  "text": "JSP Conferences",
+                  "href": "/articles/joseph-smith-papers-conferences?lang=eng"
+                }
+              ]
+            },
+            {
+              "text": "About",
+              "subLinks": [
+                {
+                  "text": "About the Project",
+                  "href": "/aboutTheProject"
+                },
+                {
+                  "text": "Joseph Smith and His Papers",
+                  "href": "/josephSmithAndHisPapers"
+                },
+                {
+                  "text": "FAQ",
+                  "href": "/articles/faq1"
+                },
+                {
+                  "text": "Awards",
+                  "href": "/awards"
+                },
+                {
+                  "text": "Endorsements",
+                  "href": "/endorsements"
+                },
+                {
+                  "text": "Reviews",
+                  "href": "/reviews"
+                },
+                {
+                  "text": "Editorial Method",
+                  "href": "/editorialMethod"
+                },
+                {
+                  "text": "Note on Transcriptions",
+                  "href": "/articles/note-on-transcriptions"
+                },
+                {
+                  "text": "Note on Images of People and Places",
+                  "href": "/articles/note-on-images"
+                },
+                {
+                  "text": "Referencing the Project",
+                  "href": "/referencingTheProject"
+                },
+                {
+                  "text": "Citing This Website",
+                  "href": "/articles/citing-this-website"
+                },
+                {
+                  "text": "Project Team",
+                  "href": "/projectTeam"
+                },
+                {
+                  "text": "Acknowledgments",
+                  "href": "/articles/acknowledgments"
+                },
+                {
+                  "text": "Contact Us",
+                  "href": "/contactUs"
+                }
+              ]
+            },
+            {
+              "text": "Published Volumes",
+              "subLinks": [
+                {
+                  "text": "Published Volumes",
+                  "href": "/publishedVolumes"
+                }
+              ]
+            }
+          ]
+        },
+        "project-footer": {
+          "links": [
+            {
+              "text": "Contact Us",
+              "href": "/contactUs"
+            },
+            {
+              "text": "FAQ",
+              "href": "/faq"
+            },
+            {
+              "text": "Follow Us on Facebook",
+              "href": "https://www.facebook.com/JosephSmithPapers"
+            }
+          ],
+          "requestHeader": "Request for Documents",
+          "requestQuestion": "Do you know of any Joseph Smith documents that we might not have heard about?",
+          "requestLink": {
+            "text": "Tell us",
+            "href": "https://app.pipefy.com/public/form/zbef7n4J"
+          },
+          "disclaimer": "The Church Historian\u2019s Press is an imprint of the Church History Department of The Church of Jesus Christ of Latter-day Saints, Salt Lake City, Utah, and a trademark of Intellectual Reserve, Inc.",
+          "copyright": "\u00a9 2026 by Intellectual Reserve, Inc. All rights reserved.",
+          "rightsLink": {
+            "text": "Terms of Use",
+            "date": "Updated 2021-04-13",
+            "href": "https://www.churchofjesuschrist.org/legal/terms-of-use?lang=eng&country=go"
+          },
+          "privacyLink": {
+            "text": "Privacy Notice",
+            "date": "Updated 2021-04-06",
+            "href": "https://www.churchofjesuschrist.org/legal/privacy-notice?lang=eng&country=go"
+          },
+          "chPressLink": {
+            "href": "https://www.churchhistorianspress.org"
+          }
+        }
+      },
+      "context": "published",
+      "host": "www.josephsmithpapers.org",
+      "showHeader": true,
+      "footerStyle": "mini",
+      "statusCode": 200,
+      "uri": "journal-1832-1834",
+      "page": "1",
+      "is404": false,
+      "gallery": [
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_000_thumb.jpg",
+          "page": "1",
+          "label": "[0]",
+          "href": "/paper-summary/journal-1832-1834/1"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_001_thumb.jpg",
+          "page": "2",
+          "label": "1",
+          "href": "/paper-summary/journal-1832-1834/2"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_002_thumb.jpg",
+          "page": "3",
+          "label": "2",
+          "href": "/paper-summary/journal-1832-1834/3"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_003_thumb.jpg",
+          "page": "4",
+          "label": "3",
+          "href": "/paper-summary/journal-1832-1834/4"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_004_thumb.jpg",
+          "page": "5",
+          "label": "4",
+          "href": "/paper-summary/journal-1832-1834/5"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_005_thumb.jpg",
+          "page": "6",
+          "label": "5",
+          "href": "/paper-summary/journal-1832-1834/6"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_006_thumb.jpg",
+          "page": "7",
+          "label": "6",
+          "href": "/paper-summary/journal-1832-1834/7"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_007_thumb.jpg",
+          "page": "8",
+          "label": "7",
+          "href": "/paper-summary/journal-1832-1834/8"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_008_thumb.jpg",
+          "page": "9",
+          "label": "8",
+          "href": "/paper-summary/journal-1832-1834/9"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_009_thumb.jpg",
+          "page": "10",
+          "label": "9",
+          "href": "/paper-summary/journal-1832-1834/10"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_010_thumb.jpg",
+          "page": "11",
+          "label": "10",
+          "href": "/paper-summary/journal-1832-1834/11"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_011_thumb.jpg",
+          "page": "12",
+          "label": "11",
+          "href": "/paper-summary/journal-1832-1834/12"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_012_thumb.jpg",
+          "page": "13",
+          "label": "12",
+          "href": "/paper-summary/journal-1832-1834/13"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_013_thumb.jpg",
+          "page": "14",
+          "label": "13",
+          "href": "/paper-summary/journal-1832-1834/14"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_014_thumb.jpg",
+          "page": "15",
+          "label": "14",
+          "href": "/paper-summary/journal-1832-1834/15"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_015_thumb.jpg",
+          "page": "16",
+          "label": "15",
+          "href": "/paper-summary/journal-1832-1834/16"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_016_thumb.jpg",
+          "page": "17",
+          "label": "16",
+          "href": "/paper-summary/journal-1832-1834/17"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_017_thumb.jpg",
+          "page": "18",
+          "label": "17",
+          "href": "/paper-summary/journal-1832-1834/18"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_018_thumb.jpg",
+          "page": "19",
+          "label": "18",
+          "href": "/paper-summary/journal-1832-1834/19"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_019_thumb.jpg",
+          "page": "20",
+          "label": "19",
+          "href": "/paper-summary/journal-1832-1834/20"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_020_thumb.jpg",
+          "page": "21",
+          "label": "20",
+          "href": "/paper-summary/journal-1832-1834/21"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_021_thumb.jpg",
+          "page": "22",
+          "label": "21",
+          "href": "/paper-summary/journal-1832-1834/22"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_022_thumb.jpg",
+          "page": "23",
+          "label": "22",
+          "href": "/paper-summary/journal-1832-1834/23"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_023_thumb.jpg",
+          "page": "24",
+          "label": "23",
+          "href": "/paper-summary/journal-1832-1834/24"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_024_thumb.jpg",
+          "page": "25",
+          "label": "24",
+          "href": "/paper-summary/journal-1832-1834/25"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_025_thumb.jpg",
+          "page": "26",
+          "label": "25",
+          "href": "/paper-summary/journal-1832-1834/26"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_026_thumb.jpg",
+          "page": "27",
+          "label": "26",
+          "href": "/paper-summary/journal-1832-1834/27"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_027_thumb.jpg",
+          "page": "28",
+          "label": "27",
+          "href": "/paper-summary/journal-1832-1834/28"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_028_thumb.jpg",
+          "page": "29",
+          "label": "28",
+          "href": "/paper-summary/journal-1832-1834/29"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_029_thumb.jpg",
+          "page": "30",
+          "label": "29",
+          "href": "/paper-summary/journal-1832-1834/30"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_030_thumb.jpg",
+          "page": "31",
+          "label": "30",
+          "href": "/paper-summary/journal-1832-1834/31"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_031_thumb.jpg",
+          "page": "32",
+          "label": "31",
+          "href": "/paper-summary/journal-1832-1834/32"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_032_thumb.jpg",
+          "page": "33",
+          "label": "32",
+          "href": "/paper-summary/journal-1832-1834/33"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_033_thumb.jpg",
+          "page": "34",
+          "label": "33",
+          "href": "/paper-summary/journal-1832-1834/34"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_034_thumb.jpg",
+          "page": "35",
+          "label": "34",
+          "href": "/paper-summary/journal-1832-1834/35"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_035_thumb.jpg",
+          "page": "36",
+          "label": "35",
+          "href": "/paper-summary/journal-1832-1834/36"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_036_thumb.jpg",
+          "page": "37",
+          "label": "36",
+          "href": "/paper-summary/journal-1832-1834/37"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_037_thumb.jpg",
+          "page": "38",
+          "label": "37",
+          "href": "/paper-summary/journal-1832-1834/38"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_038_thumb.jpg",
+          "page": "39",
+          "label": "38",
+          "href": "/paper-summary/journal-1832-1834/39"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_039_thumb.jpg",
+          "page": "40",
+          "label": "39",
+          "href": "/paper-summary/journal-1832-1834/40"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_040_thumb.jpg",
+          "page": "41",
+          "label": "40",
+          "href": "/paper-summary/journal-1832-1834/41"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_041_thumb.jpg",
+          "page": "42",
+          "label": "41",
+          "href": "/paper-summary/journal-1832-1834/42"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_042_thumb.jpg",
+          "page": "43",
+          "label": "42",
+          "href": "/paper-summary/journal-1832-1834/43"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_043_thumb.jpg",
+          "page": "44",
+          "label": "43",
+          "href": "/paper-summary/journal-1832-1834/44"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_044_thumb.jpg",
+          "page": "45",
+          "label": "44",
+          "href": "/paper-summary/journal-1832-1834/45"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_045_thumb.jpg",
+          "page": "46",
+          "label": "45",
+          "href": "/paper-summary/journal-1832-1834/46"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_046_thumb.jpg",
+          "page": "47",
+          "label": "46",
+          "href": "/paper-summary/journal-1832-1834/47"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_047_thumb.jpg",
+          "page": "48",
+          "label": "47",
+          "href": "/paper-summary/journal-1832-1834/48"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_048_thumb.jpg",
+          "page": "49",
+          "label": "48",
+          "href": "/paper-summary/journal-1832-1834/49"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_049_thumb.jpg",
+          "page": "50",
+          "label": "49",
+          "href": "/paper-summary/journal-1832-1834/50"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_050_thumb.jpg",
+          "page": "51",
+          "label": "50",
+          "href": "/paper-summary/journal-1832-1834/51"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_051_thumb.jpg",
+          "page": "52",
+          "label": "51",
+          "href": "/paper-summary/journal-1832-1834/52"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_052_thumb.jpg",
+          "page": "53",
+          "label": "52",
+          "href": "/paper-summary/journal-1832-1834/53"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_053_thumb.jpg",
+          "page": "54",
+          "label": "53",
+          "href": "/paper-summary/journal-1832-1834/54"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_054_thumb.jpg",
+          "page": "55",
+          "label": "54",
+          "href": "/paper-summary/journal-1832-1834/55"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_055_thumb.jpg",
+          "page": "56",
+          "label": "55",
+          "href": "/paper-summary/journal-1832-1834/56"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_056_thumb.jpg",
+          "page": "57",
+          "label": "56",
+          "href": "/paper-summary/journal-1832-1834/57"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_057_thumb.jpg",
+          "page": "58",
+          "label": "57",
+          "href": "/paper-summary/journal-1832-1834/58"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_058_thumb.jpg",
+          "page": "59",
+          "label": "58",
+          "href": "/paper-summary/journal-1832-1834/59"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_059_thumb.jpg",
+          "page": "60",
+          "label": "59",
+          "href": "/paper-summary/journal-1832-1834/60"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_060_thumb.jpg",
+          "page": "61",
+          "label": "60",
+          "href": "/paper-summary/journal-1832-1834/61"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_061_thumb.jpg",
+          "page": "62",
+          "label": "61",
+          "href": "/paper-summary/journal-1832-1834/62"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_062_thumb.jpg",
+          "page": "63",
+          "label": "62",
+          "href": "/paper-summary/journal-1832-1834/63"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_063_thumb.jpg",
+          "page": "64",
+          "label": "63",
+          "href": "/paper-summary/journal-1832-1834/64"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_064_thumb.jpg",
+          "page": "65",
+          "label": "64",
+          "href": "/paper-summary/journal-1832-1834/65"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_065_thumb.jpg",
+          "page": "66",
+          "label": "65",
+          "href": "/paper-summary/journal-1832-1834/66"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_066_thumb.jpg",
+          "page": "67",
+          "label": "66",
+          "href": "/paper-summary/journal-1832-1834/67"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_067_thumb.jpg",
+          "page": "68",
+          "label": "67",
+          "href": "/paper-summary/journal-1832-1834/68"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_068_thumb.jpg",
+          "page": "69",
+          "label": "68",
+          "href": "/paper-summary/journal-1832-1834/69"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_069_thumb.jpg",
+          "page": "70",
+          "label": "69",
+          "href": "/paper-summary/journal-1832-1834/70"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_070_thumb.jpg",
+          "page": "71",
+          "label": "70",
+          "href": "/paper-summary/journal-1832-1834/71"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_071_thumb.jpg",
+          "page": "72",
+          "label": "71",
+          "href": "/paper-summary/journal-1832-1834/72"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_072_thumb.jpg",
+          "page": "73",
+          "label": "72",
+          "href": "/paper-summary/journal-1832-1834/73"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_073_thumb.jpg",
+          "page": "74",
+          "label": "73",
+          "href": "/paper-summary/journal-1832-1834/74"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_074_thumb.jpg",
+          "page": "75",
+          "label": "74",
+          "href": "/paper-summary/journal-1832-1834/75"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_075_thumb.jpg",
+          "page": "76",
+          "label": "75",
+          "href": "/paper-summary/journal-1832-1834/76"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_076_thumb.jpg",
+          "page": "77",
+          "label": "76",
+          "href": "/paper-summary/journal-1832-1834/77"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_077_thumb.jpg",
+          "page": "78",
+          "label": "77",
+          "href": "/paper-summary/journal-1832-1834/78"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_078_thumb.jpg",
+          "page": "79",
+          "label": "78",
+          "href": "/paper-summary/journal-1832-1834/79"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_079_thumb.jpg",
+          "page": "80",
+          "label": "79",
+          "href": "/paper-summary/journal-1832-1834/80"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_080_thumb.jpg",
+          "page": "81",
+          "label": "80",
+          "href": "/paper-summary/journal-1832-1834/81"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_081_thumb.jpg",
+          "page": "82",
+          "label": "81",
+          "href": "/paper-summary/journal-1832-1834/82"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_082_thumb.jpg",
+          "page": "83",
+          "label": "82",
+          "href": "/paper-summary/journal-1832-1834/83"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_083_thumb.jpg",
+          "page": "84",
+          "label": "83",
+          "href": "/paper-summary/journal-1832-1834/84"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_084_thumb.jpg",
+          "page": "85",
+          "label": "84",
+          "href": "/paper-summary/journal-1832-1834/85"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_085_thumb.jpg",
+          "page": "86",
+          "label": "85",
+          "href": "/paper-summary/journal-1832-1834/86"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_086_thumb.jpg",
+          "page": "87",
+          "label": "86",
+          "href": "/paper-summary/journal-1832-1834/87"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_087_thumb.jpg",
+          "page": "88",
+          "label": "87",
+          "href": "/paper-summary/journal-1832-1834/88"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_088_thumb.jpg",
+          "page": "89",
+          "label": "88",
+          "href": "/paper-summary/journal-1832-1834/89"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_089_thumb.jpg",
+          "page": "90",
+          "label": "89",
+          "href": "/paper-summary/journal-1832-1834/90"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_090_thumb.jpg",
+          "page": "91",
+          "label": "90",
+          "href": "/paper-summary/journal-1832-1834/91"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_091_thumb.jpg",
+          "page": "92",
+          "label": "91",
+          "href": "/paper-summary/journal-1832-1834/92"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_092_thumb.jpg",
+          "page": "93",
+          "label": "92",
+          "href": "/paper-summary/journal-1832-1834/93"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_093_thumb.jpg",
+          "page": "94",
+          "label": "93",
+          "href": "/paper-summary/journal-1832-1834/94"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_094_thumb.jpg",
+          "page": "95",
+          "label": "94",
+          "href": "/paper-summary/journal-1832-1834/95"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_095_thumb.jpg",
+          "page": "96",
+          "label": "95",
+          "href": "/paper-summary/journal-1832-1834/96"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_096_thumb.jpg",
+          "page": "97",
+          "label": "96",
+          "href": "/paper-summary/journal-1832-1834/97"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_097_thumb.jpg",
+          "page": "98",
+          "label": "97",
+          "href": "/paper-summary/journal-1832-1834/98"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_098_thumb.jpg",
+          "page": "99",
+          "label": "98",
+          "href": "/paper-summary/journal-1832-1834/99"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_099_thumb.jpg",
+          "page": "100",
+          "label": "99",
+          "href": "/paper-summary/journal-1832-1834/100"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_100_thumb.jpg",
+          "page": "101",
+          "label": "100",
+          "href": "/paper-summary/journal-1832-1834/101"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_101_thumb.jpg",
+          "page": "102",
+          "label": "101",
+          "href": "/paper-summary/journal-1832-1834/102"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_102_thumb.jpg",
+          "page": "103",
+          "label": "102",
+          "href": "/paper-summary/journal-1832-1834/103"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_103_thumb.jpg",
+          "page": "104",
+          "label": "103",
+          "href": "/paper-summary/journal-1832-1834/104"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_104_thumb.jpg",
+          "page": "105",
+          "label": "104",
+          "href": "/paper-summary/journal-1832-1834/105"
+        },
+        {
+          "image": "/6662/6662_ms155_1_01_jsj-1_105_thumb.jpg",
+          "page": "106",
+          "label": "105",
+          "href": "/paper-summary/journal-1832-1834/106"
+        }
+      ],
+      "tableOfContents": [
+        {
+          "pageTitle": "27 November 1832 \u2022 Tuesday",
+          "editorialPageNumber": "1",
+          "pageNumber": "2",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0002.xml",
+          "date": "1832-11-27",
+          "intPageNumber": 2,
+          "linkID": "X0D72D5E6-2A23-4CC3-88CB-F4B7CC162351",
+          "id": 21
+        },
+        {
+          "pageTitle": "28 November 1832 \u2022 Wednesday",
+          "editorialPageNumber": "2",
+          "pageNumber": "3",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0003.xml",
+          "date": "1832-11-28",
+          "intPageNumber": 3,
+          "linkID": "JSPPJ1_d1e842",
+          "id": 63
+        },
+        {
+          "pageTitle": "29 November 1832 \u2022 Thursday",
+          "editorialPageNumber": "2",
+          "pageNumber": "3",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0003.xml",
+          "date": "1832-11-29",
+          "intPageNumber": 3,
+          "linkID": "JSPPJ1_d1e864",
+          "id": 64
+        },
+        {
+          "pageTitle": "30 November 1832 \u2022 Friday",
+          "editorialPageNumber": "3",
+          "pageNumber": "4",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0004.xml",
+          "date": "1832-11-30",
+          "intPageNumber": 4,
+          "linkID": "JSPPJ1_d1e1062",
+          "id": 22
+        },
+        {
+          "pageTitle": "1 December 1832 \u2022 Saturday",
+          "editorialPageNumber": "3",
+          "pageNumber": "4",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0004.xml",
+          "date": "1832-12-01",
+          "intPageNumber": 4,
+          "linkID": "JSPPJ1_d1e1116",
+          "id": 23
+        },
+        {
+          "pageTitle": "2 December 1832 \u2022 Sunday",
+          "editorialPageNumber": "3",
+          "pageNumber": "4",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0004.xml",
+          "date": "1832-12-02",
+          "intPageNumber": 4,
+          "linkID": "JSPPJ1_d1e1163",
+          "id": 24
+        },
+        {
+          "pageTitle": "3 December 1832 \u2022 Monday",
+          "editorialPageNumber": "3",
+          "pageNumber": "4",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0004.xml",
+          "date": "1832-12-03",
+          "intPageNumber": 4,
+          "linkID": "JSPPJ1_d1e1180",
+          "id": 25
+        },
+        {
+          "pageTitle": "4 December 1832 \u2022 Tuesday",
+          "editorialPageNumber": "4",
+          "pageNumber": "5",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0005.xml",
+          "date": "1832-12-04",
+          "intPageNumber": 5,
+          "linkID": "JSPPJ1_d1e1344",
+          "id": 65
+        },
+        {
+          "pageTitle": "5 December 1832 \u2022 Wednesday",
+          "editorialPageNumber": "4",
+          "pageNumber": "5",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0005.xml",
+          "date": "1832-12-05",
+          "intPageNumber": 5,
+          "linkID": "JSPPJ1_d1e1374",
+          "id": 66
+        },
+        {
+          "pageTitle": "6 December 1832 \u2022 Thursday",
+          "editorialPageNumber": "4",
+          "pageNumber": "5",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0005.xml",
+          "date": "1832-12-06",
+          "intPageNumber": 5,
+          "linkID": "JSPPJ1_d1e1471",
+          "id": 67
+        },
+        {
+          "pageTitle": "4 October 1833 \u2022 Friday",
+          "editorialPageNumber": "5",
+          "pageNumber": "6",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0006.xml",
+          "date": "1833-10-04",
+          "intPageNumber": 6,
+          "linkID": "JSPPJ1_d1e1559",
+          "id": 29
+        },
+        {
+          "pageTitle": "5 October 1833 \u2022 Saturday",
+          "editorialPageNumber": "5",
+          "pageNumber": "6",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0006.xml",
+          "date": "1833-10-05",
+          "intPageNumber": 6,
+          "linkID": "JSPPJ1_d1e1697",
+          "id": 30
+        },
+        {
+          "pageTitle": "6\u201312 October 1833 \u2022 Sunday\u2013Saturday",
+          "editorialPageNumber": "5",
+          "pageNumber": "6",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0006.xml",
+          "date": "1833-10-06",
+          "intPageNumber": 6,
+          "linkID": "JSPPJ1_d1e1724",
+          "id": 31
+        },
+        {
+          "pageTitle": "13 October 1833 \u2022 Sunday",
+          "editorialPageNumber": "7",
+          "pageNumber": "8",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0008.xml",
+          "date": "1833-10-13",
+          "intPageNumber": 8,
+          "linkID": "JSPPJ1_d1e1956",
+          "id": 33
+        },
+        {
+          "pageTitle": "14\u201318 October 1833 \u2022 Monday\u2013Friday",
+          "editorialPageNumber": "8",
+          "pageNumber": "9",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0009.xml",
+          "date": "1833-10-14",
+          "intPageNumber": 9,
+          "linkID": "JSPPJ1_d1e2014",
+          "id": 73
+        },
+        {
+          "pageTitle": "20\u201325 October 1833 \u2022 Sunday\u2013Friday",
+          "editorialPageNumber": "10",
+          "pageNumber": "11",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0011.xml",
+          "date": "1833-10-20",
+          "intPageNumber": 11,
+          "linkID": "JSPPJ1_d1e2177",
+          "id": 72
+        },
+        {
+          "pageTitle": "26 October 1833 \u2022 Saturday",
+          "editorialPageNumber": "15",
+          "pageNumber": "16",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0016.xml",
+          "date": "1833-10-26",
+          "intPageNumber": 16,
+          "linkID": "JSPPJ1_d1e2537",
+          "id": 37
+        },
+        {
+          "pageTitle": "27\u201328 October 1833 \u2022 Sunday\u2013Monday",
+          "editorialPageNumber": "15",
+          "pageNumber": "16",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0016.xml",
+          "date": "1833-10-27",
+          "intPageNumber": 16,
+          "linkID": "JSPPJ1_d1e2561",
+          "id": 38
+        },
+        {
+          "pageTitle": "Retrospective Note regarding Baptisms",
+          "editorialPageNumber": "26",
+          "pageNumber": "27",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0027.xml",
+          "date": "1833-10-27",
+          "intPageNumber": 27,
+          "linkID": "JSPPJ1_d1e3528",
+          "id": 3
+        },
+        {
+          "pageTitle": "29 October 1833 \u2022 Tuesday",
+          "editorialPageNumber": "17",
+          "pageNumber": "18",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0018.xml",
+          "date": "1833-10-29",
+          "intPageNumber": 18,
+          "linkID": "JSPPJ1_d1e2727",
+          "id": 41
+        },
+        {
+          "pageTitle": "30\u201331 October 1833 \u2022 Wednesday\u2013Thursday",
+          "editorialPageNumber": "17",
+          "pageNumber": "18",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0018.xml",
+          "date": "1833-10-30",
+          "intPageNumber": 18,
+          "linkID": "JSPPJ1_d1e2745",
+          "id": 42
+        },
+        {
+          "pageTitle": "1\u20134 November 1833 \u2022 Friday\u2013Monday",
+          "editorialPageNumber": "17",
+          "pageNumber": "18",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0018.xml",
+          "date": "1833-11-01",
+          "intPageNumber": 18,
+          "linkID": "JSPPJ1_d1e2769",
+          "id": 43
+        },
+        {
+          "pageTitle": "5\u201313 November 1833 \u2022 Tuesday\u2013Wednesday",
+          "editorialPageNumber": "18",
+          "pageNumber": "19",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0019.xml",
+          "date": "1833-11-05",
+          "intPageNumber": 19,
+          "linkID": "JSPPJ1_d1e2887",
+          "id": 83
+        },
+        {
+          "pageTitle": "14\u201319 November 1833 \u2022 Thursday\u2013Tuesday",
+          "editorialPageNumber": "20",
+          "pageNumber": "21",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0021.xml",
+          "date": "1833-11-14",
+          "intPageNumber": 21,
+          "linkID": "JSPPJ1_d1e3066",
+          "id": 80
+        },
+        {
+          "pageTitle": "22 November 1833 \u2022 Friday",
+          "editorialPageNumber": "29",
+          "pageNumber": "30",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0030.xml",
+          "date": "1833-11-22",
+          "intPageNumber": 30,
+          "linkID": "JSPPJ1_d1e3981",
+          "id": 52
+        },
+        {
+          "pageTitle": "25 November 1833 \u2022 Monday",
+          "editorialPageNumber": "27",
+          "pageNumber": "28",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0028.xml",
+          "date": "1833-11-25",
+          "intPageNumber": 28,
+          "linkID": "JSPPJ1_d1e3678",
+          "id": 54
+        },
+        {
+          "pageTitle": "4\u20136 December 1833 \u2022 Wednesday\u2013Friday",
+          "editorialPageNumber": "28",
+          "pageNumber": "29",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0029.xml",
+          "date": "1833-12-04",
+          "intPageNumber": 29,
+          "linkID": "JSPPJ1_d1e3778",
+          "id": 13
+        },
+        {
+          "pageTitle": "9 December 1833 \u2022 Monday",
+          "editorialPageNumber": "30",
+          "pageNumber": "31",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0031.xml",
+          "date": "1833-12-09",
+          "intPageNumber": 31,
+          "linkID": "JSPPJ1_d1e4010",
+          "id": 4
+        },
+        {
+          "pageTitle": "11 December 1833 \u2022 Wednesday",
+          "editorialPageNumber": "30",
+          "pageNumber": "31",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0031.xml",
+          "date": "1833-12-11",
+          "intPageNumber": 31,
+          "linkID": "JSPPJ1_d1e4036",
+          "id": 5
+        },
+        {
+          "pageTitle": "18 December 1833 \u2022 Wednesday",
+          "editorialPageNumber": "30",
+          "pageNumber": "31",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0031.xml",
+          "date": "1833-12-18",
+          "intPageNumber": 31,
+          "linkID": "JSPPJ1_d1e4097",
+          "id": 6
+        },
+        {
+          "pageTitle": "19 December 1833 \u2022 Thursday",
+          "editorialPageNumber": "42",
+          "pageNumber": "43",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0043.xml",
+          "date": "1833-12-19",
+          "intPageNumber": 43,
+          "linkID": "JSPPJ1_d1e4705",
+          "id": 26
+        },
+        {
+          "pageTitle": "11 January 1834 \u2022 Saturday",
+          "editorialPageNumber": "43",
+          "pageNumber": "44",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0044.xml",
+          "date": "1834-01-11",
+          "intPageNumber": 44,
+          "linkID": "JSPPJ1_d1e4858",
+          "id": 69
+        },
+        {
+          "pageTitle": "16 January 1834 \u2022 Thursday",
+          "editorialPageNumber": "43",
+          "pageNumber": "44",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0044.xml",
+          "date": "1834-01-16",
+          "intPageNumber": 44,
+          "linkID": "JSPPJ1_d1e4784",
+          "id": 68
+        },
+        {
+          "pageTitle": "28 January 1834 \u2022 Tuesday",
+          "editorialPageNumber": "48",
+          "pageNumber": "49",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0049.xml",
+          "date": "1834-01-28",
+          "intPageNumber": 49,
+          "linkID": "JSPPJ1_d1e5439",
+          "id": 35
+        },
+        {
+          "pageTitle": "31 January 1834 \u2022 Friday",
+          "editorialPageNumber": "53",
+          "pageNumber": "54",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0054.xml",
+          "date": "1834-01-31",
+          "intPageNumber": 54,
+          "linkID": "JSPPJ1_d1e5907",
+          "id": 76
+        },
+        {
+          "pageTitle": "26\u201328 February 1834 \u2022 Wednesday\u2013Friday",
+          "editorialPageNumber": "53",
+          "pageNumber": "54",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0054.xml",
+          "date": "1834-02-26",
+          "intPageNumber": 54,
+          "linkID": "JSPPJ1_d1e6013",
+          "id": 77
+        },
+        {
+          "pageTitle": "1\u20132 March 1834 \u2022 Saturday\u2013Sunday",
+          "editorialPageNumber": "53",
+          "pageNumber": "54",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0054.xml",
+          "date": "1834-03-01",
+          "intPageNumber": 54,
+          "linkID": "JSPPJ1_d1e6082",
+          "id": 78
+        },
+        {
+          "pageTitle": "3 March 1834 \u2022 Monday",
+          "editorialPageNumber": "54",
+          "pageNumber": "55",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0055.xml",
+          "date": "1834-03-03",
+          "intPageNumber": 55,
+          "linkID": "JSPPJ1_d1e6146",
+          "id": 39
+        },
+        {
+          "pageTitle": "Notes",
+          "editorialPageNumber": "55",
+          "pageNumber": "56",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0056.xml",
+          "date": "1834-03-03",
+          "intPageNumber": 56,
+          "linkID": "JSPPJ1_d1e6225",
+          "id": 81
+        },
+        {
+          "pageTitle": "4\u20136 March 1834 \u2022 Tuesday\u2013Thursday",
+          "editorialPageNumber": "56",
+          "pageNumber": "57",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0057.xml",
+          "date": "1834-03-04",
+          "intPageNumber": 57,
+          "linkID": "JSPPJ1_d1e6457",
+          "id": 44
+        },
+        {
+          "pageTitle": "7 March 1834 \u2022 Friday",
+          "editorialPageNumber": "58",
+          "pageNumber": "59",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0059.xml",
+          "date": "1834-03-07",
+          "intPageNumber": 59,
+          "linkID": "JSPPJ1_d1e6665",
+          "id": 46
+        },
+        {
+          "pageTitle": "8 March 1834 \u2022 Saturday",
+          "editorialPageNumber": "59",
+          "pageNumber": "60",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0060.xml",
+          "date": "1834-03-08",
+          "intPageNumber": 60,
+          "linkID": "JSPPJ1_d1e6791",
+          "id": 82
+        },
+        {
+          "pageTitle": "9\u201312 March 1834 \u2022 Sunday\u2013Wednesday",
+          "editorialPageNumber": "60",
+          "pageNumber": "61",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0061.xml",
+          "date": "1834-03-09",
+          "intPageNumber": 61,
+          "linkID": "JSPPJ1_d1e6881",
+          "id": 45
+        },
+        {
+          "pageTitle": "13 March 1834 \u2022 Thursday",
+          "editorialPageNumber": "62",
+          "pageNumber": "63",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0063.xml",
+          "date": "1834-03-13",
+          "intPageNumber": 63,
+          "linkID": "JSPPJ1_d1e7090",
+          "id": 47
+        },
+        {
+          "pageTitle": "14 March 1834 \u2022 Friday",
+          "editorialPageNumber": "62",
+          "pageNumber": "63",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0063.xml",
+          "date": "1834-03-14",
+          "intPageNumber": 63,
+          "linkID": "JSPPJ1_d1e7103",
+          "id": 48
+        },
+        {
+          "pageTitle": "15 March 1834 \u2022 Saturday",
+          "editorialPageNumber": "62",
+          "pageNumber": "63",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0063.xml",
+          "date": "1834-03-15",
+          "intPageNumber": 63,
+          "linkID": "JSPPJ1_d1e7153",
+          "id": 49
+        },
+        {
+          "pageTitle": "16 March 1834 \u2022 Sunday",
+          "editorialPageNumber": "62",
+          "pageNumber": "63",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0063.xml",
+          "date": "1834-03-16",
+          "intPageNumber": 63,
+          "linkID": "JSPPJ1_d1e7220",
+          "id": 50
+        },
+        {
+          "pageTitle": "17 March 1834 \u2022 Monday",
+          "editorialPageNumber": "62",
+          "pageNumber": "63",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0063.xml",
+          "date": "1834-03-17",
+          "intPageNumber": 63,
+          "linkID": "JSPPJ1_d1e7280",
+          "id": 51
+        },
+        {
+          "pageTitle": "18 March 1834 \u2022 Tuesday",
+          "editorialPageNumber": "63",
+          "pageNumber": "64",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0064.xml",
+          "date": "1834-03-18",
+          "intPageNumber": 64,
+          "linkID": "JSPPJ1_d1e7337",
+          "id": 0
+        },
+        {
+          "pageTitle": "19 March 1834 \u2022 Wednesday",
+          "editorialPageNumber": "63",
+          "pageNumber": "64",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0064.xml",
+          "date": "1834-03-19",
+          "intPageNumber": 64,
+          "linkID": "JSPPJ1_d1e7376",
+          "id": 1
+        },
+        {
+          "pageTitle": "20 March 1834 \u2022 Thursday",
+          "editorialPageNumber": "63",
+          "pageNumber": "64",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0064.xml",
+          "date": "1834-03-20",
+          "intPageNumber": 64,
+          "linkID": "JSPPJ1_d1e7408",
+          "id": 2
+        },
+        {
+          "pageTitle": "21 March 1834 \u2022 Friday",
+          "editorialPageNumber": "64",
+          "pageNumber": "65",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0065.xml",
+          "date": "1834-03-21",
+          "intPageNumber": 65,
+          "linkID": "JSPPJ1_d1e7508",
+          "id": 53
+        },
+        {
+          "pageTitle": "22 March 1834 \u2022 Saturday",
+          "editorialPageNumber": "65",
+          "pageNumber": "66",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0066.xml",
+          "date": "1834-03-22",
+          "intPageNumber": 66,
+          "linkID": "JSPPJ1_d1e7554",
+          "id": 7
+        },
+        {
+          "pageTitle": "23 March 1834 \u2022 Sunday",
+          "editorialPageNumber": "65",
+          "pageNumber": "66",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0066.xml",
+          "date": "1834-03-23",
+          "intPageNumber": 66,
+          "linkID": "JSPPJ1_d1e7582",
+          "id": 8
+        },
+        {
+          "pageTitle": "24 March 1834 \u2022 Monday",
+          "editorialPageNumber": "65",
+          "pageNumber": "66",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0066.xml",
+          "date": "1834-03-24",
+          "intPageNumber": 66,
+          "linkID": "JSPPJ1_d1e7607",
+          "id": 9
+        },
+        {
+          "pageTitle": "25 March 1834 \u2022 Tuesday",
+          "editorialPageNumber": "65",
+          "pageNumber": "66",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0066.xml",
+          "date": "1834-03-25",
+          "intPageNumber": 66,
+          "linkID": "JSPPJ1_d1e7631",
+          "id": 10
+        },
+        {
+          "pageTitle": "26 March 1834 \u2022 Wednesday",
+          "editorialPageNumber": "66",
+          "pageNumber": "67",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0067.xml",
+          "date": "1834-03-26",
+          "intPageNumber": 67,
+          "linkID": "JSPPJ1_d1e7665",
+          "id": 55
+        },
+        {
+          "pageTitle": "27 March 1834 \u2022 Thursday",
+          "editorialPageNumber": "66",
+          "pageNumber": "67",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0067.xml",
+          "date": "1834-03-27",
+          "intPageNumber": 67,
+          "linkID": "JSPPJ1_d1e7692",
+          "id": 56
+        },
+        {
+          "pageTitle": "28 March 1834 \u2022 Friday",
+          "editorialPageNumber": "66",
+          "pageNumber": "67",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0067.xml",
+          "date": "1834-03-28",
+          "intPageNumber": 67,
+          "linkID": "JSPPJ1_d1e7723",
+          "id": 57
+        },
+        {
+          "pageTitle": "29 March 1834 \u2022 Saturday",
+          "editorialPageNumber": "66",
+          "pageNumber": "67",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0067.xml",
+          "date": "1834-03-29",
+          "intPageNumber": 67,
+          "linkID": "JSPPJ1_d1e7742",
+          "id": 58
+        },
+        {
+          "pageTitle": "30 March 1834 \u2022 Sunday",
+          "editorialPageNumber": "67",
+          "pageNumber": "68",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0068.xml",
+          "date": "1834-03-30",
+          "intPageNumber": 68,
+          "linkID": "JSPPJ1_d1e7757",
+          "id": 15
+        },
+        {
+          "pageTitle": "31 March 1834 \u2022 Monday",
+          "editorialPageNumber": "67",
+          "pageNumber": "68",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0068.xml",
+          "date": "1834-03-31",
+          "intPageNumber": 68,
+          "linkID": "JSPPJ1_d1e7783",
+          "id": 16
+        },
+        {
+          "pageTitle": "1 April 1834 \u2022 Tuesday",
+          "editorialPageNumber": "67",
+          "pageNumber": "68",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0068.xml",
+          "date": "1834-04-01",
+          "intPageNumber": 68,
+          "linkID": "JSPPJ1_d1e7835",
+          "id": 17
+        },
+        {
+          "pageTitle": "2\u20135 April 1834 \u2022 Wednesday\u2013Saturday",
+          "editorialPageNumber": "69",
+          "pageNumber": "70",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0070.xml",
+          "date": "1834-04-02",
+          "intPageNumber": 70,
+          "linkID": "JSPPJ1_d1e7976",
+          "id": 11
+        },
+        {
+          "pageTitle": "7\u20139 April 1834 \u2022 Monday\u2013Wednesday",
+          "editorialPageNumber": "69",
+          "pageNumber": "70",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0070.xml",
+          "date": "1834-04-07",
+          "intPageNumber": 70,
+          "linkID": "JSPPJ1_d1e8080",
+          "id": 12
+        },
+        {
+          "pageTitle": "10 April 1834 \u2022 Thursday",
+          "editorialPageNumber": "71",
+          "pageNumber": "72",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0072.xml",
+          "date": "1834-04-10",
+          "intPageNumber": 72,
+          "linkID": "JSPPJ1_d1e8363",
+          "id": 18
+        },
+        {
+          "pageTitle": "11 April 1834 \u2022 Friday",
+          "editorialPageNumber": "72",
+          "pageNumber": "73",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0073.xml",
+          "date": "1834-04-11",
+          "intPageNumber": 73,
+          "linkID": "JSPPJ1_d1e8411",
+          "id": 59
+        },
+        {
+          "pageTitle": "12 April 1834 \u2022 Saturday",
+          "editorialPageNumber": "72",
+          "pageNumber": "73",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0073.xml",
+          "date": "1834-04-12",
+          "intPageNumber": 73,
+          "linkID": "JSPPJ1_d1e8458",
+          "id": 60
+        },
+        {
+          "pageTitle": "13 April 1834 \u2022 Sunday",
+          "editorialPageNumber": "72",
+          "pageNumber": "73",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0073.xml",
+          "date": "1834-04-13",
+          "intPageNumber": 73,
+          "linkID": "JSPPJ1_d1e8499",
+          "id": 61
+        },
+        {
+          "pageTitle": "14 April 1834 \u2022 Monday",
+          "editorialPageNumber": "73",
+          "pageNumber": "74",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0074.xml",
+          "date": "1834-04-14",
+          "intPageNumber": 74,
+          "linkID": "JSPPJ1_d1e8510",
+          "id": 19
+        },
+        {
+          "pageTitle": "15\u201317 April 1834 \u2022 Tuesday\u2013Thursday",
+          "editorialPageNumber": "73",
+          "pageNumber": "74",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0074.xml",
+          "date": "1834-04-15",
+          "intPageNumber": 74,
+          "linkID": "JSPPJ1_d1e8540",
+          "id": 20
+        },
+        {
+          "pageTitle": "18\u201319 April 1834 \u2022 Friday\u2013Saturday",
+          "editorialPageNumber": "74",
+          "pageNumber": "75",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0075.xml",
+          "date": "1834-04-18",
+          "intPageNumber": 75,
+          "linkID": "JSPPJ1_d1e8637",
+          "id": 62
+        },
+        {
+          "pageTitle": "20 April 1834 \u2022 Sunday",
+          "editorialPageNumber": "81",
+          "pageNumber": "82",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0082.xml",
+          "date": "1834-04-20",
+          "intPageNumber": 82,
+          "linkID": "JSPPJ1_d1e9118",
+          "id": 27
+        },
+        {
+          "pageTitle": "21\u201322 April 1834 \u2022 Monday\u2013Tuesday",
+          "editorialPageNumber": "81",
+          "pageNumber": "82",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0082.xml",
+          "date": "1834-04-21",
+          "intPageNumber": 82,
+          "linkID": "JSPPJ1_d1e9173",
+          "id": 28
+        },
+        {
+          "pageTitle": "23 April 1834 \u2022 Wednesday",
+          "editorialPageNumber": "82",
+          "pageNumber": "83",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0083.xml",
+          "date": "1834-04-23",
+          "intPageNumber": 83,
+          "linkID": "JSPPJ1_d1e9242",
+          "id": 70
+        },
+        {
+          "pageTitle": "30 April 1834 \u2022 Wednesday",
+          "editorialPageNumber": "82",
+          "pageNumber": "83",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0083.xml",
+          "date": "1834-04-30",
+          "intPageNumber": 83,
+          "linkID": "JSPPJ1_d1e9372",
+          "id": 71
+        },
+        {
+          "pageTitle": "Record of Donations",
+          "editorialPageNumber": "83",
+          "pageNumber": "84",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0084.xml",
+          "date": "1834-04-30",
+          "intPageNumber": 84,
+          "linkID": "JSPPJ1_d1e9461",
+          "id": 32
+        },
+        {
+          "pageTitle": "21 August 1834 \u2022 Thursday",
+          "editorialPageNumber": "85",
+          "pageNumber": "86",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0086.xml",
+          "date": "1834-08-21",
+          "intPageNumber": 86,
+          "linkID": "JSPPJ1_d1e9758",
+          "id": 34
+        },
+        {
+          "pageTitle": "30 August 1834 \u2022 Saturday",
+          "editorialPageNumber": "86",
+          "pageNumber": "87",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0087.xml",
+          "date": "1834-08-30",
+          "intPageNumber": 87,
+          "linkID": "JSPPJ1_d1e9965",
+          "id": 74
+        },
+        {
+          "pageTitle": "4 September 1834 \u2022 Thursday",
+          "editorialPageNumber": "86",
+          "pageNumber": "87",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0087.xml",
+          "date": "1834-09-04",
+          "intPageNumber": 87,
+          "linkID": "JSPPJ1_d1e10022",
+          "id": 75
+        },
+        {
+          "pageTitle": "29 November 1834 \u2022 Saturday",
+          "editorialPageNumber": "87",
+          "pageNumber": "88",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0088.xml",
+          "date": "1834-11-29",
+          "intPageNumber": 88,
+          "linkID": "JSPPJ1_d1e10197",
+          "id": 36
+        },
+        {
+          "pageTitle": "30 November 1834 \u2022 Sunday",
+          "editorialPageNumber": "92",
+          "pageNumber": "93",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0093.xml",
+          "date": "1834-11-30",
+          "intPageNumber": 93,
+          "linkID": "JSPPJ1_d1e10430",
+          "id": 79
+        },
+        {
+          "pageTitle": "5 December 1834 \u2022 Friday",
+          "editorialPageNumber": "93",
+          "pageNumber": "94",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0094.xml",
+          "date": "1834-12-05",
+          "intPageNumber": 94,
+          "linkID": "JSPPJ1_d1e10503",
+          "id": 40
+        },
+        {
+          "pageTitle": "Subscriptions to <span class=\"title\">The Evening and the Morning Star</span>",
+          "editorialPageNumber": "103",
+          "pageNumber": "104",
+          "pageUri": "/published/jsp/expanded/papers/27466/27466-0104.xml",
+          "date": "",
+          "intPageNumber": 104,
+          "linkID": "X4301CC0A-48AD-4A19-A21A-1B20C3A083AD",
+          "id": 14
+        }
+      ],
+      "summary": {
+        "uri": "journal-1832-1834",
+        "series": "JSPPJ",
+        "urlTitleValue": "JSPPJ1",
+        "documentSeriesTitle": "Journal, 1832\u20131834",
+        "editorialPageNumber": "0",
+        "isPageNumberPresent": false,
+        "searchUrl": "/published/jsp/searchable/papers/27466/27466-0001.xml",
+        "clearText": "<html><head></head><body><div class=\" indent wasptag\"><aside class=\"popup-wrapper\" id=\"13608909806313438161\"><a href=\"#13608909806313438161\" class=\"new-scribe-note staticPopup\" title=\"New Scribe\" name=\"trans1\"><img src=\"//cdn.churchofjesuschrist.org/ch/jsp/images/icn-new-scribe-16.png\"></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">JS handwriting begins.</p><hr></div></div></aside><span class=\"josephswriting\">Joseph Smith </span><span class=\"underscore\"><span class=\"josephswriting\">1832</span><span class=\"josephswriting\"> </span><span class=\"josephswriting\"> </span><span class=\"josephswriting\">\u2013</span><span class=\"josephswriting\"> </span><span class=\"josephswriting\"> </span><span class=\"josephswriting\"> </span><span class=\"josephswriting\">34</span><span class=\"josephswriting\"> </span></span><span class=\"josephswriting\"> </span>[<span class=\"italic note-data editorial-comment\" isnote=\"Y\">front cover</span>]<span class=\"josephswriting\"> </span></div></body></html>",
+        "expandedText": "<html><head></head><body><div class=\" indent wasptag\"><aside class=\"popup-wrapper\" id=\"17908918251016030423\"><a href=\"#17908918251016030423\" class=\"new-scribe-note staticPopup\" title=\"New Scribe\" name=\"trans1\"><img src=\"//cdn.churchofjesuschrist.org/ch/jsp/images/icn-new-scribe-16.png\"></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">JS handwriting begins.</p><hr></div></div></aside><span class=\"josephswriting\">Joseph Smith </span><span class=\"line-break\" xmlns=\"http://www.w3.org/1999/xhtml\"></span><span class=\"underscore\"><span class=\"josephswriting\">1832</span><span class=\"josephswriting\"> </span><span class=\"josephswriting\">.</span><span class=\"josephswriting\"> </span><span class=\"josephswriting\"> </span>&lt;\u200b<span class=\"josephswriting\"> </span><span class=\"josephswriting\">3\u20134</span><span class=\"josephswriting\"> </span><span class=\"josephswriting\"> </span>\u200b&gt;</span><span class=\"josephswriting\"> </span>[<span class=\"italic note-data editorial-comment\" isnote=\"Y\">front cover</span>]<span class=\"josephswriting\"> </span></div></body></html>",
+        "historicalIntro": {
+          "text": "<html><head></head><body><div class=\" indent wasptag\">By late November 1832, when this record began, JS had resided in <aside class=\"popup-wrapper\" id=\"9804016107108016361\"><a href=\"#9804016107108016361\" class=\"reference staticPopup\" ro=\"x5092\" place=\"x5092\" title=\"Ohio\">Ohio</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Ohio\"><p>French explored and claimed area, 1669. British took possession following French and Indian War, 1763. Ceded to U.S., 1783. First permanent white settlement established, 1788. Northeastern portion maintained as part of Connecticut, 1786, and called Connecticut...</p><a class=\"more\" href=\"/place/ohio\">More Info</a></div></div></aside> for nearly two years. Most members of the fledgling church in <aside class=\"popup-wrapper\" id=\"1580324959496454670\"><a href=\"#1580324959496454670\" class=\"reference staticPopup\" ro=\"plc96\" place=\"plc96\" title=\"New York\">New York</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"New York\"><p>Located in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664\u20131776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...</p><a class=\"more\" href=\"/place/new-york\">More Info</a></div></div></aside> had migrated to Ohio in spring 1831; many had subsequently moved on to <aside class=\"popup-wrapper\" id=\"2001436562881074694\"><a href=\"#2001436562881074694\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside>, Missouri, where they sought to establish a latter-day Zion. As headquarters for the church, <aside class=\"popup-wrapper\" id=\"2663596380878350207\"><a href=\"#2663596380878350207\" class=\"reference staticPopup\" ro=\"plc13\" place=\"plc13\" title=\"Kirtland Township, Ohio\">Kirtland</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Kirtland Township, Ohio\"><p>Located ten miles south of Lake Erie. Settled by 1811. Organized by 1818. Latter-day Saint missionaries visited township, early Nov. 1830; many residents joined Church of Jesus Christ of Latter-day Saints. Population in 1830 about 55 Latter-day Saints and...</p><a class=\"more\" href=\"/place/kirtland-township-ohio\">More Info</a></div></div></aside>, Ohio, served as a base for proselytizing missions ranging as far afield as Upper Canada (now Ontario) and the eastern United States. Meanwhile, attempts to create historical records had failed to keep pace with the development of the church. JS had recently prepared a six-page personal history. Now he began keeping a personal journal, documenting his experiences as they occurred and thereby paving the way for writing a more extensive history. Journal writing was a new genre for JS, and in this record, he employed a personal tone quite different from the prophetic voice of his scriptural translations and revelations.</div> <div class=\" indent wasptag\">JS\u2019s first journal begins 27 November 1832 and ends 5 December 1834, with entries spread unevenly over this period of just over two years. After titling this journal \u201cJoseph Smith Jrs Book for Record,\u201d JS recorded his ambitious intention \u201cto keep a minute acount of all things that come under my obsevation &amp;c.\u201d However, reality failed to match his expectations. From the outset, the level of detail JS preserved in this record was limited. His pattern of journalizing varied widely. After recording only nine more entries, JS abandoned journal keeping for ten months. Yet his original aspiration to keep a journal occasionally yielded significant information. Sporadic notations followed, with three instances of sustained writing covering a consecutive week or more in the remainder of the journal. The events described in these passages are a proselytizing mission to Canada in October 1833, a fund-raising and recruitment mission to Pennsylvania and <aside class=\"popup-wrapper\" id=\"1717909815126124944\"><a href=\"#1717909815126124944\" class=\"reference staticPopup\" ro=\"plc96\" place=\"plc96\" title=\"New York\">New York</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"New York\"><p>Located in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664\u20131776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...</p><a class=\"more\" href=\"/place/new-york\">More Info</a></div></div></aside> in March 1834 to prepare for an expedition to help the Mormons in <aside class=\"popup-wrapper\" id=\"1584365759375039764\"><a href=\"#1584365759375039764\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside>, and activities in <aside class=\"popup-wrapper\" id=\"11655549945821280467\"><a href=\"#11655549945821280467\" class=\"reference staticPopup\" ro=\"x5092\" place=\"x5092\" title=\"Ohio\">Ohio</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Ohio\"><p>French explored and claimed area, 1669. British took possession following French and Indian War, 1763. Ceded to U.S., 1783. First permanent white settlement established, 1788. Northeastern portion maintained as part of Connecticut, 1786, and called Connecticut...</p><a class=\"more\" href=\"/place/ohio\">More Info</a></div></div></aside> in April 1834 just before the expedition departed. The journal\u2019s most consistent daily entries cover the period from late February to late April 1834. The entire two-year record contains fewer than one hundred entries. It skips over many key developments but provides rare glimpses into the lives of JS and the other leaders of the church during these formative years.</div> <div class=\" indent wasptag\">Despite its brevity, this first journal contains more of JS\u2019s handwriting than do any of his other journals. Almost half of the entries in the journal were written either entirely or primarily by JS himself; some of the remainder were apparently dictated. His openly expressed hopes and concerns, prayers and blessings, and observations on his own state of mind are a rich source of insight into spiritual and emotional dimensions of JS\u2019s personality.</div> <div class=\" indent wasptag\">This journal illustrates how closely leadership in the early church was intertwined with record keeping. Trusted associates who served as scribes for JS for key projects in the earliest years soon found themselves called to join JS in church leadership, with continued scribal responsibilities. <aside class=\"popup-wrapper\" id=\"18368066887272990287\"><a href=\"#18368066887272990287\" class=\"reference staticPopup\" ro=\"per47\" person=\"per47\" title=\"Oliver Cowdery\">Oliver Cowdery</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Cowdery, Oliver\"><p>3 Oct. 1806\u20133 Mar. 1850. Clerk, teacher, justice of the peace, lawyer, newspaper editor. Born at Wells, Rutland Co., Vermont. Son of William Cowdery and Rebecca Fuller. Raised Congregationalist. Moved to western New York and clerked at a store, ca. 1825\u20131828...</p><a class=\"more\" href=\"/person/oliver-cowdery\">View Full Bio</a></div></div></aside>, primary scribe for JS\u2019s Book of Mormon translation, served as second elder beginning in April 1830 and wrote some of the entries for this first journal. <aside class=\"popup-wrapper\" id=\"15962574477929058404\"><a href=\"#15962574477929058404\" class=\"reference staticPopup\" ro=\"per75\" person=\"per75\" title=\"Sidney Rigdon\">Sidney Rigdon</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Rigdon, Sidney\"><p>19 Feb. 1793\u201314 July 1876. Tanner, farmer, minister. Born at St. Clair, Allegheny Co., Pennsylvania. Son of William Rigdon and Nancy Gallaher. Joined United Baptists, ca. 1818. Preached at Warren, Trumbull Co., Ohio, and vicinity, 1819\u20131821. Married Phebe...</p><a class=\"more\" href=\"/person/sidney-rigdon\">View Full Bio</a></div></div></aside>, scribe for JS\u2019s \u201ctranslation,\u201d or revision, of the Bible beginning in December 1830, served as a counselor to JS beginning in March 1832 and also wrote entries in this journal. <aside class=\"popup-wrapper\" id=\"10848296126517607861\"><a href=\"#10848296126517607861\" class=\"reference staticPopup\" ro=\"per63\" person=\"per63\" title=\"Frederick Granger Williams\">Frederick G. Williams</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Williams, Frederick Granger\"><p>28 Oct. 1787\u201310 Oct. 1842. Ship\u2019s pilot, teacher, physician, justice of the peace. Born at Suffield, Hartford Co., Connecticut. Son of William Wheeler Williams and Ruth Granger. Moved to Newburg, Cuyahoga Co., Ohio, 1799. Practiced Thomsonian botanical system...</p><a class=\"more\" href=\"/person/frederick-granger-williams\">View Full Bio</a></div></div></aside>, a scribe for JS beginning 20 July 1832<aside class=\"popup-wrapper\" id=\"13562522304186007600\"><a href=\"#13562522304186007600\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro1\"><span id=\"documentintro1\">1</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">Frederick G. Williams, Statement, no date, Frederick G. Williams, Papers, CHL.</p><hr><div class=\"works-cited-links\"><a href=\"/works-cited\" class=\"pdf\" id=\"comp-works\">Comprehensive Works Cited</a></div><div class=\"source-note\"><p id=\"source-note1\"> Williams, Frederick G. Papers, 1834\u20131842. CHL. <a href=\"https://catalog.churchofjesuschrist.org/record/44c17a16-4f63-40a7-b321-553f80fc56a8?view=browse\" class=\"externalLink\">MS 782</a>.</p></div></div></div></aside> and a counselor to JS by January 1833,<aside class=\"popup-wrapper\" id=\"7718153514905602829\"><a href=\"#7718153514905602829\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro2\"><span id=\"documentintro2\">2</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/minutes-22-23-january-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/minutes-22-23-january-1833\" poptitle=\"Minutes, 22\u201323 January 1833 \">Minute Book 1, 22 Jan. 1833</a>.</p><hr></div></div></aside> recorded JS\u2019s concluding revisions to the Bible from July 1832 to July 1833 as well as some entries beginning in November 1833 in this journal. Some of the journal\u2019s most revealing moments are JS\u2019s candid evaluations of associates Cowdery, Rigdon, and Williams in connection with blessings he pronounced upon them in November and December 1833. </div> <div class=\" indent wasptag\">The journal\u2019s first ten entries, covering 27 November to 6 December 1832 and all written in JS\u2019s handwriting, describe a trip to visit family, a happy return, receipt of a new revelation, and translation work. JS\u2019s state of mind is apparent in phrases such as \u201cmy mind is calm and serene,\u201d \u201cfound all well to the Joy and satisfaction of my soul on my return,\u201d and \u201cOh Lord deliver thy servent out of temtations.\u201d<aside class=\"popup-wrapper\" id=\"17742066813299815576\"><a href=\"#17742066813299815576\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro3\"><span id=\"documentintro3\">3</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">Entries for <a href=\"/paper-summary/journal-1832-1834/3\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"28 November 1832 \u2022 Wednesday\">28</a> and <a href=\"/paper-summary/journal-1832-1834/4\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"30 November 1832 \u2022 Friday\">30 Nov. 1832</a>; <a href=\"/paper-summary/journal-1832-1834/5\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"4 December 1832 \u2022 Tuesday\">4 Dec. 1832</a>.</p><hr></div></div></aside> Yet the seemingly unhurried introspection of these first entries gives way to ten months of silence, a period during which JS became increasingly caught up in church leadership activities.</div> <div class=\" indent wasptag\">Revelation persistently nudged JS and his fellow believers toward building communities with a central focus on education and spiritual empowerment. In late December 1832, less than four weeks after this journal lapsed into silence, a new revelation called for a \u201csolemn assembly\u201d of the lay ministry, amplifying a promise in a revelation of January 1831 that in <aside class=\"popup-wrapper\" id=\"9781379887583789618\"><a href=\"#9781379887583789618\" class=\"reference staticPopup\" ro=\"x5092\" place=\"x5092\" title=\"Ohio\">Ohio</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Ohio\"><p>French explored and claimed area, 1669. British took possession following French and Indian War, 1763. Ceded to U.S., 1783. First permanent white settlement established, 1788. Northeastern portion maintained as part of Connecticut, 1786, and called Connecticut...</p><a class=\"more\" href=\"/place/ohio\">More Info</a></div></div></aside> the Latter-day Saints would be \u201cendowed with power from on high.\u201d In preparation for this experience, they were to receive training in spiritual and temporal affairs and a ritual \u201cwashing of feet\u201d in a \u201chouse of God.\u201d<aside class=\"popup-wrapper\" id=\"16267640702460047891\"><a href=\"#16267640702460047891\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro4\"><span id=\"documentintro4\">4</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-2-january-1831-dc-38\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-2-january-1831-dc-38\" poptitle=\"Revelation, 2 January 1831 [D&amp;C\n38]\">Revelation, 2 Jan. 1831</a>, in <a href=\"/paper-summary/book-of-commandments-1833/84\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/book-of-commandments-1833\" poptitle=\"Chapter 40 \u2022 Revelation, 2 January 1831 [D&amp;C 38]\">Book of Commandments 40:28</a> [D&amp;C 38:32]; <a href=\"/paper-summary/revelation-27-28-december-1832-dc-881-126\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-27-28-december-1832-dc-881-126\" poptitle=\"Revelation, 27\u201328 December 1832 [D&amp;C 88:1\u2013126]\">Revelation, 27\u201328 Dec. 1832</a> and <a href=\"/paper-summary/revelation-3-january-1833-dc-88127-137\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-3-january-1833-dc-88127-137\" poptitle=\"Revelation, 3\nJanuary 1833 [D&amp;C 88:127\u2013137]\">3 Jan. 1833</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1835/108\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1835\" poptitle=\"Section 7 \u2022 Revelation,\n27\u201328 December 1832 and\n3 January 1833 [D&amp;C 88]\">Doctrine and Covenants 7:19\u201323, 36\u201346, 1835 ed.</a> [D&amp;C 88:70\u201384, 117\u2013141].</p><hr></div></div></aside> A \u201cSchool of the Prophets\u201d began in January 1833, and in April land was purchased on which to build a structure that would be called the <aside class=\"popup-wrapper\" id=\"15996393550328702258\"><a href=\"#15996393550328702258\" class=\"reference staticPopup\" ro=\"x5077\" place=\"x5077\" title=\"House of the Lord, Kirtland Township, Ohio\">House of the Lord</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"House of the Lord, Kirtland Township, Ohio\"><p>JS revelation, dated Jan. 1831, directed Latter-day Saints to migrate to Ohio, where they would \u201cbe endowed with power from on high.\u201d In Dec. 1832, JS revelation directed Saints to \u201cestablish . . . an house of God.\u201d JS revelation, dated 1 June 1833, chastened...</p><a class=\"more\" href=\"/place/house-of-the-lord-kirtland-township-ohio\">More Info</a></div></div></aside>. A subsequent revelation called for the Saints to use this temple as the central reference point around which to develop a substantial community to be known as \u201cthe city of the stake of Zion.\u201d<aside class=\"popup-wrapper\" id=\"3294059914744142492\"><a href=\"#3294059914744142492\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro5\"><span id=\"documentintro5\">5</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-2-august-1833-b-dc-94\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-2-august-1833-b-dc-94\" poptitle=\"Revelation,\n2 August 1833\u2013B [D&amp;C\n94]\">Revelation, 2 Aug. 1833\u2013B</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1835/221\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1835\" poptitle=\"Section 83 \u2022 Revelation, 2 August\n1833\u2013B [D&amp;C 94]\">Doctrine and Covenants 83:1, 1835 ed.</a> [D&amp;C 94:1].</p><hr></div></div></aside> As for Zion itself, on 25 June 1833 JS and his associates sent plans to church leaders in <aside class=\"popup-wrapper\" id=\"15193163264950064341\"><a href=\"#15193163264950064341\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside>, Missouri, envisioning the purchase of new lands and the expansion of Mormon settlement there, building outward from a cluster of centrally located temples.<aside class=\"popup-wrapper\" id=\"3602197487712259869\"><a href=\"#3602197487712259869\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro6\"><span id=\"documentintro6\">6</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/plat-of-the-city-of-zion-circa-early-june-25-june-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/plat-of-the-city-of-zion-circa-early-june-25-june-1833\" poptitle=\"Plat\n of the City of Zion,\n circa Early\n June\u201325\n June 1833\">Plat of City of Zion, 1833</a>, CHL.</p><hr></div></div></aside></div> <div class=\" indent wasptag\">But by the time the plans arrived in <aside class=\"popup-wrapper\" id=\"744239872439365232\"><a href=\"#744239872439365232\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside>, Zion\u2019s future looked bleak. Negotiations in mid-July between Mormon settlers and their unwilling neighbors broke down, and violence erupted. With the 9 August 1833 arrival of <aside class=\"popup-wrapper\" id=\"15029784101515349913\"><a href=\"#15029784101515349913\" class=\"reference staticPopup\" ro=\"per47\" person=\"per47\" title=\"Oliver Cowdery\">Oliver Cowdery</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Cowdery, Oliver\"><p>3 Oct. 1806\u20133 Mar. 1850. Clerk, teacher, justice of the peace, lawyer, newspaper editor. Born at Wells, Rutland Co., Vermont. Son of William Cowdery and Rebecca Fuller. Raised Congregationalist. Moved to western New York and clerked at a store, ca. 1825\u20131828...</p><a class=\"more\" href=\"/person/oliver-cowdery\">View Full Bio</a></div></div></aside> in <aside class=\"popup-wrapper\" id=\"234888575043192110\"><a href=\"#234888575043192110\" class=\"reference staticPopup\" ro=\"x5092\" place=\"x5092\" title=\"Ohio\">Ohio</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Ohio\"><p>French explored and claimed area, 1669. British took possession following French and Indian War, 1763. Ceded to U.S., 1783. First permanent white settlement established, 1788. Northeastern portion maintained as part of Connecticut, 1786, and called Connecticut...</p><a class=\"more\" href=\"/place/ohio\">More Info</a></div></div></aside> from <aside class=\"popup-wrapper\" id=\"17442616520747530806\"><a href=\"#17442616520747530806\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside>, JS learned for the first time that twelve hundred Jackson County Saints would be forced from their homes by spring 1834. JS dispatched <aside class=\"popup-wrapper\" id=\"2118059908512937742\"><a href=\"#2118059908512937742\" class=\"reference staticPopup\" ro=\"per79\" person=\"per79\" title=\"Orson Hyde\">Orson Hyde</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Hyde, Orson\"><p>8 Jan. 1805\u201328 Nov. 1878. Laborer, clerk, storekeeper, teacher, editor, businessman, lawyer, judge. Born at Oxford, New Haven Co., Connecticut. Son of Nathan Hyde and Sally Thorpe. Moved to Derby, New Haven Co., 1812. Moved to Kirtland, Geauga Co., Ohio, ...</p><a class=\"more\" href=\"/person/orson-hyde\">View Full Bio</a></div></div></aside> and <aside class=\"popup-wrapper\" id=\"14182920668406451065\"><a href=\"#14182920668406451065\" class=\"reference staticPopup\" ro=\"per676\" person=\"per676\" title=\"John Gould\">John Gould</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Gould, John\"><p>21 Dec. 1784\u201325 June 1855. Pastor, farmer. Born in New Hampshire. Married first Oliva Swanson of Massachusetts. Resided at Portsmouth, Rockingham Co., New Hampshire, 1808. Lived in Vermont. Moved to northern Pennsylvania, 1817. Served as minister in Freewill...</p><a class=\"more\" href=\"/person/john-gould\">View Full Bio</a></div></div></aside> to Missouri to advise the Saints.<aside class=\"popup-wrapper\" id=\"660132833219236589\"><a href=\"#660132833219236589\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro7\"><span id=\"documentintro7\">7</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/letter-from-john-whitmer-29-july-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/letter-from-john-whitmer-29-july-1833\" poptitle=\"Letter from John\nWhitmer, 29 July 1833\">John Whitmer, Independence, MO, to JS and Oliver Cowdery, [Kirtland, OH], 29 July 1833</a>, in <a href=\"/paper-summary/letterbook-2/57\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/letterbook-2\" poptitle=\"Letter from John Whitmer \u2022 29 July\n 1833\">JS Letterbook 2, pp. 52\u201355</a>; <a href=\"/paper-summary/letter-to-church-leaders-in-jackson-county-missouri-10-august-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/letter-to-church-leaders-in-jackson-county-missouri-10-august-1833\" poptitle=\"Letter to Church Leaders in Jackson County,\nMissouri, 10 August 1833\">Oliver Cowdery with JS postscript, Kirtland Mills, OH, to [William W. Phelps] et al., [Independence, MO], 10 Aug. 1833</a>, CHL; Knight, Autobiography, 39.</p><hr><div class=\"works-cited-links\"><a href=\"/works-cited\" class=\"pdf\" id=\"comp-works\">Comprehensive Works Cited</a></div><div class=\"source-note\"><p id=\"source-note1\"> Knight, Newel. Autobiography and Journal, ca. 1846. CHL. <a href=\"https://catalog.churchofjesuschrist.org/record/e705cff0-8633-4e3f-8d7a-2a513731e85c/0?view=browse\" class=\"externalLink\">MS 767</a>.</p></div></div></div></aside></div> <div class=\" indent wasptag\">When journal keeping resumed on 4 October 1833, much had changed for JS and his followers. The impending eviction of the <aside class=\"popup-wrapper\" id=\"1439261052908979437\"><a href=\"#1439261052908979437\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside> Latter-day Saints and construction of the <aside class=\"popup-wrapper\" id=\"2721734277660195810\"><a href=\"#2721734277660195810\" class=\"reference staticPopup\" ro=\"x5077\" place=\"x5077\" title=\"House of the Lord, Kirtland Township, Ohio\">House of the Lord</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"House of the Lord, Kirtland Township, Ohio\"><p>JS revelation, dated Jan. 1831, directed Latter-day Saints to migrate to Ohio, where they would \u201cbe endowed with power from on high.\u201d In Dec. 1832, JS revelation directed Saints to \u201cestablish . . . an house of God.\u201d JS revelation, dated 1 June 1833, chastened...</p><a class=\"more\" href=\"/place/house-of-the-lord-kirtland-township-ohio\">More Info</a></div></div></aside> in <aside class=\"popup-wrapper\" id=\"14613817634257655341\"><a href=\"#14613817634257655341\" class=\"reference staticPopup\" ro=\"plc13\" place=\"plc13\" title=\"Kirtland Township, Ohio\">Kirtland</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Kirtland Township, Ohio\"><p>Located ten miles south of Lake Erie. Settled by 1811. Organized by 1818. Latter-day Saint missionaries visited township, early Nov. 1830; many residents joined Church of Jesus Christ of Latter-day Saints. Population in 1830 about 55 Latter-day Saints and...</p><a class=\"more\" href=\"/place/kirtland-township-ohio\">More Info</a></div></div></aside> loom in the background of subsequent journal entries. In October 1833, JS and <aside class=\"popup-wrapper\" id=\"12627499316753089006\"><a href=\"#12627499316753089006\" class=\"reference staticPopup\" ro=\"per75\" person=\"per75\" title=\"Sidney Rigdon\">Sidney Rigdon</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Rigdon, Sidney\"><p>19 Feb. 1793\u201314 July 1876. Tanner, farmer, minister. Born at St. Clair, Allegheny Co., Pennsylvania. Son of William Rigdon and Nancy Gallaher. Joined United Baptists, ca. 1818. Preached at Warren, Trumbull Co., Ohio, and vicinity, 1819\u20131821. Married Phebe...</p><a class=\"more\" href=\"/person/sidney-rigdon\">View Full Bio</a></div></div></aside> responded to a request from <aside class=\"popup-wrapper\" id=\"733729882069899310\"><a href=\"#733729882069899310\" class=\"reference staticPopup\" ro=\"x4619\" person=\"x4619\" title=\"Freeman Nickerson\">Freeman Nickerson</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Nickerson, Freeman\"><p>5 Feb. 1779\u201322 Jan. 1847. Seaman. Born at South Dennis, Barnstable Co., Massachusetts. Son of Eleazer Nickerson and Thankful Chase. Moved to Cavendish, Windsor Co., Vermont, 1800. Married Huldah Chapman, 19 Jan. 1801, at Cavendish. Served as officer in Vermont...</p><a class=\"more\" href=\"/person/freeman-nickerson\">View Full Bio</a></div></div></aside>, a Mormon visiting from <aside class=\"popup-wrapper\" id=\"13785847047769814892\"><a href=\"#13785847047769814892\" class=\"reference staticPopup\" ro=\"plc96\" place=\"plc96\" title=\"New York\">New York</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"New York\"><p>Located in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664\u20131776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...</p><a class=\"more\" href=\"/place/new-york\">More Info</a></div></div></aside>, to join him in proselytizing family members in Canada. JS and Rigdon recorded in this journal their monthlong trip. Three weeks after their return, the journal first mentions explicitly the Saints\u2019 <aside class=\"popup-wrapper\" id=\"4267164597850879749\"><a href=\"#4267164597850879749\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside> difficulties: JS learned on 25 November 1833 of the vigilante expulsion of the Mormons in Jackson County that month\u2014earlier than the agreed-upon departure\u2014following a series of violent confrontations. Many crossed the <aside class=\"popup-wrapper\" id=\"6737342556381967306\"><a href=\"#6737342556381967306\" class=\"reference staticPopup\" ro=\"x5198\" place=\"x5198\" title=\"Missouri River\">Missouri River</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri River\"><p>One of longest rivers in North America, in excess of 3,000 miles. From headwaters in Montana to confluence with Mississippi River near St. Louis, Missouri River drains 580,000 square miles (about one-sixth of continental U.S.). Explored by Lewis and Clark...</p><a class=\"more\" href=\"/place/missouri-river\">More Info</a></div></div></aside> and found temporary refuge in nearby <aside class=\"popup-wrapper\" id=\"17504394797976309871\"><a href=\"#17504394797976309871\" class=\"reference staticPopup\" ro=\"plc91\" place=\"plc91\" title=\"Clay County, Missouri\">Clay County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Clay County, Missouri\"><p>Settled ca. 1800. Organized from Ray Co., 1822. Original size diminished when land was taken to create several surrounding counties. Liberty designated county seat, 1822. Population in 1830 about 5,000; in 1836 about 8,500; and in 1840 about 8,300. Refuge...</p><a class=\"more\" href=\"/place/clay-county-missouri\">More Info</a></div></div></aside>.</div> <div class=\" indent wasptag\">Most of the subsequent entries of this journal involve either direct or indirect responses to the <aside class=\"popup-wrapper\" id=\"13618553854482309581\"><a href=\"#13618553854482309581\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside> problems. By December 1833, the Latter-day Saints had set up a printing press in <aside class=\"popup-wrapper\" id=\"1667537305261698408\"><a href=\"#1667537305261698408\" class=\"reference staticPopup\" ro=\"plc13\" place=\"plc13\" title=\"Kirtland Township, Ohio\">Kirtland</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Kirtland Township, Ohio\"><p>Located ten miles south of Lake Erie. Settled by 1811. Organized by 1818. Latter-day Saint missionaries visited township, early Nov. 1830; many residents joined Church of Jesus Christ of Latter-day Saints. Population in 1830 about 55 Latter-day Saints and...</p><a class=\"more\" href=\"/place/kirtland-township-ohio\">More Info</a></div></div></aside> to resume publication efforts that had been halted by the destruction of their print shop in Missouri. A February 1834 revelation instructed the Saints to undertake a paramilitary expedition intended to help the Mormon refugees from <aside class=\"popup-wrapper\" id=\"9028342069023239142\"><a href=\"#9028342069023239142\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside> return to their homes. JS and <aside class=\"popup-wrapper\" id=\"11853093656192391821\"><a href=\"#11853093656192391821\" class=\"reference staticPopup\" ro=\"per117\" person=\"per117\" title=\"Parley Parker Pratt\">Parley P. Pratt</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Pratt, Parley Parker\"><p>12 Apr. 1807\u201313 May 1857. Farmer, editor, publisher, teacher, school administrator, legislator, explorer, author. Born at Burlington, Otsego Co., New York. Son of Jared Pratt and Charity Dickinson. Traveled west with brother William to acquire land, 1823....</p><a class=\"more\" href=\"/person/parley-parker-pratt\">View Full Bio</a></div></div></aside> were one of four pairs of men directed to travel from Kirtland to various locations to solicit volunteers and donations in support of the effort.<aside class=\"popup-wrapper\" id=\"6208570129530601388\"><a href=\"#6208570129530601388\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro8\"><span id=\"documentintro8\">8</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-24-february-1834-dc-103\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-24-february-1834-dc-103\" poptitle=\"Revelation, 24\nFebruary 1834 [D&amp;C 103]\">Revelation, 24 Feb. 1834</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1844/387\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1844\" poptitle=\"Section 101 \u2022 Revelation, 24 February 1834 [D&amp;C 103]\">Doctrine and Covenants 101, 1844 ed.</a> [D&amp;C 103].</p><hr></div></div></aside> Journal entries cover the monthlong trip of JS and Pratt through northeastern Pennsylvania and western <aside class=\"popup-wrapper\" id=\"14246864635258872707\"><a href=\"#14246864635258872707\" class=\"reference staticPopup\" ro=\"plc96\" place=\"plc96\" title=\"New York\">New York</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"New York\"><p>Located in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664\u20131776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...</p><a class=\"more\" href=\"/place/new-york\">More Info</a></div></div></aside>. JS returned from this mission at the end of March, just in time for the opening of a term of the <aside class=\"popup-wrapper\" id=\"6414907803955935815\"><a href=\"#6414907803955935815\" class=\"reference staticPopup\" ro=\"plc62\" place=\"plc62\" title=\"Geauga County, Ohio\">Geauga County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Geauga County, Ohio\"><p>Located in northeastern Ohio, south of Lake Erie. Rivers in area include Grand, Chagrin, and Cuyahoga. Settled mostly by New Englanders, beginning 1798. Formed from Trumbull Co., 1 Mar. 1806. Chardon established as county seat, 1808. Population in 1830 about...</p><a class=\"more\" href=\"/place/geauga-county-ohio\">More Info</a></div></div></aside> Court of Common Pleas. There he testified in a trial against <aside class=\"popup-wrapper\" id=\"686513538220199998\"><a href=\"#686513538220199998\" class=\"reference staticPopup\" ro=\"x4278\" person=\"x4278\" title=\"Doctor Philastus Hurlbut\">Doctor Philastus Hurlbut</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Hurlbut, Doctor Philastus\"><p>3 Feb. 1809\u201316 June 1883. Clergyman, farmer. Born at Chittenden Co., Vermont. \u201cDoctor\u201d was his given name. Preacher for Methodist Episcopal Church in Jamestown, Chautauque Co., New York. Baptized into Church of Jesus Christ of Latter-day Saints, 1832/1833...</p><a class=\"more\" href=\"/person/doctor-philastus-hurlbut\">View Full Bio</a></div></div></aside>, an excommunicant who had threatened his life. Following the trial, JS spent the rest of April preparing for the march to Missouri, which commenced in early May.</div> <div class=\" indent wasptag\">JS made no journal entries during the expedition to <aside class=\"popup-wrapper\" id=\"11232213662959969990\"><a href=\"#11232213662959969990\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside>. The episode is manifest in the journal as a half page of blank space, almost as if he intended to reserve the space for an entry later on. Although Missouri governor <aside class=\"popup-wrapper\" id=\"10203104737021407208\"><a href=\"#10203104737021407208\" class=\"reference staticPopup\" ro=\"x4261\" person=\"x4261\" title=\"Daniel Dunklin\">Daniel Dunklin</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Dunklin, Daniel\"><p>14 Jan. 1790\u201325 July 1844. Farmer, tavern owner, businessman, investor, lawyer, politician. Born near Greenville, Greenville District, South Carolina. Son of Joseph Dunklin Jr. and Sarah Margaret Sullivan. Moved to what became Caldwell Co., Kentucky, 1806...</p><a class=\"more\" href=\"/person/daniel-dunklin\">View Full Bio</a></div></div></aside> acknowledged the legal right of the Mormons to their <aside class=\"popup-wrapper\" id=\"12239055054186573607\"><a href=\"#12239055054186573607\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside> property, he would not intervene. Based on statements by Dunklin\u2019s attorney general, Robert Wells, the Mormons mistakenly assumed that Dunklin was willing to commit state militia to escort them back to Jackson County, and the expedition\u2014known as the \u201cCamp of Israel\u201d and later as \u201cZion\u2019s Camp\u201d\u2014marched with that expectation. As the little army of Mormons neared Missouri, tensions mounted, and Dunklin sought a compromise. But negotiations between the Mormons and their former neighbors in Jackson County failed to resolve major issues that prevented the Mormons\u2019 return to their Zion.</div> <div class=\" indent wasptag\">The volunteers thus halted near the border of <aside class=\"popup-wrapper\" id=\"17185168819335828125\"><a href=\"#17185168819335828125\" class=\"reference staticPopup\" ro=\"plc57\" place=\"plc57\" title=\"Jackson County, Missouri\">Jackson County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Jackson County, Missouri\"><p>Settled at Fort Osage, 1808. County created, 16 Feb. 1825; organized 1826. Named after U.S. president Andrew Jackson. Featured fertile lands along Missouri River and was Santa Fe Trail departure point, which attracted immigrants to area. Area of county reduced...</p><a class=\"more\" href=\"/place/jackson-county-missouri\">More Info</a></div></div></aside>, short of their intended destination. A revelation dated 22 June 1834 counseled the Latter-day Saints to prepare themselves more thoroughly and declared that the redemption of Zion must await their empowerment in the <aside class=\"popup-wrapper\" id=\"3056822177382601301\"><a href=\"#3056822177382601301\" class=\"reference staticPopup\" ro=\"x5077\" place=\"x5077\" title=\"House of the Lord, Kirtland Township, Ohio\">House of the Lord</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"House of the Lord, Kirtland Township, Ohio\"><p>JS revelation, dated Jan. 1831, directed Latter-day Saints to migrate to Ohio, where they would \u201cbe endowed with power from on high.\u201d In Dec. 1832, JS revelation directed Saints to \u201cestablish . . . an house of God.\u201d JS revelation, dated 1 June 1833, chastened...</p><a class=\"more\" href=\"/place/house-of-the-lord-kirtland-township-ohio\">More Info</a></div></div></aside> at <aside class=\"popup-wrapper\" id=\"5955270103471664909\"><a href=\"#5955270103471664909\" class=\"reference staticPopup\" ro=\"plc13\" place=\"plc13\" title=\"Kirtland Township, Ohio\">Kirtland</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Kirtland Township, Ohio\"><p>Located ten miles south of Lake Erie. Settled by 1811. Organized by 1818. Latter-day Saint missionaries visited township, early Nov. 1830; many residents joined Church of Jesus Christ of Latter-day Saints. Population in 1830 about 55 Latter-day Saints and...</p><a class=\"more\" href=\"/place/kirtland-township-ohio\">More Info</a></div></div></aside>. The revelation also directed them to continue to purchase lands in the vicinity of Jackson County.<aside class=\"popup-wrapper\" id=\"12200344204119475973\"><a href=\"#12200344204119475973\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro9\"><span id=\"documentintro9\">9</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-22-june-1834-dc-105\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-22-june-1834-dc-105\" poptitle=\"Revelation, 22 June 1834\n[D&amp;C 105]\">Revelation, 22 June 1834</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1844/391\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1844\" poptitle=\"Section 102 \u2022 Revelation, 22 June 1834 [D&amp;C 105]\">Doctrine and Covenants 102:3, 8, 1844 ed.</a> [D&amp;C 105:9\u201313, 27\u201328].</p><hr></div></div></aside> Members of the expedition distributed food and supplies to the refugee Mormons living in nearby <aside class=\"popup-wrapper\" id=\"12140868926426873200\"><a href=\"#12140868926426873200\" class=\"reference staticPopup\" ro=\"plc91\" place=\"plc91\" title=\"Clay County, Missouri\">Clay County</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Clay County, Missouri\"><p>Settled ca. 1800. Organized from Ray Co., 1822. Original size diminished when land was taken to create several surrounding counties. Liberty designated county seat, 1822. Population in 1830 about 5,000; in 1836 about 8,500; and in 1840 about 8,300. Refuge...</p><a class=\"more\" href=\"/place/clay-county-missouri\">More Info</a></div></div></aside>, and JS strengthened local church leadership by appointing a presidency and a \u201chigh council\u201d consisting of twelve men. Meanwhile, about sixty-eight of the volunteers, including JS, contracted cholera; thirteen died. After the cholera abated at the end of June, the surviving members were discharged and the expedition officially ended, having failed in its ostensible mission.<aside class=\"popup-wrapper\" id=\"6341293086523437748\"><a href=\"#6341293086523437748\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro10\"><span id=\"documentintro10\">10</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">Kimball, \u201cHistory,\u201d 21\u201324; Launius, <span class=\"title\">Zion\u2019s Camp,</span> 110\u2013155.</p><hr><div class=\"works-cited-links\"><a href=\"/works-cited\" class=\"pdf\" id=\"comp-works\">Comprehensive Works Cited</a></div><div class=\"source-note\"><p id=\"source-note1\"> Kimball, Heber C. \u201cHistory of Heber Chase Kimball by His Own Dictation,\u201d ca. 1842\u20131856. Heber C. Kimball, Papers, 1837\u20131866. CHL. MS 627, box 2.</p><p id=\"source-note2\"> Launius, Roger D. <span class=\"title\">Zion\u2019s Camp: Expedition to Missouri, 1834.</span> Independence, MO: Herald Publishing House, 1984. </p></div></div></div></aside> In early August, JS returned to Kirtland amidst criticism about the expedition. There he faced two heavy financial challenges: to purchase new lands in <aside class=\"popup-wrapper\" id=\"15220976149908628081\"><a href=\"#15220976149908628081\" class=\"reference staticPopup\" ro=\"plc140\" place=\"plc140\" title=\"Missouri\">Missouri</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Missouri\"><p>Area acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...</p><a class=\"more\" href=\"/place/missouri\">More Info</a></div></div></aside> and to finish construction of the House of the Lord in Kirtland.</div></body></html>",
+          "footnotes": [
+            {
+              "id": "13562522304186007600",
+              "text": "<html><head></head><body><p class=\"bottom_0\">Frederick G. Williams, Statement, no date, Frederick G. Williams, Papers, CHL.</p></body></html>",
+              "number": 1,
+              "type": "number",
+              "toenote": "",
+              "longcitation": "<p id=\"source-note1\"> Williams, Frederick G. Papers, 1834\u20131842. CHL. <a href=\"https://catalog.churchofjesuschrist.org/record/44c17a16-4f63-40a7-b321-553f80fc56a8?view=browse\" class=\"externalLink\">MS 782</a>.</p>"
+            },
+            {
+              "id": "7718153514905602829",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/minutes-22-23-january-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/minutes-22-23-january-1833\" poptitle=\"Minutes, 22\u201323 January 1833 \">Minute Book 1, 22 Jan. 1833</a>.</p></body></html>",
+              "number": 2,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "17742066813299815576",
+              "text": "<html><head></head><body><p class=\"bottom_0\">Entries for <a href=\"/paper-summary/journal-1832-1834/3\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"28 November 1832 \u2022 Wednesday\">28</a> and <a href=\"/paper-summary/journal-1832-1834/4\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"30 November 1832 \u2022 Friday\">30 Nov. 1832</a>; <a href=\"/paper-summary/journal-1832-1834/5\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/journal-1832-1834\" poptitle=\"4 December 1832 \u2022 Tuesday\">4 Dec. 1832</a>.</p></body></html>",
+              "number": 3,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "16267640702460047891",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-2-january-1831-dc-38\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-2-january-1831-dc-38\" poptitle=\"Revelation, 2 January 1831 [D&amp;C\n38]\">Revelation, 2 Jan. 1831</a>, in <a href=\"/paper-summary/book-of-commandments-1833/84\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/book-of-commandments-1833\" poptitle=\"Chapter 40 \u2022 Revelation, 2 January 1831 [D&amp;C 38]\">Book of Commandments 40:28</a> [D&amp;C 38:32]; <a href=\"/paper-summary/revelation-27-28-december-1832-dc-881-126\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-27-28-december-1832-dc-881-126\" poptitle=\"Revelation, 27\u201328 December 1832 [D&amp;C 88:1\u2013126]\">Revelation, 27\u201328 Dec. 1832</a> and <a href=\"/paper-summary/revelation-3-january-1833-dc-88127-137\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-3-january-1833-dc-88127-137\" poptitle=\"Revelation, 3\nJanuary 1833 [D&amp;C 88:127\u2013137]\">3 Jan. 1833</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1835/108\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1835\" poptitle=\"Section 7 \u2022 Revelation,\n27\u201328 December 1832 and\n3 January 1833 [D&amp;C 88]\">Doctrine and Covenants 7:19\u201323, 36\u201346, 1835 ed.</a> [D&amp;C 88:70\u201384, 117\u2013141].</p></body></html>",
+              "number": 4,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "3294059914744142492",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-2-august-1833-b-dc-94\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-2-august-1833-b-dc-94\" poptitle=\"Revelation,\n2 August 1833\u2013B [D&amp;C\n94]\">Revelation, 2 Aug. 1833\u2013B</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1835/221\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1835\" poptitle=\"Section 83 \u2022 Revelation, 2 August\n1833\u2013B [D&amp;C 94]\">Doctrine and Covenants 83:1, 1835 ed.</a> [D&amp;C 94:1].</p></body></html>",
+              "number": 5,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "3602197487712259869",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/plat-of-the-city-of-zion-circa-early-june-25-june-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/plat-of-the-city-of-zion-circa-early-june-25-june-1833\" poptitle=\"Plat\n of the City of Zion,\n circa Early\n June\u201325\n June 1833\">Plat of City of Zion, 1833</a>, CHL.</p></body></html>",
+              "number": 6,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "660132833219236589",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/letter-from-john-whitmer-29-july-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/letter-from-john-whitmer-29-july-1833\" poptitle=\"Letter from John\nWhitmer, 29 July 1833\">John Whitmer, Independence, MO, to JS and Oliver Cowdery, [Kirtland, OH], 29 July 1833</a>, in <a href=\"/paper-summary/letterbook-2/57\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/letterbook-2\" poptitle=\"Letter from John Whitmer \u2022 29 July\n 1833\">JS Letterbook 2, pp. 52\u201355</a>; <a href=\"/paper-summary/letter-to-church-leaders-in-jackson-county-missouri-10-august-1833\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/letter-to-church-leaders-in-jackson-county-missouri-10-august-1833\" poptitle=\"Letter to Church Leaders in Jackson County,\nMissouri, 10 August 1833\">Oliver Cowdery with JS postscript, Kirtland Mills, OH, to [William W. Phelps] et al., [Independence, MO], 10 Aug. 1833</a>, CHL; Knight, Autobiography, 39.</p></body></html>",
+              "number": 7,
+              "type": "number",
+              "toenote": "",
+              "longcitation": "<p id=\"source-note1\"> Knight, Newel. Autobiography and Journal, ca. 1846. CHL. <a href=\"https://catalog.churchofjesuschrist.org/record/e705cff0-8633-4e3f-8d7a-2a513731e85c/0?view=browse\" class=\"externalLink\">MS 767</a>.</p>"
+            },
+            {
+              "id": "6208570129530601388",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-24-february-1834-dc-103\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-24-february-1834-dc-103\" poptitle=\"Revelation, 24\nFebruary 1834 [D&amp;C 103]\">Revelation, 24 Feb. 1834</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1844/387\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1844\" poptitle=\"Section 101 \u2022 Revelation, 24 February 1834 [D&amp;C 103]\">Doctrine and Covenants 101, 1844 ed.</a> [D&amp;C 103].</p></body></html>",
+              "number": 8,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "12200344204119475973",
+              "text": "<html><head></head><body><p class=\"bottom_0\"><a href=\"/paper-summary/revelation-22-june-1834-dc-105\" class=\"referenceInPop\" pop=\"/ajax/papers/tooltip/revelation-22-june-1834-dc-105\" poptitle=\"Revelation, 22 June 1834\n[D&amp;C 105]\">Revelation, 22 June 1834</a>, in <a href=\"/paper-summary/doctrine-and-covenants-1844/391\" class=\"referenceInPop\" pop=\"/ajax/papers-text/tooltip/doctrine-and-covenants-1844\" poptitle=\"Section 102 \u2022 Revelation, 22 June 1834 [D&amp;C 105]\">Doctrine and Covenants 102:3, 8, 1844 ed.</a> [D&amp;C 105:9\u201313, 27\u201328].</p></body></html>",
+              "number": 9,
+              "type": "number",
+              "toenote": "",
+              "longcitation": null
+            },
+            {
+              "id": "6341293086523437748",
+              "text": "<html><head></head><body><p class=\"bottom_0\">Kimball, \u201cHistory,\u201d 21\u201324; Launius, <span class=\"title\">Zion\u2019s Camp,</span> 110\u2013155.</p></body></html>",
+              "number": 10,
+              "type": "number",
+              "toenote": "",
+              "longcitation": "<p id=\"source-note1\"> Kimball, Heber C. \u201cHistory of Heber Chase Kimball by His Own Dictation,\u201d ca. 1842\u20131856. Heber C. Kimball, Papers, 1837\u20131866. CHL. MS 627, box 2.</p><p id=\"source-note2\"> Launius, Roger D. <span class=\"title\">Zion\u2019s Camp: Expedition to Missouri, 1834.</span> Independence, MO: Herald Publishing House, 1984. </p>"
+            }
+          ]
+        },
+        "sourceNotes": {
+          "text": "<html><head></head><body><span class=\"source-note-summary\"> <div class=\" indent wasptag\">JS, \u201cJoseph Smith Jrs Book for Record,\u201d Journal, Nov. 1832\u2013Dec. 1834; handwriting of <aside class=\"popup-wrapper\" id=\"12279121949419793744\"><a href=\"#12279121949419793744\" class=\"reference staticPopup\" ro=\"per47\" person=\"per47\" title=\"Oliver Cowdery\">Oliver Cowdery</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Cowdery, Oliver\"><p>3 Oct. 1806\u20133 Mar. 1850. Clerk, teacher, justice of the peace, lawyer, newspaper editor. Born at Wells, Rutland Co., Vermont. Son of William Cowdery and Rebecca Fuller. Raised Congregationalist. Moved to western New York and clerked at a store, ca. 1825\u20131828...</p><a class=\"more\" href=\"/person/oliver-cowdery\">View Full Bio</a></div></div></aside>, JS, <aside class=\"popup-wrapper\" id=\"5759222643340143116\"><a href=\"#5759222643340143116\" class=\"reference staticPopup\" ro=\"per63\" person=\"per63\" title=\"Frederick Granger Williams\">Frederick G. Williams</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Williams, Frederick Granger\"><p>28 Oct. 1787\u201310 Oct. 1842. Ship\u2019s pilot, teacher, physician, justice of the peace. Born at Suffield, Hartford Co., Connecticut. Son of William Wheeler Williams and Ruth Granger. Moved to Newburg, Cuyahoga Co., Ohio, 1799. Practiced Thomsonian botanical system...</p><a class=\"more\" href=\"/person/frederick-granger-williams\">View Full Bio</a></div></div></aside>, <aside class=\"popup-wrapper\" id=\"11242760230384665548\"><a href=\"#11242760230384665548\" class=\"reference staticPopup\" ro=\"per117\" person=\"per117\" title=\"Parley Parker Pratt\">Parley P. Pratt</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Pratt, Parley Parker\"><p>12 Apr. 1807\u201313 May 1857. Farmer, editor, publisher, teacher, school administrator, legislator, explorer, author. Born at Burlington, Otsego Co., New York. Son of Jared Pratt and Charity Dickinson. Traveled west with brother William to acquire land, 1823....</p><a class=\"more\" href=\"/person/parley-parker-pratt\">View Full Bio</a></div></div></aside>, <aside class=\"popup-wrapper\" id=\"2361179492646031959\"><a href=\"#2361179492646031959\" class=\"reference staticPopup\" ro=\"per75\" person=\"per75\" title=\"Sidney Rigdon\">Sidney Rigdon</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Rigdon, Sidney\"><p>19 Feb. 1793\u201314 July 1876. Tanner, farmer, minister. Born at St. Clair, Allegheny Co., Pennsylvania. Son of William Rigdon and Nancy Gallaher. Joined United Baptists, ca. 1818. Preached at Warren, Trumbull Co., Ohio, and vicinity, 1819\u20131821. Married Phebe...</p><a class=\"more\" href=\"/person/sidney-rigdon\">View Full Bio</a></div></div></aside>, <aside class=\"popup-wrapper\" id=\"3330589034822052868\"><a href=\"#3330589034822052868\" class=\"reference staticPopup\" ro=\"x4943\" person=\"x4943\" title=\"Eleazer Freeman Nickerson\">Freeman Nickerson</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Nickerson, Eleazer Freeman\"><p>2/12 Apr. 1806\u201314/16 Sept. 1862. Merchant, farmer. Born at Cavendish, Windsor Co., Vermont. Son of Freeman Nickerson and Huldah Chapman. Moved to Dayton, Cattaraugus Co., New York, mid 1820s. Moved to Mount Pleasant, Brantford Township, Wentworth Co., Gore...</p><a class=\"more\" href=\"/person/eleazer-freeman-nickerson\">View Full Bio</a></div></div></aside>, and six unidentified scribes; ninety-three pages; JS Collection, CHL. Includes redactions, use marks, and archival marking.</div> </span> <div class=\" indent wasptag\">Pocket-size memorandum book, 5\u215e \u00d7 3\u00be \u00d7 \u00bc inches (15 \u00d7 10 \u00d7 1 cm). The text block consists of fifty-four leaves measuring 5\u215e \u00d7 3\u215d inches (15 \u00d7 9 cm). There are four gatherings of six sheets each of ledger paper. Each sheet is folded so that each gathering has twelve leaves (twenty-four pages). These pages are ruled with sixteen blue horizontal lines\u2014now almost entirely faded\u2014as well as with red vertical lines for recording financial information. The endpapers consist of pastedowns on the inside covers and two free flyleaves in both the front and back. The gatherings are sewn all along on sawn-in cords. The front and back covers of the journal are pasteboard. The ledger has a tight-back case binding with a black calfskin quarter-leather binding. The outside covers are adorned in Schrottel marbled paper, with gray body and veins of black and blue. The volume originally had three leather loops\u2014two in the back and one in the front\u2014that were tipped in between the inside covers and the pastedowns. The former presence of the front cover loop, no longer extant, is evident from creasing and staining on the pastedown, which is now detached. The leather loops and their spacing allowed for the book to be fastened by inserting a pencil between all three loops. The vibrant blue veins and the grain of the marbling, now greatly diminished by water damage, are also visible under the now-loose front pastedown.</div> <div class=\" indent wasptag\">JS wrote \u201cJoseph Smith <span class=\"underscore\">1832.&lt;\u200b3\u20134\u200b&gt;</span>\u201d on the front cover in brown ink. On the front pastedown, \u201cJoseph Smith\u201d is written sideways, running upward near the bottom of the outer edge. Also, \u201cJoseph\u201d is written sideways, running downward, near the top of the inside of the same page. The handwriting of these inscriptions has not been identified. The journal entries begin on the recto of the second leaf (the first flyleaf) and end on the recto of the back pastedown, making 105 numbered pages. Regular journal entries, inscribed in various shades of brown ink, continue through page 93. Pages 94 to 102 are blank except for page 98, which has JS\u2019s name in graphite pencil at the top in JS\u2019s handwriting. Pages 103\u2013105 record subscriptions, which were evidently solicited during JS\u2019s 26 February\u201328 March 1834 <aside class=\"popup-wrapper\" id=\"11994788284982505813\"><a href=\"#11994788284982505813\" class=\"reference staticPopup\" ro=\"plc96\" place=\"plc96\" title=\"New York\">New York</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"New York\"><p>Located in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664\u20131776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...</p><a class=\"more\" href=\"/place/new-york\">More Info</a></div></div></aside> mission, as well as a note apparently inscribed on 20 April 1834 in preparation for the conference held 20\u201321 April 1834 at <aside class=\"popup-wrapper\" id=\"5658630475891634046\"><a href=\"#5658630475891634046\" class=\"reference staticPopup\" ro=\"plc97\" place=\"plc97\" title=\"Norton Township, Ohio\">Norton</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Norton Township, Ohio\"><p>Area first settled, 1814. Formed from Wolf Creek Township, 1818. Reported location of \u201cgreat Mormon excitement,\u201d 1832\u20131838. Population in 1830 about 650. Primarily populated by immigrants from New England states. Increased German Pennsylvanian immigration...</p><a class=\"more\" href=\"/place/norton-township-ohio\">More Info</a></div></div></aside>, Ohio. The book has suffered from water and mud damage, evidenced in part by some extremely faded ink on page 2. Glue from tipping in a damaged leaf has also obscured several characters in the gutter of page 2.</div> <div class=\" indent wasptag\">The journal\u2019s textual redactions and use marks, in graphite pencil, were made by later scribes who used the journal to produce the multivolume manuscript history of the church. This occurred in <aside class=\"popup-wrapper\" id=\"10824258412701853447\"><a href=\"#10824258412701853447\" class=\"reference staticPopup\" ro=\"plc12\" place=\"plc12\" title=\"Nauvoo, Illinois\">Nauvoo</a><div class=\"popup-content\"><div class=\"note-data\" isnote=\"Y\" isnonsearchable=\"Y\"><input type=\"hidden\" value=\"Nauvoo, Illinois\"><p>Principal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....</p><a class=\"more\" href=\"/place/nauvoo-illinois\">More Info</a></div></div></aside>, Illinois, indicating the journal remained in JS\u2019s possession. The journal is listed in Nauvoo and early Utah inventories of church records, indicating continuous custody.<aside class=\"popup-wrapper\" id=\"7445209506916446402\"><a href=\"#7445209506916446402\" class=\"editorial-note-static staticPopup\" title=\"Note\" name=\"intro1\"><span id=\"documentintro1\">1</span></a><div class=\"popup-content\"><div class=\"note-data editorial-footnote\" isnote=\"Y\"><p class=\"bottom_0\">\u201cSchedule of Church Records. Nauvoo 1846,\u201d [1]; Historian\u2019s Office, [7] \u201cHistorian\u2019s Office Catalogue,\u201d Catalogs and Inventories, 1846\u20131904, CHL; Johnson, <span class=\"title\">Register of the Joseph Smith Collection,</span> 7.</p><hr><div class=\"works-cited-links\"><a href=\"/works-cited\" class=\"pdf\" id=\"comp-works\">Comprehensive Works Cited</a></div><div class=\"source-note\"><p id=\"source-note1\"> Historian\u2019s Office. Catalogs and Inventories, 1846\u20131904. CHL. CR 100 130.</p><p id=\"source-note2\"> Johnson, Jeffery O. <span class=\"title\">Register of the Joseph Smith Collection in the Church Archives, the Church of Jesus Christ of Latter-day Saints.</span> Salt Lake City: Historical Department of the Church of Jesus Christ of Latter-day Saints, 1973. </p></div></div></div></aside></div></body></html>",
+          "footnotes": [
+            {
+              "id": "7445209506916446402",
+              "text": "<html><head></head><body><p class=\"bottom_0\">\u201cSchedule of Church Records. Nauvoo 1846,\u201d [1]; Historian\u2019s Office, [7] \u201cHistorian\u2019s Office Catalogue,\u201d Catalogs and Inventories, 1846\u20131904, CHL; Johnson, <span class=\"title\">Register of the Joseph Smith Collection,</span> 7.</p></body></html>",
+              "number": 1,
+              "type": "number",
+              "toenote": "",
+              "longcitation": "<p id=\"source-note1\"> Historian\u2019s Office. Catalogs and Inventories, 1846\u20131904. CHL. CR 100 130.</p><p id=\"source-note2\"> Johnson, Jeffery O. <span class=\"title\">Register of the Joseph Smith Collection in the Church Archives, the Church of Jesus Christ of Latter-day Saints.</span> Salt Lake City: Historical Department of the Church of Jesus Christ of Latter-day Saints, 1973. </p>"
+            }
+          ]
+        },
+        "calendarsOfDocuments": [],
+        "versions": [
+          {
+            "versionTitle": "Prayer, 11 January 1834",
+            "versionLink": "/paper-summary/prayer-11-january-1834/1",
+            "versionFeatured": "true"
+          }
+        ],
+        "images": {
+          "smallImageUrl": "/6662/6662_ms155_1_01_jsj-1_000_thumb.jpg",
+          "mediumImageUrl": "/6662/6662_ms155_1_01_jsj-1_000_med.jpg",
+          "largeImageUrl": "/6662/6662_ms155_1_01_jsj-1_000.jpg",
+          "downloadImageUrl": "/6662/6662_ms155_1_01_jsj-1_000_download.jpg"
+        },
+        "imageCredit": "",
+        "facsimile": "",
+        "dzUrlXml": "/6662/6662_ms155_1_01_jsj-1_000.xml",
+        "classification": "Journals",
+        "publishedStatus": "FinalContent",
+        "accessionNumber": "6662",
+        "requestedPageNumber": "1",
+        "numberOfPages": "106",
+        "editorialTitle": "Journal, 1832\u20131834",
+        "cleanEditorialTitle": "Journal, 1832\u20131834",
+        "date": "November 1, 1832",
+        "handwriting": "Handwriting of Oliver Cowdery, JS, Frederick G. Williams, Parley P. Pratt, Sidney Rigdon, Freeman Nickerson, and six unidentified scribes",
+        "footnotes": [
+          {
+            "id": "17908918251016030423",
+            "text": "<html><head></head><body><p class=\"bottom_0\">JS handwriting begins.</p></body></html>",
+            "number": null,
+            "type": "scribal",
+            "toenote": "",
+            "longcitation": null
+          }
+        ],
+        "meta": {
+          "/paper-summary-PageTitle": "Journal, 1832\u20131834, Page 0",
+          "/paper-summary-MetaTitle": "Journal, 1832\u20131834, Page 0",
+          "/paper-summary-MetaDescription": "JS handwriting begins.Joseph Smith 1832  \u2013   34  [front cover]...",
+          "/paper-summary-MetaUrl": "/paper-summary/journal-1832-1834/1",
+          "/paper-summary-MetaImage": "/bc-jsp/content/jsp/images/6662/6662_ms155_1_01_jsj-1_000_thumb.jpg"
+        },
+        "scribes": [
+          {
+            "id": "per46",
+            "name": "Joseph Smith Jr."
+          }
+        ],
+        "printVolumeLocation": "<a href=\"http://www.josephsmithpapers.org/articles/journals-volume-1-1832-1839\" class=\"externalLink\" xmlns:srchdoc=\"https://ldsc.xmlref.com/local/ldschurch/searchDocuments\" xmlns:lds=\"https://ldsc.xmlref.com/local/ldschurch\"><span class=\"title\">JSP,</span> J1:3\u201351</a>"
+      },
+      "legal": {},
+      "disableVerticalScroll": true,
+      "documentURI": "/published/jsp/searchable/papers/27466/27466-0001.xml",
+      "searchOptions": [
+        {
+          "name": "| This Document",
+          "value": "document"
+        },
+        {
+          "name": "| Full Site",
+          "value": "site"
+        }
+      ]
+    },
+    "__N_SSP": true
+  },
+  "page": "/paper-summary/[uri]/[page]",
+  "query": {
+    "uri": "journal-1832-1834",
+    "page": "1"
+  },
+  "buildId": "dmDupS4tJR_KYz9o832Y2",
+  "isFallback": false,
+  "isExperimentalCompile": false,
+  "gssp": true,
+  "appGip": true,
+  "scriptLoader": []
+}

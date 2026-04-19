@@ -1,0 +1,46 @@
+# JSPP — Account of Meeting, 12 January 1841, as Reported by William P. McIntire
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** January 12, 1841
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/account-of-meeting-12-january-1841-as-reported-by-william-p-mcintire/1
+**Scraped:** 2026-04-18
+
+---
+
+## Summary
+
+Tuesday the 19 <​12​>th at Mr. Davises— 1st. subject education by Mr. [blank] he said a people whose minds were Culavated [cultivated] & Man[n]ers Refined By Education that they had Great & precious E[n]joyment that Ignorant had Not 2d. subject was Vice by Mr. stout [Hosea Stout]18 Sept. 1810–2 Mar.…
+
+---
+
+## Full Transcript
+
+Tuesday the 19 <​12​>th at Mr. Davises— 1st. subject education by Mr. [blank] he said a people whose minds were Culavated [cultivated] & Man[n]ers Refined By Education that they had Great & precious E[n]joyment that Ignorant had Not 2d. subject was Vice by Mr. stout [Hosea Stout]18 Sept. 1810–2 Mar. 1889. Farmer, teacher, carpenter, sawmill operator, lawyer. Born near Pleasant Hill, Mercer Co., Kentucky. Son of Joseph Stout and Anna Smith. Moved to Union Township, Clinton Co., Ohio, 1819; to Wilmington, Clinton Co., fall 1824; to...View Full Bio he said Murder theft & the Like come from indulgances in this principle— Joseph— said that some things ware Eavils that did not come under the Head of vise; for instance one Nation would Come against [an]other it would be an Eavil on the Nation was Come aganst yet it would not be a vice for [p. [5]]
+
+  them to Repell—1An 1833 revelation directed the Saints to remain temperate in their reactions to violent confrontation, spelling out the circumstances under which war was justified. One month earlier, JS had briefly instructed church leaders on subduing evil passions and eliminating prejudice as a way to banish hatred and vice. (Revelation, 6 Aug. 1833 [D&C 98]; Letter to Quorum of the Twelve, 15 Dec. 1840.) Virtue was 3d subject 4th. subject the Gospel by Mr. Badlam [Alexander Badlam Sr.]28 Nov. 1808–30 Nov./1 Dec. 1894. Coachmaker, realtor, inventor, author. Born at Dorchester, Suffolk Co., Massachusetts. Son of Ezra Badlam and Mary Lovis. Married Mary Ann Brannan, ca. 1833, near Saco, York Co., Maine. Participated in Camp of Israel expedition...View Full Bio he lectors on it till he Comes the Laying on the hands for the Holy Ghost—2This sentence, and the comment at the end of the paragraph about “faith Repentence & Baptism,” suggests that in referring to the gospel Badlam may have been speaking on the first conditions of salvation—faith, repentance, baptism by immersion for the remission of sins, and the laying on of hands for the gift of the Holy Ghost—as spelled out by Orson Pratt in an 1840 pamphlet containing statements later attributed to JS. Badlam’s comments may also have been prompted by an article series titled “Gospel” that ran in the November and December 1840 issues of the Times and Seasons. (Pratt, Interesting Account, 27–28; “Gospel No. I,” Times and Seasons, 1 Nov. 1840, 2:196–200; “The Gospel, No. II,” Times and Seasons, 15 Nov. 1840, 2:213–215; “The Gospel. No. III,” Times and Seasons, 1 Dec. 1840, 2:226–228; “The Gospel. No. IV,” Times and Seasons, 15 Dec. 1840, 2:243–247.)Comprehensive Works Cited Times and Seasons. Commerce/Nauvoo, IL. Nov. 1839–Feb. 1846. then Joseph— takes it up & ad[d]s the Resurection & Eternal Judgment in the Eternal Judgment there is many things to know & to under stand in Gods Judging for instance Peter said Davidd had not yet ascend to heaven & that he was a Murderer— & that his soul was in Hell is plainly told By Peter in acts— 2d. ch—3See Acts 2:29–36. Petter shews plainer [i]t in the 3d of acts that a Murderer could Not be Red [p. [6]]
+
+  [ee]med intill he would send Jesus Christ which before was preached unto you &c—4See Acts 3:19–21. that is that faith Repentance & Baptism would not save them untill the[y] ware scourged in hell or paid the Last farthing—5See Matthew 5:26; and Revelation, ca. Summer 1829 [D&C 19:15–18]. [p. [7]]
+
+---
+
+## Source Note
+
+According to notes made by William P. McIntire29 May 1813–5 Jan. 1882. Tailor. Born in Wheatfield, Indiana Co., Pennsylvania. Son of George McIntire and Sarah Davis. Married Anna Patterson, ca. 1833, in Pennsylvania. Baptized into Church of Jesus Christ of Latter-day Saints by Erastus Snow, 23 Nov. 1836...View Full Bio, JS attended a meeting on “Tuesday the 12th,” apparently in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois. McIntire provided no further information on the date of the meeting, but he was presumably describing a gathering that occurred on 12 January 1841, a Tuesday.1McIntire’s account of this meeting held “Tuesday the 12th” directly follows another account describing a Nauvoo meeting in January 1840, but 1840 appears to be an incorrect year because JS was in the Philadelphia area in January 1840 and McIntire did not live in Nauvoo at that time. McIntire, recording at the first of a new year, may have meant to write 1841 instead of 1840. (Historical Introduction to Letter to Emma Smith, 20–25 Jan. 1840.) According to McIntire, the meeting was held at the home of a Mr. Davis, who may have been Amos DavisCa. 20 Sept. 1813–22 Mar. 1872. Merchant, farmer, postmaster, tavernkeeper. Born in New Hampshire or Vermont. Son of Wells Davis and Mary. Moved to Commerce (later Nauvoo), Hancock Co., Illinois, ca. fall 1836. Married first Elvira Hibard, 1 Jan. 1837, in...View Full Bio, a merchant residing in Nauvoo.2According to records associated with the store he operated in the area, Davis resided in the vicinity of Commerce, Illinois, as early as 1836. (Lyon, “Account Books of the Amos Davis Store at Commerce, Illinois,” 241.)Comprehensive Works CitedLyon, T. Edgar. “The Account Books of the Amos Davis Store at Commerce, Illinois.” BYU Studies 19, no. 2 (Winter 1979): 241–243. The meeting was likely an installment of a weekly lyceum at which attendees gathered to discuss secular and religious topics.3See Historical Introduction to Accounts of Meeting and Discourse, 5 Jan. 1841. At the meeting, Hosea Stout18 Sept. 1810–2 Mar. 1889. Farmer, teacher, carpenter, sawmill operator, lawyer. Born near Pleasant Hill, Mercer Co., Kentucky. Son of Joseph Stout and Anna Smith. Moved to Union Township, Clinton Co., Ohio, 1819; to Wilmington, Clinton Co., fall 1824; to...View Full Bio, Alexander Badlam28 Nov. 1808–30 Nov./1 Dec. 1894. Coachmaker, realtor, inventor, author. Born at Dorchester, Suffolk Co., Massachusetts. Son of Ezra Badlam and Mary Lovis. Married Mary Ann Brannan, ca. 1833, near Saco, York Co., Maine. Participated in Camp of Israel expedition...View Full Bio, and one or two others addressed subjects that were apparently predetermined. In response to these speeches, JS remarked on vice, war, the role repentance and baptismAn ordinance in which an individual is immersed in water for the remission of sins. The Book of Mormon explained that those with necessary authority were to baptize individuals who had repented of their sins. Baptized individuals also received the gift of...View Glossary will play in God’s eternal judgment of humankind, and the varied durations of time that humans will suffer before being granted salvation.4See the Source Note for Account of Meeting and Discourse, 5 Jan. 1841, as Reported by William P. McIntire. McIntire apparently took his notes during the meeting. 10562517842498443591 McIntire’s account of this meeting held “Tuesday the 12th” directly follows another account describing a Nauvoo meeting in January 1840, but 1840 appears to be an incorrect year because JS was in the Philadelphia area in January 1840 and McIntire did not live in Nauvoo at that time. McIntire, recording at the first of a new year, may have meant to write 1841 instead of 1840. (Historical Introduction to Letter to Emma Smith, 20–25 Jan. 1840.) 1 number 17453583829772847310 According to records associated with the store he operated in the area, Davis resided in the vicinity of Commerce, Illinois, as early as 1836. (Lyon, “Account Books of the Amos Davis Store at Commerce, Illinois,” 241.) 2 number Lyon, T. Edgar. “The Account Books of the Amos Davis Store at Commerce, Illinois.” BYU Studies 19, no. 2 (Winter 1979): 241–243. 10658778498956341297 See Historical Introduction to Accounts of Meeting and Discourse, 5 Jan. 1841. 3 number 10040202490436097736 See the Source Note for Account of Meeting and Discourse, 5 Jan. 1841, as Reported by William P. McIntire. 4 number
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - account-of-meeting-and-discourse-5-january-1841-as-reported-by-william-p-mcintire]]
+- [[JSPP - letter-to-emma-smith-20-25-january-1840]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

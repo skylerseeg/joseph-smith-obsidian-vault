@@ -1,0 +1,6 @@
+.venv/
+data/
+logs/
+inspect_output.html
+__pycache__/
+*.pyc
