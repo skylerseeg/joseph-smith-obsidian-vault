@@ -1,0 +1,62 @@
+# JSPP — Discourse, circa 16 March 1841
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** March 16, 1841
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/discourse-circa-16march-1841/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Joseph Said that they wi[c]ked will Not all be Destroyed at the Coming of Christ & also there will be wiked During the Melenum [Millennium]— for instance Isaiah says the Days of an infant shall be as the age of a tree1See Isaiah 65:20, 22; and Revelation, 16–17 Dec. 1833…
+
+---
+
+## Full Transcript
+
+Joseph Said that they wi[c]ked will Not all be Destroyed at the Coming of Christ & also there will be wiked During the Melenum [Millennium]— for instance Isaiah says the Days of an infant shall be as the age of a tree1See Isaiah 65:20, 22; and Revelation, 16–17 Dec. 1833 [D&C 101:31]. also Zaich. [Zechariah] says all who Does Not Come up year by year with their Gifts to the feasts of the tabernicle that No Rain shall fall upon them—2See Zechariah 14:16–17. & that Jesus will be a Resident on the Earth a thousand [years] with the Saints is Not the Case but will Raign over the saints & come Down & instruct as he Did the 5 hundred Brethern (1st Cor.— 15)3In his first letter to the Corinthians, Paul listed the various people and groups who saw the resurrected Christ and reported that “he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.” (1 Corinthians 15:6.) & those of the first Resurerection will also Raign with him over the saints— then after the Little season is expired4See Revelation 20:3; Revelation, Sept. 1830–A [D&C 29:22]; and Revelation, Feb. 1831–A [D&C 43:31]. & the Earth underGoes its Last Change & is Gloryfyed5See 2 Peter 3:13; Revelation 21:1; Book of Mormon, 1840 ed., 550–551 [Ether 13:9]; and Revelation, Sept. 1830–A [D&C 29:23–24]. then will all the meek inherit the Earth6See Psalm 37:11; Matthew 5:5; Book of Mormon, 1840 ed., 466 [3 Nephi 12:5]; and Revelation, 27–28 Dec. 1832 [D&C 88:17]. wherein Dwelleth Righteous— he says satan cannot seduce us By his enticements unless we in our h[e]arts Consent & yeald [yield]—7See Book of Mormon, 1840 ed., 245, 455 [Alma 10:25; 3 Nephi 7:5]. our organization such that we can Resist the Devil If we were Not organized so we would Not be free agents,8At one of the first lyceum meetings, held a few months earlier, JS also discussed resisting temptation. McIntire recorded, “Joseph said that before foundation of the Earth in the Grand-Counsel that the spirits of all Men ware subject to opression & the express purpose of God in Giveing it a tabernicle was to arm it against the power of Darkness.” An early revelation dictated by JS explained, “It Must needs be that the Devil should tempt the children of men or they could not be agents unto themselves for if they never should have bitter they could not k[n]ow the Sweet.” (Account of Meeting, ca. 19 Jan. 1841; Revelation, Sept. 1830–A [D&C 29:39].) [p. [16]]
+
+---
+
+## Source Note
+
+JS gave a discourse on the Millennium at a lyceum meeting in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, that was likely held on 16 March 1841.1For more on the Nauvoo lyceum, see Discourse, ca. 2 Feb. 1841. JS was the fourth and final speaker in the meeting, and his discourse may have been prompted by the previous lecturer, Wilson Law26 Feb. 1806–15 Oct. 1876. Merchant, millwright, land speculator, farmer. Born in Ireland. Son of Richard Law and Ann Hunter. Immigrated to U.S. and settled in Springfield Township, Mercer Co., Pennsylvania, by 1820. Moved to Delaware Township, Mercer Co....View Full Bio, who spoke on philanthropy.2McIntire, Notebook, [16].Comprehensive Works CitedMcIntire, William Patterson. Notebook, 1840–1845. CHL. MS 1014. Common beliefs about the importance of philanthropy and reform during this time grew out of the period’s predominant Christian belief in a postmillennial world, which held that the world would evolve into ultimate perfection as Christianity spread across the earth. Human action—exemplified in reform movements and philanthropic efforts—would lead to that perfection, which would then usher in the second coming of Jesus Christ.3See Walters, American Reformers, 3–19; Mintz, Moralists and Modernizers, xiii–xxii, 16–17; and Young, Bearing Witness against Sin, 1–9.Comprehensive Works CitedWalters, Ronald G. American Reformers: 1815–1860. Rev. ed. New York: Hill and Wang, 1997.Mintz, Steven. Moralists and Modernizers: America’s Pre-Civil War Reformers. Baltimore: Johns Hopkins University Press, 1995.Young, Michael P. Bearing Witness against Sin: The Evangelical Birth of the American Social Movement. Chicago: University of Chicago Press, 2006. One of the most distinctive aspects of Latter-day SaintThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary theology from its inception was its departure from this postmillennial Christian doctrine. Early revelations dictated by JS were much more premillennial in character—they declared an imminent, cataclysmic return of Christ that would purge the earth of sin and then usher in the Millennium.4For examples of JS’s teachings on the Millennium, see Revelation, Sept. 1830–A [D&C 29:14–21]; Revelation, ca. 7 Mar. 1831 [D&C 45:26–33]; and Revelation, 16–17 Dec. 1833 [D&C 101:32–42, 89–91]. See also Underwood, Millenarian World of Early Mormonism, 1–10.Comprehensive Works Cited Underwood, Grant. The Millenarian World of Early Mormonism. Urbana: University of Illinois Press, 1993. The discourse featured here provided some clarification about the events and circumstances surrounding the second coming of Christ and the ensuing Millennium that expanded upon earlier JS revelations. Though JS’s teachings about the Second Coming were premillennial in nature, this discourse differed from teachings found in the period’s most well-known premillennial movement, led by William Miller. While Miller averred that “the wicked will be destroyed from the earth by fire, and the world cleansed from the curse of sin by the same means,”5Miller, Evidence from Scripture and History, 20.Comprehensive Works CitedMiller, William. Evidence from Scripture and History of the Second Coming of Christ, about the Year 1843; Exhibited in a Course of Lectures. Troy, NY: Kemble and Hooper, 1836. in the text featured here, JS declared that not all the wicked would be destroyed at Christ’s second coming. JS also clarified one of his earlier revelations that declared Christ would “dwell in righteousness with men on Earth a thousand Years.”6Revelation, Sept. 1830–A [D&C 29:11]. In an 1840 publication, apostle Orson Pratt similarly explained that the Saints would “reign with him [Christ] on earth a thousand years.” (Pratt, Interesting Account, 31.) Here, JS explained that though Christ would reign over humankind, he would not be continually present on the earth throughout the Millennium. William P. McIntire29 May 1813–5 Jan. 1882. Tailor. Born in Wheatfield, Indiana Co., Pennsylvania. Son of George McIntire and Sarah Davis. Married Anna Patterson, ca. 1833, in Pennsylvania. Baptized into Church of Jesus Christ of Latter-day Saints by Erastus Snow, 23 Nov. 1836...View Full Bio wrote the account featured here in his notebook, presumably during the meeting or shortly thereafter. McIntire did not provide a date for the meeting. Because lyceum meetings appear to have been held every Tuesday in early 1841 and because this text is found in the eleventh entry of McIntire’s notebook, JS likely delivered this message at the lyceum meeting of 16 March, the eleventh Tuesday of 1841.7This dating assumes weekly meetings beginning on Tuesday, 5 January 1841. For more on the dating issues in McIntire’s notebook, see Historical Introduction to Discourse, ca. 2 Feb. 1841. 11230995304178558860 For more on the Nauvoo lyceum, see Discourse, ca. 2 Feb. 1841. 1 number 8900707843179305001 McIntire, Notebook, [16]. 2 number McIntire, William Patterson. Notebook, 1840–1845. CHL. MS 1014. 4159062890074111877 See Walters, American Reformers, 3–19; Mintz, Moralists and Modernizers, xiii–xxii, 16–17; and Young, Bearing Witness against Sin, 1–9. 3 number Walters, Ronald G. American Reformers: 1815–1860. Rev. ed. New York: Hill and Wang, 1997.Mintz, Steven. Moralists and Modernizers: America’s Pre-Civil War Reformers. Baltimore: Johns Hopkins University Press, 1995.Young, Michael P. Bearing Witness against Sin: The Evangelical Birth of the American Social Movement. Chicago: University of Chicago Press, 2006. 5856070213976188942 For examples of JS’s teachings on the Millennium, see Revelation, Sept. 1830–A [D&C 29:14–21]; Revelation, ca. 7 Mar. 1831 [D&C 45:26–33]; and Revelation, 16–17 Dec. 1833 [D&C 101:32–42, 89–91]. See also Underwood, Millenarian World of Early Mormonism, 1–10. 4 number Underwood, Grant. The Millenarian World of Early Mormonism. Urbana: University of Illinois Press, 1993. 6066783921485238636 Miller, Evidence from Scripture and History, 20. 5 number Miller, William. Evidence from Scripture and History of the Second Coming of Christ, about the Year 1843; Exhibited in a Course of Lectures. Troy, NY: Kemble and Hooper, 1836. 14446601454357775461 Revelation, Sept. 1830–A [D&C 29:11]. In an 1840 publication, apostle Orson Pratt similarly explained that the Saints would “reign with him [Christ] on earth a thousand years.” (Pratt, Interesting Account, 31.) 6 number 967785013759659115 This dating assumes weekly meetings beginning on Tuesday, 5 January 1841. For more on the dating issues in McIntire’s notebook, see Historical Introduction to Discourse, ca. 2 Feb. 1841. 7 number
+
+---
+
+## Footnotes
+
+**[1]** See Isaiah 65:20, 22; and Revelation, 16–17 Dec. 1833 [D&C 101:31].
+**[2]** See Zechariah 14:16–17.
+**[3]** In his first letter to the Corinthians, Paul listed the various people and groups who saw the resurrected Christ and reported that “he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.” (1 Corinthians 15:6.)
+**[4]** See Revelation 20:3; Revelation, Sept. 1830–A [D&C 29:22]; and Revelation, Feb. 1831–A [D&C 43:31].
+**[5]** See 2 Peter 3:13; Revelation 21:1; Book of Mormon, 1840 ed., 550–551 [Ether 13:9]; and Revelation, Sept. 1830–A [D&C 29:23–24].
+**[6]** See Psalm 37:11; Matthew 5:5; Book of Mormon, 1840 ed., 466 [3 Nephi 12:5]; and Revelation, 27–28 Dec. 1832 [D&C 88:17].
+**[7]** See Book of Mormon, 1840 ed., 245, 455 [Alma 10:25; 3 Nephi 7:5].
+**[8]** At one of the first lyceum meetings, held a few months earlier, JS also discussed resisting temptation. McIntire recorded, “Joseph said that before foundation of the Earth in the Grand-Counsel that the spirits of all Men ware subject to opression & the express purpose of God in Giveing it a tabernicle was to arm it against the power of Darkness.” An early revelation dictated by JS explained, “It Must needs be that the Devil should tempt the children of men or they could not be agents unto themselves for if they never should have bitter they could not k[n]ow the Sweet.” (Account of Meeting, ca. 19 Jan. 1841; Revelation, Sept. 1830–A [D&C 29:39].)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - account-of-meeting-and-discourse-5-january-1841-as-reported-by-william-p-mcintire]]
+- [[JSPP - account-of-meeting-circa-19-january-1841-as-reported-by-william-p-mcintire]]
+- [[JSPP - appendix-orson-pratt-an-interesting-account-of-several-remarkable-visions-1840]]
+- [[JSPP - book-of-mormon-1840]]
+- [[JSPP - discourse-circa-2february-1841]]
+- [[JSPP - revelation-16-17-december-1833-dc-101]]
+- [[JSPP - revelation-27-28-december-1832-dc-881-126]]
+- [[JSPP - revelation-circa-7-march-1831-dc-45]]
+- [[JSPP - revelation-february-1831-a-dc-43]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

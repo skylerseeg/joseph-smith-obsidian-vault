@@ -1,0 +1,49 @@
+# JSPP — <p>
+	Meeting, 16 January 1844</p>
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** January 10, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/blank-bond-from-davidson-hibbard-10-january-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Know all men by these presents that I Davison Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View…
+
+---
+
+## Full Transcript
+
+Know all men by these presents that I Davison Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info & State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info am held firmly bound unto [blank] (as agent for the corporation of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info to purchase or otherwise obtain a city lot for the use of said cityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info upon which <​to​> erect a city Hall or councill house & other public buildings as the corporation shall deem Expedient) in the penal sum one thousand dollars to the full payment of which I bind myself my heirs Executors & administrators firmly by these presents Now the above obligation <​is such​> that whereas [blank ] has received plenary power to negotiate with Davison Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio for a city lot for the Express purpose of A public lot for a City hall and other public buildings to the best advantage which acts are to be valid and sanctioned by the corporation of the CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info aforesaid This is the Express understanding that the said D. Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio has this day sold unto the said [blank] Lot three (3) in block four (4) of Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bios second Addition to NauvoPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info for the purpose above mentioned & for the sum of five hundred dollars [p. [1]]
+
+  payable as follows viz. 2 two hundred and fifty dollars in two years two hundred and fifty dollars in three years from this date but if the building above named and hereinafter specified is Erected in manner and form following viz. a city hall for city legislation at least forty feet square and two stories high above ground of good materials and workmanship and suitable hight on the above named lot When the first story is completed said Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio relinquishes his claim on the first payment and is to give up the note as being fully liquidated if said work is done within two years from this date and when said building is completed and finished suitable for the purposes herein named if done within three years from this date then said Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio relinquishes his claim on the last payment and gives up said note as being canceled & liquidated and binds himself his heirs Executors and administrators to make a good and warranted deed of the above described premises to the corporation of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info or otherwise its legally authorized agent But if said building is not completed in time and manner above specified then [p. [2]]
+
+  this bond may be declared null or the notes collected of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info or its agent as D. Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio sees fit to continue the contract or annull the same Given under my hand and seal this [blank] day of January A.D. 1844 L S 1TEXT: “L S” enclosed in a hand-drawn representation of a seal. [p. [3]]
+
+  <​Davison Hibbard20 Aug. 1788–11 Sept. 1854. Farmer. Born in Brookfield, Orange Co., Vermont. Son of Roger Hibbard and Sarah Davidson. Married Sarah Tilton, 1816, in Maine. Lived at Morgan Co., Illinois, by 2 Aug. 1824. Commissioned captain in Twenty-First Regiment of Illinois...View Full Bio's— Bond—​> <​Read— January 10— 1844 & referred to a special comee​> <​[Daniel H.] Wells27 Oct. 1814–24 Mar. 1891. Farmer, teacher, ferry operator, lumber merchant, manager of nail factory, politician. Born in Trenton, Oneida Co., New York. Son of Daniel Wells and Catherine Chapin. Moved to Marietta, Washington Co., Ohio, ca. 1832. Moved to ...View Full Bio​> <​[Benjamin] Warrington1810–June 1850. Wheelwright. Born in New Jersey. Married Sarah Horner, 16 Jan. 1834, in Preble Co., Ohio. Owned lots in Somerville, Milford Township, Butler Co., Ohio, 1835–ca. 1838. Moved to Hancock Co., Illinois, by 1840. Appointed quartermaster sergeant...View Full Bio​> <​[Samuel] BennettCa. 1810–May 1893. Market inspector, barometer manufacturer, physician. Born in England. Married Selina Campion, 9 Aug. 1836. Baptized into Church of Jesus Christ of Latter-day Saints, by 1839, in U.S. Ordained an elder, 23 Dec. 1839, in Philadelphia. Served...View Full Bio​>Endorsement in handwriting of Willard Richards. <​Reported that thought the Lot might be desirable for the CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info to erect public buildings upon, but do not consider best to accept the Lot on condition specified as the CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info might not think it best to erect a building now then 38 or 39— or of a different f◊◊◊◊—​> <​Feb 12. 1844​>Endorsement in handwriting of Willard Richards. [p. [4]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - minutes-12-february-1844]]
+- [[JSPP - minutes-16-january-1844]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

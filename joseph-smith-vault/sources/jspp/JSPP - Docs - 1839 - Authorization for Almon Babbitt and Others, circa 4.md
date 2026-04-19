@@ -1,0 +1,54 @@
+# JSPP — Authorization for Almon Babbitt and Others, circa 4 May 1839
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/missouri
+**Date:** May 4, 1839
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/authorization-for-almon-babbitt-and-others-circa-4-may-1839/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+This is to certify—that at a general conferenceA meeting where ecclesiastical officers and other church members could conduct church business. The “Articles and Covenants” of the church directed the elders to hold conferences to perform “Church business.” The first of these conferences was held on 9 June...View Glossary held at…
+
+---
+
+## Full Transcript
+
+This is to certify—that at a general conferenceA meeting where ecclesiastical officers and other church members could conduct church business. The “Articles and Covenants” of the church directed the elders to hold conferences to perform “Church business.” The first of these conferences was held on 9 June...View Glossary held at QuincyLocated on high limestone bluffs east of Mississippi River, about forty-five miles south of Nauvoo. Settled 1821. Adams Co. seat, 1825. Incorporated as town, 1834. Received city charter, 1840. Population in 1835 about 800; in 1840 about 2,300; and in 1845...More Info Adam’s County Illinois, by the Church of Jesus Christ of Latter Day SaintsThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary, on Saturday the 4th of May 1839. President Joseph Smith Jr Presiding It was Resolved That Almond Babbit [Almon Babbitt]Oct. 1812–Sept. 1856. Postmaster, editor, attorney. Born at Cheshire, Berkshire Co., Massachusetts. Son of Ira Babbitt and Nancy Crosier. Baptized into Church of Jesus Christ of Latter-day Saints, ca. 1830. Located in Amherst, Lorain Co., Ohio, July 1831....View Full Bio, Erastus Snow9 Nov. 1818–27 May 1888. Farmer, teacher, merchant, publisher, manufacturer. Born at St. Johnsbury, Caledonia Co., Vermont. Son of Levi Snow and Lucina Streeter. Baptized into Church of Jesus Christ of Latter-day Saints by William Snow, 3 Feb. 1833, at Charleston...View Full Bio and Robert B. Thompson1 Oct. 1811–27 Aug. 1841. Clerk, editor. Born in Great Driffield, Yorkshire, England. Methodist. Immigrated to Upper Canada, 1834. Baptized into Church of Jesus Christ of Latter-day Saints by Parley P. Pratt, May 1836, in Upper Canada. Ordained an elder by...View Full Bio be appointed a traveling committee to gather up and obtain all the libelous reports and publications which have been circulated against our Church— as well as other historical matter connected with said church which they can possibly obtain.1Although Snow gathered a few affidavits describing the difficulties in Missouri, the committee was apparently unable to obtain additional material or complete the proposed history. (Snow, Journal, 1838–1841, 57–65, 75.)Comprehensive Works Cited Snow, Erastus. Journals, 1835–1851; 1856–1857. CHL. MS 1329, box 1, fds. 1–3. Joseph Smith Jr Chairman2JS was appointed chairman of the conference held 4–5 May 1839. (Minutes, 4–5 May 1839.) James Mulholland1804–3 Nov. 1839. Born in Ireland. Baptized into Church of Jesus Christ of Latter-day Saints. Married Sarah Scott, 8 Feb. 1838/1839, at Far West, Caldwell Co., Missouri. Engaged in clerical work for JS, 1838, at Far West. Ordained a seventy, 28 Dec. 1838....View Full Bio Clerk3At a conference held on 24 April 1839, Mulholland was appointed clerk pro tempore. His appointment evidently continued through the May 1839 general conference. (Minutes, 24 Apr. 1839; Minutes, 4–5 May 1839.) 3 Copies, one for each of the Committee. [p. 47]
+
+---
+
+## Source Note
+
+At a general churchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary conferenceA meeting where ecclesiastical officers and other church members could conduct church business. The “Articles and Covenants” of the church directed the elders to hold conferences to perform “Church business.” The first of these conferences was held on 9 June...View Glossary held in QuincyLocated on high limestone bluffs east of Mississippi River, about forty-five miles south of Nauvoo. Settled 1821. Adams Co. seat, 1825. Incorporated as town, 1834. Received city charter, 1840. Population in 1835 about 800; in 1840 about 2,300; and in 1845...More Info, Illinois, on 4–5 May 1839, Almon BabbittOct. 1812–Sept. 1856. Postmaster, editor, attorney. Born at Cheshire, Berkshire Co., Massachusetts. Son of Ira Babbitt and Nancy Crosier. Baptized into Church of Jesus Christ of Latter-day Saints, ca. 1830. Located in Amherst, Lorain Co., Ohio, July 1831....View Full Bio, Erastus Snow9 Nov. 1818–27 May 1888. Farmer, teacher, merchant, publisher, manufacturer. Born at St. Johnsbury, Caledonia Co., Vermont. Son of Levi Snow and Lucina Streeter. Baptized into Church of Jesus Christ of Latter-day Saints by William Snow, 3 Feb. 1833, at Charleston...View Full Bio, and Robert B. Thompson1 Oct. 1811–27 Aug. 1841. Clerk, editor. Born in Great Driffield, Yorkshire, England. Methodist. Immigrated to Upper Canada, 1834. Baptized into Church of Jesus Christ of Latter-day Saints by Parley P. Pratt, May 1836, in Upper Canada. Ordained an elder by...View Full Bio were appointed to collect anti-Mormon publications and then publish a history that detailed the church’s difficulties in MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info, in part to refute anti-Mormon claims.1Minutes, 4–5 May 1839. This appointment corresponded with a letter JS wrote while incarcerated in LibertyLocated in western Missouri, thirteen miles north of Independence. Settled 1820. Clay Co. seat, 1822. Incorporated as town, May 1829. Following expulsion from Jackson Co., 1833, many Latter-day Saints found refuge in Clay Co., with church leaders and other...More Info, Missouri, proposing that a committee be formed “to gether up the libilous publications that are afloat” in order to “publish to all the world” the suffering of the Saints.2Letter to Edward Partridge and the Church, ca. 22 Mar. 1839. At the general conference in which Babbitt, Snow, and Thompson were appointed to this task, JS directed Babbitt and Snow to collect anti-Mormon publications while traveling and preaching. They were to send collected materials to Thompson, who would write the history of the church members’ experiences.3Although the authorization designated Thompson as a member of the “traveling committee,” he was apparently not expected to travel but rather to compose the history based on what Babbitt and Snow compiled. (Snow, Journal, 1838–1841, 50–54.)Comprehensive Works Cited Snow, Erastus. Journals, 1835–1851; 1856–1857. CHL. MS 1329, box 1, fds. 1–3. Following the conference, JS signed the featured authorization for BabbittOct. 1812–Sept. 1856. Postmaster, editor, attorney. Born at Cheshire, Berkshire Co., Massachusetts. Son of Ira Babbitt and Nancy Crosier. Baptized into Church of Jesus Christ of Latter-day Saints, ca. 1830. Located in Amherst, Lorain Co., Ohio, July 1831....View Full Bio, Snow9 Nov. 1818–27 May 1888. Farmer, teacher, merchant, publisher, manufacturer. Born at St. Johnsbury, Caledonia Co., Vermont. Son of Levi Snow and Lucina Streeter. Baptized into Church of Jesus Christ of Latter-day Saints by William Snow, 3 Feb. 1833, at Charleston...View Full Bio, and Thompson1 Oct. 1811–27 Aug. 1841. Clerk, editor. Born in Great Driffield, Yorkshire, England. Methodist. Immigrated to Upper Canada, 1834. Baptized into Church of Jesus Christ of Latter-day Saints by Parley P. Pratt, May 1836, in Upper Canada. Ordained an elder by...View Full Bio to use while they fulfilled their duties. Presumably, each man received a copy, but personal copies of the authorization have not been found. James Mulholland1804–3 Nov. 1839. Born in Ireland. Baptized into Church of Jesus Christ of Latter-day Saints. Married Sarah Scott, 8 Feb. 1838/1839, at Far West, Caldwell Co., Missouri. Engaged in clerical work for JS, 1838, at Far West. Ordained a seventy, 28 Dec. 1838....View Full Bio copied the authorization into JS Letterbook 2 between 29 May and 30 October 1839; that version is featured here.4Mulholland copied his own 29 May 1839 letter to Edward Partridge on page 15 of JS Letterbook 2, making that the earliest likely copying date for documents he subsequently copied but that had dates preceding 29 May. 2190067525481612137 Minutes, 4–5 May 1839. 1 number 12193876117060476926 Letter to Edward Partridge and the Church, ca. 22 Mar. 1839. 2 number 15153212795468236855 Although the authorization designated Thompson as a member of the “traveling committee,” he was apparently not expected to travel but rather to compose the history based on what Babbitt and Snow compiled. (Snow, Journal, 1838–1841, 50–54.) 3 number Snow, Erastus. Journals, 1835–1851; 1856–1857. CHL. MS 1329, box 1, fds. 1–3. 12586029224851834976 Mulholland copied his own 29 May 1839 letter to Edward Partridge on page 15 of JS Letterbook 2, making that the earliest likely copying date for documents he subsequently copied but that had dates preceding 29 May. 4 number
+
+---
+
+## Footnotes
+
+**[1]** Although Snow gathered a few affidavits describing the difficulties in Missouri, the committee was apparently unable to obtain additional material or complete the proposed history. (Snow, Journal, 1838–1841, 57–65, 75.)
+**[2]** JS was appointed chairman of the conference held 4–5 May 1839. (Minutes, 4–5 May 1839.)
+**[3]** At a conference held on 24 April 1839, Mulholland was appointed clerk pro tempore. His appointment evidently continued through the May 1839 general conference. (Minutes, 24 Apr. 1839; Minutes, 4–5 May 1839.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - history-1838-1856-volume-c-1-2-november-1838-31-july-1842]]
+- [[JSPP - history-of-joseph-smith]]
+- [[JSPP - letter-to-edward-partridge-and-the-church-circa-22-march-1839]]
+- [[JSPP - letterbook-2]]
+- [[JSPP - minutes-24-april-1839]]
+- [[JSPP - minutes-4-5-may-1839]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

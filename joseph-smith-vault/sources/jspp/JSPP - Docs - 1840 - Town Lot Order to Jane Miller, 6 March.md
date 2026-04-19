@@ -1,0 +1,50 @@
+# JSPP — Town Lot Order to Jane Miller, 6 March 1840
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** March 6, 1840
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/town-lot-order-to-jane-miller-6-march-1840/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Block 16 Lot No 11This lot was located on land purchased from the partnership of Horace Hotchkiss, Smith Tuttle, and John Gillet. It was in the north part of the Nauvoo town plat at the southwest corner of the intersection of Brattle and Barnett streets. According to information provided by…
+
+---
+
+## Full Transcript
+
+Block 16 Lot No 11This lot was located on land purchased from the partnership of Horace Hotchkiss, Smith Tuttle, and John Gillet. It was in the north part of the Nauvoo town plat at the southwest corner of the intersection of Brattle and Barnett streets. According to information provided by Alanson Ripley in June 1840, town lots measured eleven by twelve rods (181½ by 198 feet, or nearly five-sixths of an acre). (Trustees Land Book A, Hotchkiss Purchase, [5]–[6]; Alanson Ripley, “Nauvoo,” Times and Seasons, June 1840, 1:123.)Comprehensive Works CitedTrustees Land Books / Trustee-in-Trust, Church of Jesus Christ of Latter-day Saints. Land Books, 1839–1845. 2 vols. CHL. MS 3437. Times and Seasons. Commerce/Nauvoo, IL. Nov. 1839–Feb. 1846. Is put to Jane MillerView Full Bio at $2002The Nauvoo high council had set the “standard price” for Nauvoo lots at $500 but had said that none would be sold for less than $200 or more than $800. (Nauvoo High Council Minutes, 21 Oct. 1839, 26.)Comprehensive Works CitedNauvoo High Council Minutes, 1839–1845. CHL. LR 3102 22. Terms left with Br Joseph— March 6, 1840— H[enry] G Sherwood20 Apr. 1785–24 Nov. 1867. Surveyor. Born at Kingsbury, Washington Co., New York. Son of Newcomb Sherwood and a woman whose maiden name was Tolman (first name unidentified). Married Polly by 17 May 1823. Lived at Bolton, Warren Co., New York, 1830. Baptized...View Full Bio [p. [1]]
+
+  [page [2] blank] [p. [2]]
+
+---
+
+## Source Note
+
+See Historical Introduction to Bond to Jane Miller, 6 Mar. 1840.
+
+---
+
+## Footnotes
+
+**[1]** This lot was located on land purchased from the partnership of Horace Hotchkiss, Smith Tuttle, and John Gillet. It was in the north part of the Nauvoo town plat at the southwest corner of the intersection of Brattle and Barnett streets. According to information provided by Alanson Ripley in June 1840, town lots measured eleven by twelve rods (181½ by 198 feet, or nearly five-sixths of an acre). (Trustees Land Book A, Hotchkiss Purchase, [5]–[6]; Alanson Ripley, “Nauvoo,” Times and Seasons, June 1840, 1:123.)
+**[2]** The Nauvoo high council had set the “standard price” for Nauvoo lots at $500 but had said that none would be sold for less than $200 or more than $800. (Nauvoo High Council Minutes, 21 Oct. 1839, 26.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - bond-to-jane-miller-6-march-1840]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

@@ -1,0 +1,43 @@
+# JSPP — Mortgage to John Eagle, 20 June 1841, as Recorded in Bonds and Mortgages
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** June 20, 1841
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/mortgage-to-john-eagle-20-june-1841-as-recorded-in-bonds-and-mortgages/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+<​141​> <​J Smith To J[ohn] Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio​> <​Recorded ◊th August…
+
+---
+
+## Full Transcript
+
+<​141​> <​J Smith To J[ohn] Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio​> <​Recorded ◊th August 1841​> <​◊ of sec 5 ◊ N. 8 W.​> This Indenture made this twentieth day of June the year of our Lord one thousand eight hundred and forty one between Joseph Smith of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info of the one part and John Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio of the CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid of other other part witnesseth that the Sd. Joseph Smith for and in consideration of the sum of <​fifteen hundred​> fifteen hundred and thirty dollars <​dollars​> to him in hand paid the receipt is hereby acknowledged, hath granted, bargained, sold and by these presents do grant bargain, sell, alien and confirm unto the Sd. John Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio & to his heirs & assigns forever, all that tract or parcel of land situate in the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info to wit; Beginning at a post, on the E & W. centre Line of Section (5) five in T. 6 N. R. 8 W. from which a black oak 20o. 83¾o W. 19d. a Hickory 15 in diameter bears North 56½ E. 30 Links; thence S. 89o 35 min E. along Sd line 24. 63. chains to post at N.E. Corner of Sd. Qr. Section from which a burr oak 14 in. diameter bears north ¼o E. 15. Links distance; thence S 0o. 40 min. W. 40. 54 to a post in a mound at ¼ section corner between sections 5 & 8. thence N. 0o 40. min. W. To the place of beginning. Containing one hundred acres more or less, lying on the E. side of Sd Qr sections to have and to hold the premises aforesaid with all the privileges and apurtenances thereunto belonging, or in any wise appertaining unto him [p. 148]
+
+  the Sd. John Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio and his and assigns forever, provided always that these presents are upon these express condition, that if the said Joseph Smith, his heirs executors or administrators Shall pay or cause to be paid to the Sd. John Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio his heirs executors administrato[rs] or assigns the sum of fifteen hundred dollars to wit: three hundred and seventy on demand; three hundred and seventy six 66/100 dollars in twelve months, three hundred and seventy six 66/100 in two years; and three hundred and seventy six 68/100 dollars in three years from date, together with the interest that may accrue therein in manner Specified, in three notes, bearing even date herewith, executed by the said Joseph Smith to John Eagle19 Jan. 1805–ca. 1854. Grocer, laborer. Born in Alexandria, Huntingdon Co., Pennsylvania. Son of John Eagle and Catharine Spence. Moved to Porter, Huntingdon Co., by 1820. Married Susannah Whitelock, 4 Dec. 1827, in Licking Co., Ohio. Moved to Illinois, by...View Full Bio amounting, besides the payment on demand, to Eleven hundred and thirty dollars; then & from thenceforth these presents, & every thing herein contained Shall cease & be void. any thing herein contained to the contrary notwithstanding In Witness my hand and seal Joseph Smith State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info) Ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I Ebenezer Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio, a justice of the peace for said countyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, do certify that Joseph Smith whose signature appears to the foregoing mortgage did acknowledge the same to be his free and voluntary act and deed for the uses and purposes therein mentioned. Given under my hand and Seal this 8th day of July. A. D. 1841. E Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio J.P. LS [p. 149]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - mortgage-to-john-eagle-20-june-1841]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

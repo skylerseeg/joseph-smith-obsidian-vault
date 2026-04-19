@@ -1,0 +1,50 @@
+# JSPP — Promissory Note from Lorenzo Young, 9 April 1838
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/ohio
+**Date:** April 9, 1838
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/promissory-note-from-lorenzo-young-9-april-1838/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Far WestOriginally called Shoal Creek. Located fifty-five miles northeast of Independence. Surveyed 1823; first settled by whites, 1831. Site purchased, 8 Aug. 1836, before Caldwell Co. was organized for Latter-day Saints in Missouri. William W. Phelps and John Whitmer...More Info April 9th 1838 I hereby certify that I in company…
+
+---
+
+## Full Transcript
+
+Far WestOriginally called Shoal Creek. Located fifty-five miles northeast of Independence. Surveyed 1823; first settled by whites, 1831. Site purchased, 8 Aug. 1836, before Caldwell Co. was organized for Latter-day Saints in Missouri. William W. Phelps and John Whitmer...More Info April 9th 1838 I hereby certify that I in company with Isaac Decker29 Dec. 1799–14 June 1873. Farmer, carpenter. Born in Columbia Co., New York. Son of Peter Decker and Hanna Snooks. Moved to Phelps, Ontario Co., New York, by Aug. 1820. Married first Harriet Page Wheeler, 1820, in Phelps. Moved to Freedom, Cattaraugus Co...View Full Bio have had forty dollers of Joseph Smith Jr which we are in Justice bound to pay to him when he calls for it with use1In this context, “use” apparently means usury, or interest. (“Usury,” in American Dictionary.)Comprehensive Works CitedAn American Dictionary of the English Language: Intended to Exhibit, I. the Origin, Affinities and Primary Signification of English Words, as far as They Have Been Ascertained. . . . Edited by Noah Webster. New York: S. Converse, 1828. Signature of Lorenzo Young.—Lorenzo Young19 Oct. 1807–21 Nov. 1895. Farmer, plasterer, gardener, blacksmith, nurseryman. Born at Smyrna, Chenango Co., New York. Son of John Young and Abigail (Nabby) Howe. Married Persis Goodall, 6 June 1826, at Watertown, Jefferson Co., New York. Baptized into Church...View Full Bio [p. [1]]
+
+  9th July 1838 Rec— on the within five dollers2As was common practice, JS likely issued a receipt to Young and Decker for this partial payment; the receipt is apparently not extant. (See, for example, Receipt from Samuel Musick, 14 July 1838.) [p. [2]]
+
+---
+
+## Source Note
+
+On 9 April 1838, JS wrote a promissory note stating Lorenzo Young19 Oct. 1807–21 Nov. 1895. Farmer, plasterer, gardener, blacksmith, nurseryman. Born at Smyrna, Chenango Co., New York. Son of John Young and Abigail (Nabby) Howe. Married Persis Goodall, 6 June 1826, at Watertown, Jefferson Co., New York. Baptized into Church...View Full Bio and Isaac Decker29 Dec. 1799–14 June 1873. Farmer, carpenter. Born in Columbia Co., New York. Son of Peter Decker and Hanna Snooks. Moved to Phelps, Ontario Co., New York, by Aug. 1820. Married first Harriet Page Wheeler, 1820, in Phelps. Moved to Freedom, Cattaraugus Co...View Full Bio would repay forty dollars they had jointly borrowed from JS. Young signed the note on behalf of himself and Decker. The language of the note—stating that Young and Decker “have had” the borrowed money—suggests that they borrowed the money sometime before 9 April. According to an early biography of Isaac’s wife, Harriet Wheeler Decker, Isaac had been a prosperous OhioFrench explored and claimed area, 1669. British took possession following French and Indian War, 1763. Ceded to U.S., 1783. First permanent white settlement established, 1788. Northeastern portion maintained as part of Connecticut, 1786, and called Connecticut...More Info farmer before he impoverished his family in early 1837 in an attempt to ease JS’s and Rigdon19 Feb. 1793–14 July 1876. Tanner, farmer, minister. Born at St. Clair, Allegheny Co., Pennsylvania. Son of William Rigdon and Nancy Gallaher. Joined United Baptists, ca. 1818. Preached at Warren, Trumbull Co., Ohio, and vicinity, 1819–1821. Married Phebe...View Full Bio’s financial difficulties. Decker and some other Saints apparently feared the two church leaders would be forced to repay all notes issued by the recently closed Kirtland Safety SocietyA financial institution formed to raise money and provide credit in Kirtland, Ohio. On 2 November 1836, JS, Sidney Rigdon, and others officially organized the Kirtland Safety Society as a community bank by ratifying its constitution. Sidney Rigdon served ...View Glossary.1Decker was not alone in providing financial assistance. Lorenzo Young befriended Isaac Decker and helped outfit his family for travel, and in late 1837 their families traveled together to MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info.2Orson F. Whitney, “Pioneer Women of Utah,” Contributor, July 1890, 323.Comprehensive Works CitedContributor. Salt Lake City. 1879–1896. The Decker and Young families stopped for the winter in Dublin, Indiana, where they were joined by Lorenzo’s brother Brigham1 June 1801–29 Aug. 1877. Carpenter, painter, glazier, colonizer. Born at Whitingham, Windham Co., Vermont. Son of John Young and Abigail (Nabby) Howe. Brought up in Methodist household; later joined Methodist church. Moved to Sherburne, Chenango Co., New...View Full Bio—one of the twelve apostlesMembers of a governing body in the church, with special administrative and proselytizing responsibilities. A June 1829 revelation commanded Oliver Cowdery and David Whitmer to call twelve disciples, similar to the twelve apostles in the New Testament and ...View Glossary—and later by JS, Sidney Rigdon, and others. While the Young and Decker families were wintering in IndianaFirst settled by French at Vincennes, early 1700s. Acquired by England in French and Indian War, 1763. U.S. took possession of area following American Revolution, 1783. Area became part of Northwest Territory, 1787. Partitioned off of Northwest Territory ...More Info, Lorenzo Young traveled to CincinnatiArea settled largely by emigrants from New England and New Jersey, by 1788. Village founded and surveyed adjacent to site of Fort Washington, 1789. First seat of legislature of Northwest Territory, 1790. Incorporated as city, 1819. Developed rapidly as shipping...More Info and Isaac Decker traveled to MichiganOrganized as territory, 1805, with Detroit as capital. De facto state government organized within territory, 1836, although not formally recognized as state by federal government until 1837. Lansing became new state capital, 1847. Population in 1810 about...More Info, perhaps at JS’s direction. Meanwhile, Brigham Young helped arrange a donation of $300 from a local Latter-day Saint, which allowed JS and the others to continue their journey. The Young and Decker families moved on with JS and the rest, with Brigham, Lorenzo, and Isaac later catching up to the company.3Historian’s Office, Brigham Young History Drafts, 15–16.Comprehensive Works CitedHistorian’s Office. Brigham Young History Drafts, 1856–1858. CHL. CR 100 475, box 1, fd. 5. According to later biographies, soon after Lorenzo Young and Decker arrived in Missouri, JS directed them to settle their families in Daviess CountyArea in northwest Missouri settled by European Americans, 1830. Sparsely inhabited until 1838. Created from Ray Co., Dec. 1836, in attempt to resolve conflicts related to Latter-day Saint settlement in that region. County is transected diagonally from northwest...More Info, where Young bought a farm and Decker rented property.4Little, “Biography of Lorenzo Dow Young,” 38; “History of Brigham Young,” Deseret News, 3 Feb. 1858, 378; Orson F. Whitney, “Pioneer Women of Utah,” Contributor, July 1890, 323.Comprehensive Works CitedLittle, James Amasa. “Biography of Lorenzo Dow Young.” Utah Historical Quarterly 14 (1946): 25-132. Deseret News. Salt Lake City. 1850–. Contributor. Salt Lake City. 1879–1896. Young and Decker may have traveled from residences in Daviess County to Far WestOriginally called Shoal Creek. Located fifty-five miles northeast of Independence. Surveyed 1823; first settled by whites, 1831. Site purchased, 8 Aug. 1836, before Caldwell Co. was organized for Latter-day Saints in Missouri. William W. Phelps and John Whitmer...More Info, Caldwell County, to attend the quarterly conference held there 7–8 April.5See Minutes, 7–8 Apr. 1838. The following day, Young signed the featured promissory note. Three months later, one or both of them made a partial payment on the debt, as noted on the back of the document, but apparently the remainder of the debt was never repaid. 15082325685642929349 Decker was not alone in providing financial assistance. 1 number 16005330620982301788 Orson F. Whitney, “Pioneer Women of Utah,” Contributor, July 1890, 323. 2 number Contributor. Salt Lake City. 1879–1896. 8583455796909160161 Historian’s Office, Brigham Young History Drafts, 15–16. 3 number Historian’s Office. Brigham Young History Drafts, 1856–1858. CHL. CR 100 475, box 1, fd. 5. 7397486325573372589 Little, “Biography of Lorenzo Dow Young,” 38; “History of Brigham Young,” Deseret News, 3 Feb. 1858, 378; Orson F. Whitney, “Pioneer Women of Utah,” Contributor, July 1890, 323. 4 number Little, James Amasa. “Biography of Lorenzo Dow Young.” Utah Historical Quarterly 14 (1946): 25-132. Deseret News. Salt Lake City. 1850–. Contributor. Salt Lake City. 1879–1896. 18326302210182280580 See Minutes, 7–8 Apr. 1838. 5 number
+
+---
+
+## Footnotes
+
+**[1]** In this context, “use” apparently means usury, or interest. (“Usury,” in American Dictionary.)
+**[]** Signature of Lorenzo Young.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - minutes-7-8-april-1838]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

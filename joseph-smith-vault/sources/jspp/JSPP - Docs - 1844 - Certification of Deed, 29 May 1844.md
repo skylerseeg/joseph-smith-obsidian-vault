@@ -1,0 +1,50 @@
+# JSPP — Certification of Deed, 29 May 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** May 29, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/certification-of-deed-29-may-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Know all men by these presents— that I Mary Ann BullardView Full Bio of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900;…
+
+---
+
+## Full Transcript
+
+Know all men by these presents— that I Mary Ann BullardView Full Bio of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, have this day for and in consideration of the sum of ten dollars in hand paid by Heman Hyde18 June 1812–26 May 1842. Born at Strafford, Orange Co., Vermont. Son of Heman Hyde and Polly Wyman Tilton. Moved to what became York, Livingston Co., New York, 1812. Moved to Freedom, Cattaraugus Co., New York, 1825. Baptized into Church of Jesus Christ ...View Full Bio of Adams CountySituated in western Illinois; bounded on west by Mississippi River. Organized from Pike Co., 1825. Quincy established as county seat, 1825. Population in 1830 about 2,200. Population in 1840 about 14,500. Latter-day Saint exiles from Missouri found refuge...More Info and stateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid bargained and sold unto the said Heman Hyde18 June 1812–26 May 1842. Born at Strafford, Orange Co., Vermont. Son of Heman Hyde and Polly Wyman Tilton. Moved to what became York, Livingston Co., New York, 1812. Moved to Freedom, Cattaraugus Co., New York, 1825. Baptized into Church of Jesus Christ ...View Full Bio a certain lot or piece of land lying and situated in Kimball’s addition to NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info in said countyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and stateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info first above mentioned as will more fully appear by refferance to the plat of said addition being part of lot No 72 in block No two in said addition to NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info To Wit begining on the West line of said block No two twelve rods south of the center of young street— thence south four rods— thence East ten rods— then North four rods— then West to the place of beginning, be the same more or less— To have and to hold the above described lot or piece of land with all and singular the appurtenances there unto belonging to him the said Heman Hyde18 June 1812–26 May 1842. Born at Strafford, Orange Co., Vermont. Son of Heman Hyde and Polly Wyman Tilton. Moved to what became York, Livingston Co., New York, 1812. Moved to Freedom, Cattaraugus Co., New York, 1825. Baptized into Church of Jesus Christ ...View Full Bio his heirs and assigns for ever and the said Mary ann Bullard for her self her heirs and assigns administrators and executors do warrand and defend forever the title of the lot or piece of land against every person or persons Claiming by, through, or under her in any manner— or any other person what ever, In testimony where of I have hereunto set my name and affixed my seal this 7th. day of February in the year of our Lord one thousand eight hundred and forty three. Signature of Mary Ann Bullard.Mary Ann BullardView Full Bio L. S. in presence of Signatures of Newell Nourse and Levi Bullard.Newell N[o]urse21 Mar. 1792–ca. 1875. Farmer, mechanic. Born in Framingham, Middlesex Co., Massachusetts. Son of Asa Nourse and Lois Glover. Served in War of 1812. Married Harriet Bullard, 26 Aug. 1819, in Holliston, Middlesex Co. Moved to Holliston, by 1820. Baptized into...View Full Bio Levi BullardView Full Bio Certification in handwriting of Orson Spencer.State of Illinois) ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I Orson Spencer14 Mar./13 May 1802–15 Oct. 1855. Teacher, minister, university professor and chancellor. Born in West Stockbridge, Berkshire Co., Massachusetts. Son of Daniel Spencer and Chloe Wilson. Moved to Lenox, Berkshire Co., 1817; to Schenectady, Schenectady Co.,...View Full Bio a justice of the pease in and for the CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info aforesaid do certify that Mary Ann BullardView Full Bio whose signature appears to the foregoing deed is personally known to me to be the person described in & who executed the same & acknowledged the same to be her free v & voluntary act and deed for the uses & purposes therein mentioned. Given under my hand & Seal this eighth day of February A. D. 1843 Orson Spencer14 Mar./13 May 1802–15 Oct. 1855. Teacher, minister, university professor and chancellor. Born in West Stockbridge, Berkshire Co., Massachusetts. Son of Daniel Spencer and Chloe Wilson. Moved to Lenox, Berkshire Co., 1817; to Schenectady, Schenectady Co.,...View Full Bio J. P. L S [p. [1]]
+
+  Certification in handwriting of William Clayton.State of Illinois) Hancock County) City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info) Recorders Office May 29th 1844 I Joseph Smith Recorder in and for the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info in the CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info & StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid do hereby certify that the within Deed and certificate of acknowledgment were this day duly recorded in Book B Pages 169 & 170 and numbered 414 Joseph Smith Recorder by Wm Clayton17 July 1814–4 Dec. 1879. Bookkeeper, clerk. Born at Charnock Moss, Penwortham, Lancashire, England. Son of Thomas Clayton and Ann Critchley. Married Ruth Moon, 9 Oct. 1836, at Penwortham. Baptized into Church of Jesus Christ of Latter-day Saints by Heber...View Full Bio Clerk Docket in handwriting of Orson Spencer.Deed From Mary Ann BullardView Full Bio to Heman Hyde18 June 1812–26 May 1842. Born at Strafford, Orange Co., Vermont. Son of Heman Hyde and Polly Wyman Tilton. Moved to what became York, Livingston Co., New York, 1812. Moved to Freedom, Cattaraugus Co., New York, 1825. Baptized into Church of Jesus Christ ...View Full Bio Notation in unidentified handwriting.Lot 72 Kimball and Palmers House See how the title is at CarthageLocated eighteen miles southeast of Nauvoo. Settled 1831. Designated Hancock Co. seat, Mar. 1833. Incorporated as town, 27 Feb. 1837. Population in 1839 about 300. Population in 1844 about 400. Site of acute opposition to Latter-day Saints, early 1840s. Site...More Info Notations in handwriting of William Clayton.Filed for Record May 29— 1844 Fees 75 cts Paid No 414 [p. [2]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Footnotes
+
+**[]** Signature of Mary Ann Bullard.
+**[]** Signatures of Newell Nourse and Levi Bullard.
+**[]** Certification in handwriting of Orson Spencer.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]
