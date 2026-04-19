@@ -1,0 +1,69 @@
+# JSPP — Pay Order, Willard Richards to William Clayton for Hyrum Smith and Others, 15 February 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** February 15, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/pay-order-willard-richards-to-william-clayton-for-hyrum-smith-and-others-15-february-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Mr. W[illiam] Clayton17 July 1814–4 Dec. 1879. Bookkeeper, clerk. Born at Charnock Moss, Penwortham, Lancashire, England. Son of Thomas Clayton and Ann Critchley. Married Ruth Moon, 9 Oct. 1836, at Penwortham. Baptized into Church of Jesus Christ of Latter-day Saints by Heber...View Full Bio City Treasurer Sir The City Council…
+
+---
+
+## Full Transcript
+
+Mr. W[illiam] Clayton17 July 1814–4 Dec. 1879. Bookkeeper, clerk. Born at Charnock Moss, Penwortham, Lancashire, England. Son of Thomas Clayton and Ann Critchley. Married Ruth Moon, 9 Oct. 1836, at Penwortham. Baptized into Church of Jesus Christ of Latter-day Saints by Heber...View Full Bio City Treasurer Sir The City Council of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info have allowed the following claims, and ordered the same to be paid out of any money in the Treasury, not otherwise appropriated to wit $ Cts. Hyrum Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio——1This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 58.) 12.50 <​attendance of City Council &c from Aug 12— 1843 to Feb 9, 1844 inclusive​>Insertion written vertically along right side of page in handwriting of Willard Richards. John Taylor1 Nov. 1808–25 July 1887. Preacher, editor, publisher, politician. Born at Milnthorpe, Westmoreland, England. Son of James Taylor and Agnes Taylor, members of Church of England. Around age sixteen, joined Methodist church and was local preacher. Migrated ...View Full Bio——2This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 107.) 15.50 Orson Pratt19 Sept. 1811–3 Oct. 1881. Farmer, writer, teacher, merchant, surveyor, editor, publisher. Born at Hartford, Washington Co., New York. Son of Jared Pratt and Charity Dickinson. Moved to New Lebanon, Columbia Co., New York, 1814; to Canaan, Columbia Co., fall...View Full Bio——3This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 103.) 13.00 Orson Hyde8 Jan. 1805–28 Nov. 1878. Laborer, clerk, storekeeper, teacher, editor, businessman, lawyer, judge. Born at Oxford, New Haven Co., Connecticut. Son of Nathan Hyde and Sally Thorpe. Moved to Derby, New Haven Co., 1812. Moved to Kirtland, Geauga Co., Ohio, ...View Full Bio——4This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 115.) 1.00 Heber C. Kimball14 June 1801–22 June 1868. Blacksmith, potter. Born at Sheldon, Franklin Co., Vermont. Son of Solomon Farnham Kimball and Anna Spaulding. Married Vilate Murray, 22 Nov. 1822, at Mendon, Monroe Co., New York. Member of Baptist church at Mendon, 1831. Baptized...View Full Bio——5This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 117.) 9.00 Benjamin Warrington1810–June 1850. Wheelwright. Born in New Jersey. Married Sarah Horner, 16 Jan. 1834, in Preble Co., Ohio. Owned lots in Somerville, Milford Township, Butler Co., Ohio, 1835–ca. 1838. Moved to Hancock Co., Illinois, by 1840. Appointed quartermaster sergeant...View Full Bio——6This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 45.) 11.50 Daniel Spencer20 July 1794–8 Dec. 1868. Rancher, merchant. Born in West Stockbridge, Berkshire Co., Massachusetts. Son of Daniel Spencer and Chloe Wilson. Moved to Savannah, Chatham Co., Georgia, ca. 1816. Operated a mercantile business in Savannah. Returned to West Stockbridge...View Full Bio——7This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 118.) 11.00 Brigham Young1 June 1801–29 Aug. 1877. Carpenter, painter, glazier, colonizer. Born at Whitingham, Windham Co., Vermont. Son of John Young and Abigail (Nabby) Howe. Brought up in Methodist household; later joined Methodist church. Moved to Sherburne, Chenango Co., New...View Full Bio——8This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 78.) 12.00 Orson Spencer14 Mar./13 May 1802–15 Oct. 1855. Teacher, minister, university professor and chancellor. Born in West Stockbridge, Berkshire Co., Massachusetts. Son of Daniel Spencer and Chloe Wilson. Moved to Lenox, Berkshire Co., 1817; to Schenectady, Schenectady Co.,...View Full Bio——9This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 119.) 13.00 Daniel H. Wells27 Oct. 1814–24 Mar. 1891. Farmer, teacher, ferry operator, lumber merchant, manager of nail factory, politician. Born in Trenton, Oneida Co., New York. Son of Daniel Wells and Catherine Chapin. Moved to Marietta, Washington Co., Ohio, ca. 1832. Moved to ...View Full Bio——10This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 88.) 2.50 George A Smith26 June 1817–1 Sept. 1875. Born at Potsdam, St. Lawrence Co., New York. Son of John Smith and Clarissa Lyman. Baptized into Church of Jesus Christ of Latter-day Saints by Joseph H. Wakefield, 10 Sept. 1832, at Potsdam. Moved to Kirtland, Geauga Co., Ohio,...View Full Bio——11This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 90.) 13.00 George W. Harris1 Apr. 1780–1857. Jeweler. Born at Lanesboro, Berkshire Co., Massachusetts. Son of James Harris and Diana (Margaret) Burton. Married first Elizabeth, ca. 1800. Married second Margaret, who died in 1828. Moved to Batavia, Genesee Co., New York, by 1830. Married...View Full Bio——12This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 104.) 13.50 Samuel BennettCa. 1810–May 1893. Market inspector, barometer manufacturer, physician. Born in England. Married Selina Campion, 9 Aug. 1836. Baptized into Church of Jesus Christ of Latter-day Saints, by 1839, in U.S. Ordained an elder, 23 Dec. 1839, in Philadelphia. Served...View Full Bio——13This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 105.) 12.50 H[enry] G. Sherwood20 Apr. 1785–24 Nov. 1867. Surveyor. Born at Kingsbury, Washington Co., New York. Son of Newcomb Sherwood and a woman whose maiden name was Tolman (first name unidentified). Married Polly by 17 May 1823. Lived at Bolton, Warren Co., New York, 1830. Baptized...View Full Bio. Marshall——14This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 70.) 6.00 William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio——15This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 120.) 4.00 John D. Parker22 Nov. 1799–26 Feb. 1891. Farmer, wainwright. Born in Saratoga, Saratoga Co., New York. Son of Abel Parker and Mary Davies. Served in War of 1812 as teamster in General John E. Wool’s company, 1813–1814. Married Harriet Sherwood. Moved to Galway, Saratoga...View Full Bio. Marshall P[ro] Tem——16This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 71.) 1.00 John P. Green[e]3 Sept. 1793–10 Sept. 1844. Farmer, shoemaker, printer, publisher. Born at Herkimer, Herkimer Co., New York. Son of John Coddington Greene and Anna Chapman. Married first Rhoda Young, 11 Feb. 1813. Moved to Aurelius, Cayuga Co., New York, 1814; to Brownsville...View Full Bio Marshall——17This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 110.) 7.00 W[illiam] W. Phelps17 Feb. 1792–7 Mar. 1872. Writer, teacher, printer, newspaper editor, publisher, postmaster, lawyer. Born at Hanover, Morris Co., New Jersey. Son of Enon Phelps and Mehitabel Goldsmith. Moved to Homer, Cortland Co., New York, 1800. Married Sally Waterman,...View Full Bio——18This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 100.) 16.50 Edward Hunter22 June 1793–16 Oct. 1883. Farmer, currier, surveyor, merchant. Born at Newtown Township, Delaware Co., Pennsylvania. Son of Edward Hunter and Hannah Maris. Volunteer cavalryman in Delaware Co. militia, 1822–1829. Served as Delaware Co. commissioner. Moved...View Full Bio——19This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 121.) 2.00 Joseph Smith’s Salary as Mayor <​to February 9th. 1844 inclusive​>——20This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 56.) 601.61 $778.11 Allowed February 12. 1844. [seal] In testimony whereof I have hereunto set my hand and seal at NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info aforesaid this 15th. day of February 1844 Willard Richards24 June 1804–11 Mar. 1854. Teacher, lecturer, doctor, clerk, printer, editor, postmaster. Born at Hopkinton, Middlesex Co., Massachusetts. Son of Joseph Richards and Rhoda Howe. Moved to Richmond, Berkshire Co., Massachusetts, 1813; to Chatham, Columbia Co...View Full Bio. Recorder [p. [1]]
+
+  <Order to Sundry persons Entered Feby 16— 1844>Endorsement in handwriting of William Clayton. [p. [2]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Footnotes
+
+**[1]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 58.)
+**[]** Insertion written vertically along right side of page in handwriting of Willard Richards.
+**[2]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 107.)
+**[3]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 103.)
+**[4]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 115.)
+**[5]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 117.)
+**[6]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 45.)
+**[7]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 118.)
+**[8]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 78.)
+**[9]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 119.)
+**[10]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 88.)
+**[11]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 90.)
+**[12]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 104.)
+**[13]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 105.)
+**[14]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 70.)
+**[15]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 120.)
+**[16]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 71.)
+**[17]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 110.)
+**[18]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 100.)
+**[19]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 121.)
+**[20]** This transaction was recorded in the Nauvoo City Treasury Ledger on 16 February 1844. (Nauvoo City Treasury Ledger, 56.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - nauvoo-city-treasury-ledger]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

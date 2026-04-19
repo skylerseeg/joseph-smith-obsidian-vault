@@ -1,0 +1,58 @@
+# JSPP — Letter to Emma Smith, 20–25 January 1840
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** January 20, 1840
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/letter-to-emma-smith-20-25-january-1840/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+PheadelphaPort city founded as Quaker settlement by William Penn, 1681. Site of signing of Declaration of Independence and drafting of U.S. Constitution. Nation’s capital city, 1790–1800. Population in 1830 about 170,000; in 1840 about 260,000; and in 1850 about 410...More Info <​Chester CoLocated in southeast Pennsylvania. Bordered on south by…
+
+---
+
+## Full Transcript
+
+PheadelphaPort city founded as Quaker settlement by William Penn, 1681. Site of signing of Declaration of Independence and drafting of U.S. Constitution. Nation’s capital city, 1790–1800. Population in 1830 about 170,000; in 1840 about 260,000; and in 1850 about 410...More Info <​Chester CoLocated in southeast Pennsylvania. Bordered on south by Maryland and Delaware and on north by Berks and Montgomery counties, Pennsylvania. Established as one of Pennsylvania’s three original counties, 1682. West Chester named county seat, 1784. Population...More Info Pa​> [January] 20th 1840 My Dear and beloved Wife10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio I recieved a letter from Hyram [Hyrum Smith]9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio1Letter from Hyrum Smith, 2 Jan. 1840. which cheared my heart to learn that my Family was all alive yet my heart mourns for those who have been taken from us but not without hope for I shall see them again and be with them therefore we can be more reconciled to the dealings of God2JS used similar language to describe how he and others must cope with the deaths of loved ones in a 6 June 1832 letter to Emma, in which he lamented the death of Hyrum Smith’s nearly three-year-old daughter. (Letter to Emma Smith, 6 June 1832.) I am now makeing all hast[e] to arange my business to start for home3JS entrusted Elias Higbee to oversee the hearing of the church’s memorial to Congress so that he could return home. It is unclear whether JS and Higbee had already made this arrangement when JS wrote this letter because Congress had not yet heard the church’s memorial. (Letter from Elias Higbee, 20 Feb. 1840–A; Letter to Elias Higbee, 7 Mar. 1840.) I feel very anxious to see you all once more in this world the time seems long that I am deprived of your sosiety but the <​lord​> being my helper I will not be much longer I am determined to st[art] for home in a few dayes our [bus]iness I expect is before the house of congress now4The church’s memorial was first read to the United States Senate on 28 January 1840. (Journal of the Senate of the United States, 26th Cong., 1st Sess., 28 Jan. 1840, 138.)Comprehensive Works CitedJournal of the Senate of the United States of America, Being the First Session of the Twenty-Sixth Congress, Begun and Held at the City of Washington, December 2, 1839, and in the Sixty-Fourth Year of the Independence of the Said United States. Washington DC: Blair and Rives, 1839. <​and​> I shall shall start for WashingtonCreated as district for seat of U.S. federal government by act of Congress, 1790, and named Washington DC, 1791. Named in honor of George Washington. Headquarters of executive, legislative, and judicial branches of U.S. government relocated to Washington ...More Info in a few days5JS left Pennsylvania to return to Washington DC around 31 January 1840. (Historian’s Office, JS History, Draft Notes, 27 Jan. 1840, 2.) and from there home as soon as posible I am filled with constant anxiety and shall be until I git home I pray God to spare you all untill I git home my dear Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio my heart is intwined arround you and those little ones I want <​you​> to remember me tell all the chi[l]dren that I love them and will come home as soon as soon as I can yours in the bonds of love your Husband utill [until] Death &c— Joseph Smith Jr Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio [p. [1]]
+
+  <​25​>6TEXT: Postage in unidentified handwriting. Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio CommerceLocated near middle of western boundary of state, bordering Mississippi River. European Americans settled area, 1820s. From bank of river, several feet above high-water mark, ground described as nearly level for six or seven blocks before gradually sloping...More Info Hancock Co County Ill— <◊◊◊7TEXT: Possibly “Ill”, “Nv,” or “UW”. Han Jany 29th.>Postmark in unidentified handwriting. [p. [2]]
+
+---
+
+## Source Note
+
+In early 1840, JS wrote his wife Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio a letter—one of the few surviving letters written entirely in JS’s hand—in part to update her on his plans to return home from the eastern United StatesNorth American constitutional republic. Constitution ratified, 17 Sept. 1787. Population in 1805 about 6,000,000; in 1830 about 13,000,000; and in 1844 about 20,000,000. Louisiana Purchase, 1803, doubled size of U.S. Consisted of seventeen states at time ...More Info. JS did not include a complete date, writing only “20th 1840.” The letter’s postal markings and text indicate that the intended date was 20 January 1840. The corrected place name in the date line suggests that JS started composing the letter on 20 January while in PhiladelphiaPort city founded as Quaker settlement by William Penn, 1681. Site of signing of Declaration of Independence and drafting of U.S. Constitution. Nation’s capital city, 1790–1800. Population in 1830 about 170,000; in 1840 about 260,000; and in 1850 about 410...More Info and continued writing it several days later while in Chester CountyLocated in southeast Pennsylvania. Bordered on south by Maryland and Delaware and on north by Berks and Montgomery counties, Pennsylvania. Established as one of Pennsylvania’s three original counties, 1682. West Chester named county seat, 1784. Population...More Info, Pennsylvania. JS spent his time in Chester County visiting churchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary members while awaiting word that the church’s petition for redress had been brought before the United StatesNorth American constitutional republic. Constitution ratified, 17 Sept. 1787. Population in 1805 about 6,000,000; in 1830 about 13,000,000; and in 1844 about 20,000,000. Louisiana Purchase, 1803, doubled size of U.S. Consisted of seventeen states at time ...More Info Senate.1JS left Philadelphia for Chester County around 20 January and remained there until returning to Philadelphia on 25 January. (Smith, “History of the Philadelphia, Pennsylvania, Branch,” 366; Historian’s Office, JS History, Draft Notes, 25 Jan. 1840, 2.)Comprehensive Works CitedSmith, Walter W. “The History of the Philadelphia, Pennsylvania, Branch.” Journal of History 11, no. 3 (July 1918): 358–373. JS had been away from Emma and their children for nearly three months; in this letter he expressed his hope to be reunited with his family as soon as possible. Postal markings on the letter indicate that JS mailed it to Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio on 29 January 1840. It is unknown when Emma received the correspondence, but mail between the church delegates and their correspondents in CommerceLocated near middle of western boundary of state, bordering Mississippi River. European Americans settled area, 1820s. From bank of river, several feet above high-water mark, ground described as nearly level for six or seven blocks before gradually sloping...More Info, Illinois, usually arrived in three to four weeks. 3672511301843472200 JS left Philadelphia for Chester County around 20 January and remained there until returning to Philadelphia on 25 January. (Smith, “History of the Philadelphia, Pennsylvania, Branch,” 366; Historian’s Office, JS History, Draft Notes, 25 Jan. 1840, 2.) 1 number Smith, Walter W. “The History of the Philadelphia, Pennsylvania, Branch.” Journal of History 11, no. 3 (July 1918): 358–373.
+
+---
+
+## Footnotes
+
+**[1]** Letter from Hyrum Smith, 2 Jan. 1840.
+**[2]** JS used similar language to describe how he and others must cope with the deaths of loved ones in a 6 June 1832 letter to Emma, in which he lamented the death of Hyrum Smith’s nearly three-year-old daughter. (Letter to Emma Smith, 6 June 1832.)
+**[3]** JS entrusted Elias Higbee to oversee the hearing of the church’s memorial to Congress so that he could return home. It is unclear whether JS and Higbee had already made this arrangement when JS wrote this letter because Congress had not yet heard the church’s memorial. (Letter from Elias Higbee, 20 Feb. 1840–A; Letter to Elias Higbee, 7 Mar. 1840.)
+**[4]** The church’s memorial was first read to the United States Senate on 28 January 1840. (Journal of the Senate of the United States, 26th Cong., 1st Sess., 28 Jan. 1840, 138.)
+**[5]** JS left Pennsylvania to return to Washington DC around 31 January 1840. (Historian’s Office, JS History, Draft Notes, 27 Jan. 1840, 2.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - history-draft-1-january-31-december-1840]]
+- [[JSPP - letter-from-elias-higbee-20-february-1840-a]]
+- [[JSPP - letter-from-hyrum-smith-2-january-1840]]
+- [[JSPP - letter-to-elias-higbee-7-march-1840]]
+- [[JSPP - letter-to-emma-smith-6-june-1832]]
+- [[JSPP - memorial-to-the-united-states-senate-and-house-of-representatives-circa-30-october-1839-27-january-1840]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

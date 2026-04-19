@@ -1,0 +1,62 @@
+# JSPP — Notice, circa 19 May 1842
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** May 19, 1842
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/notice-circa-19-may-1842/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+John C. Bennett handwriting begins.New election of Mayor, and vice Mayor, of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as…
+
+---
+
+## Full Transcript
+
+John C. Bennett handwriting begins.New election of Mayor, and vice Mayor, of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, on the resignation of General [John C.] Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio.1The act incorporating the city of Nauvoo mandated that elections for city offices be held every two years on the first Monday in February. However, the act also allowed the city council to “fill all vacancies that may happen by death, resignation, or removal.” (Act to Incorporate the City of Nauvoo, 16 Dec. 1840.) On the 17th Inst. General John C. Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio resigned the office of Mayor of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, and on the 19th General Joseph Smith, the former vice-Mayor, was duly elected to fill the vacancy:2JS received eighteen votes for mayor, while William Marks received one. (Minutes, 19 May 1842.) and on the same day General Hyrum Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio was elected vice Mayor in place of General Joseph Smith elected Mayor.3Hyrum Smith received eighteen votes, while William Marks and Willard Richards each received one. (Minutes, 19 May 1842.) The following vote of thanks was then unanimously voted to General Benn the Ex-Mayor, General Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio, by the City Council; to wit: John C. Bennett handwriting ends; James Sloan begins.Moved <​Resolved by the City Council of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info​> that this Council tender a vote of Thanks to Genl. John C. Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio, for his great Zeal in having good and wholesome Laws adopted for the Government of this CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, and for the faithful discharge of his Duty while Mayor of the same.—4This resolution also appears in Minutes, 19 May 1842. Joseph Smith Mayor. Passed May 19th. 1842. James Sloan28 Oct. 1792–24 Oct. 1886. City recorder, notary public, attorney, judge, farmer. Born in Donaghmore, Co. Tyrone, Ireland. Son of Alexander Sloan and Anne. Married Mary Magill. Baptized into Church of Jesus Christ of Latter-day Saints. Ordained an elder, ...View Full Bio, Recorder. I copied this, & signed the Mayors Name to it by his direction.— [p. [1]]
+
+  [page [2] blank] [p. [2]]
+
+---
+
+## Source Note
+
+Sometime around 19 May 1842, John C. Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio and James Sloan28 Oct. 1792–24 Oct. 1886. City recorder, notary public, attorney, judge, farmer. Born in Donaghmore, Co. Tyrone, Ireland. Son of Alexander Sloan and Anne. Married Mary Magill. Baptized into Church of Jesus Christ of Latter-day Saints. Ordained an elder, ...View Full Bio, city recorder of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, inscribed a document giving notice that Bennett had resigned as mayor of Nauvoo and been replaced by JS. Bennett had been accused of seducing women in Nauvoo and telling them that JS sanctioned such practices.1Letter to the Church and Others, 23 June 1842; see also Historical Introduction to Notice, 11 May 1842. In the fallout from these accusations, Bennett, who had been elected mayor on 1 February 1841, resigned from office on 17 May 1842. On that same day, his name was removed from the records of the churchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary.2Letters from John C. Bennett and James Sloan, 17 May 1842; Letter to James Sloan, 17 May 1842. Despite the accusations against him, Bennett proclaimed at the 19 May meeting of the Nauvoo City Council that he had “no difficulty with the heads of the church,” that JS never gave him “authority to hold illicit intercourse with women,” and that JS was “strictly virtuous” both in “public and in private.”3Letter to the Church and Others, 23 June 1842; see also JS, Journal, 19 May 1842. Bennett later claimed that he made such statements only because JS had threatened to kill him if he did not, but members of the city council swore in an affidavit that Bennett had never been “threatened menaced or intimidated” to make his statements.4John C. Bennett, Carthage, IL, 2 July 1842, Letter to the Editor, Sangamo Journal (Springfield, IL), 15 July 1842, [2]; Bennett, History of the Saints, 287–288; “Affidavit of the City Council,” Wasp, Extra, 27 July 1842, [2].Comprehensive Works CitedSangamo Journal. Springfield, IL. 1831–1847.Bennett, John C. The History of the Saints; or, an Exposé of Joe Smith and Mormonism. Boston: Leland and Whiting, 1842. The Wasp. Nauvoo, IL. Apr. 1842–Apr. 1843. During the 19 May meeting, the city council voted to accept Bennett’s resignation. The city council then elected JS (who had been vice mayor) as the new mayor, city councilor Hyrum Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio as vice mayor, and William Smith13 Mar. 1811–13 Nov. 1893. Farmer, newspaper editor. Born at Royalton, Windsor Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Lebanon, Grafton Co., New Hampshire, 1811; to Norwich, Windsor Co., 1813; and to Palmyra, Ontario Co., New York, 1816...View Full Bio as city councilor, filling the vacancy left by JS.5Minutes, 19 May 1842. Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio composed the notice featured here about the election of JS and Hyrum Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio to their respective offices. James Sloan28 Oct. 1792–24 Oct. 1886. City recorder, notary public, attorney, judge, farmer. Born in Donaghmore, Co. Tyrone, Ireland. Son of Alexander Sloan and Anne. Married Mary Magill. Baptized into Church of Jesus Christ of Latter-day Saints. Ordained an elder, ...View Full Bio, possibly acting under the direction of the new mayor, completed the document by adding a copy of the city council’s resolution of thanks to Bennett for his service. Sloan then signed JS’s name to the document “by his direction.” The notice was published in the 21 May 1842 issue of the Wasp.6Notice, Wasp, 21 May 1842, [3]. 2381475025788001854 Letter to the Church and Others, 23 June 1842; see also Historical Introduction to Notice, 11 May 1842. 1 number 8448072839235657768 Letters from John C. Bennett and James Sloan, 17 May 1842; Letter to James Sloan, 17 May 1842. 2 number 3835490916238063702 Letter to the Church and Others, 23 June 1842; see also JS, Journal, 19 May 1842. 3 number 1933236809504646636 John C. Bennett, Carthage, IL, 2 July 1842, Letter to the Editor, Sangamo Journal (Springfield, IL), 15 July 1842, [2]; Bennett, History of the Saints, 287–288; “Affidavit of the City Council,” Wasp, Extra, 27 July 1842, [2]. 4 number Sangamo Journal. Springfield, IL. 1831–1847.Bennett, John C. The History of the Saints; or, an Exposé of Joe Smith and Mormonism. Boston: Leland and Whiting, 1842. The Wasp. Nauvoo, IL. Apr. 1842–Apr. 1843. 11682609323028188059 Minutes, 19 May 1842. 5 number 4837003274187254386 Notice, Wasp, 21 May 1842, [3]. 6 number
+
+---
+
+## Footnotes
+
+**[]** John C. Bennett handwriting begins.
+**[1]** The act incorporating the city of Nauvoo mandated that elections for city offices be held every two years on the first Monday in February. However, the act also allowed the city council to “fill all vacancies that may happen by death, resignation, or removal.” (Act to Incorporate the City of Nauvoo, 16 Dec. 1840.)
+**[2]** JS received eighteen votes for mayor, while William Marks received one. (Minutes, 19 May 1842.)
+**[3]** Hyrum Smith received eighteen votes, while William Marks and Willard Richards each received one. (Minutes, 19 May 1842.)
+**[]** John C. Bennett handwriting ends; James Sloan begins.
+**[4]** This resolution also appears in Minutes, 19 May 1842.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - act-to-incorporate-the-city-of-nauvoo-16-december-1840]]
+- [[JSPP - journal-december-1841-december-1842]]
+- [[JSPP - journal-december-1842-june-1844-book-3-15-july-1843-29-february-1844]]
+- [[JSPP - letter-to-james-sloan-17-may-1842]]
+- [[JSPP - letter-to-the-church-and-others-23-june-1842]]
+- [[JSPP - letters-from-john-c-bennett-and-james-sloan-17-may-1842]]
+- [[JSPP - minutes-19-may-1842-a]]
+- [[JSPP - minutes-3-february-1841]]
+- [[JSPP - notice-11-may-1842]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

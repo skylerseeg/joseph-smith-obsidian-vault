@@ -1,0 +1,45 @@
+# JSPP — Affidavit, 7 July 1843–B
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** July 7, 1843
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/affidavit-7-july-1843-b/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+State of Illinois) ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) Personally came before…
+
+---
+
+## Full Transcript
+
+State of Illinois) ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) Personally came before Ebenezer Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio a notary public in and for said CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info Caleb Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio who being sworn says that after the arrest of himself and others as mentioned in the foregoing affidavit he went to Judge <​Austin A.​> King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio and asked Judge King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio to grant him a fair trial at law saying that with the result of such a trial he would be satisfied— but Judge King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio answered that “there was no law for the Mormons”— that “they must be exterminated”— that the prisoners, this deponent Smith and others, must die, but that some people as women and children would have the privilege of leaving the StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, but there was no hope for them— He told Judge King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio that his family composed of helpless females had been plundered and driven out into the prairie and asked Judge King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio what he should do, to which Judge King21 Sept. 1802–22 Apr. 1870. Attorney, judge, politician, farmer. Born at Sullivan Co., Tennessee. Son of Walter King and Nancy Sevier. Married first Nancy Harris Roberts, 13 May 1828, at Jackson, Madison Co., Tennessee. In 1830, moved to Missouri, where he...View Full Bio answered that if he would renounce his religion and forsake Smith he would be released and protected— that the same offer was made to the other prisoners all of whom however refused to do so— and were in reply told that they would be put to death— Alanson Ripley8 Jan. 1798–before 1860. Surveyor, lawyer. Born at New York. Son of Asa Ripley and Polly Deforest. Married Sarah Finkle. Resided in Massachusetts, 1827. Member of Church of Jesus Christ of Latter-day Saints in Ohio. Participated in Camp of Israel expedition...View Full Bio being in like manner <​sworn​> says that the same offer was made to him by Mr. Birch [Thomas Burch]Ca. 1807–ca. Sept. 1839. Attorney, judge. Likely born in Tennessee. Married first Ann Ross, 20 Jan. 1824, at Howard Co., Missouri. Began law practice, 1831, at Richmond, Ray Co., Missouri. Married second Celenary (Selinary) Jacobs, 23 Jan. 1834, at Ray Co...View Full Bio the prosecuting attorney that if he would forsake the mormons he should be released and Restored to his home and suffered to remain, to which he returned an answer similar to that of Mr. Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio— Joseph Smith being in like manner Sworn says, that he and Mr. Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio were chained togeather at the time of the conversation above recited by Mr. Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio; which conversation [p. [1]]
+
+  he heard and which is correctly stated by Mr. Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio above, but that no such offer was made to him it being understood as certain that he was to be shot Joseph Smith Caleb Baldwin2 Sept. 1791–11 June 1849. Born in Nobletown (later Hillsdale), Orange Co., New York. Son of Philemon Baldwin and Esther. Served in War of 1812 in Ohio militia. Married Nancy Kingsbury, 7 Dec. 1814, in Cuyahoga Co., Ohio. Moved to Warrensville (later in University...View Full Bio Alanson Ripley8 Jan. 1798–before 1860. Surveyor, lawyer. Born at New York. Son of Asa Ripley and Polly Deforest. Married Sarah Finkle. Resided in Massachusetts, 1827. Member of Church of Jesus Christ of Latter-day Saints in Ohio. Participated in Camp of Israel expedition...View Full Bio L. S.1TEXT: “L. S.” written in graphite and enclosed in a hand-drawn representation of a seal. Certification in handwriting of Ebenezer Robinson.Sworn to and subscribed before me this 7th. day of July A.D. 1843. Given under my hand and Notarial Seal the day and year last written E Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio Notary public Hancock Co.Formed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info I.lls Docket in handwriting of Willard Richards.Affadavit of Joseph Smith and Two others July 7 1843 [p. [2]]
+
+---
+
+## Source Note
+
+See Historical Introduction to Affidavit, 7 July 1843–A.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - affidavit-7-july-1843-a]]
+- [[JSPP - history-1838-1856-volume-e-1-1-july-1843-30-april-1844]]
+- [[JSPP - history-of-joseph-smith]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

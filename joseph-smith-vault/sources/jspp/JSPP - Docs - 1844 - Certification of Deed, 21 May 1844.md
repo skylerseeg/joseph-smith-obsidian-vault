@@ -1,0 +1,48 @@
+# JSPP — Certification of Deed, 21 May 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** May 21, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/certification-of-deed-21-may-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+KNOW ALL MEN BY THESE PRESENTS—That Ethan Kimball of the county of OrangeCounty located in central Vermont, bounded by Connecticut River to east. Incorporated 1781. Population in 1830 about 27,000. Joseph Smith Sr. and his brother John traveled through county visiting relatives and preaching. JS purchased property in 1842 and…
+
+---
+
+## Full Transcript
+
+KNOW ALL MEN BY THESE PRESENTS—That Ethan Kimball of the county of OrangeCounty located in central Vermont, bounded by Connecticut River to east. Incorporated 1781. Population in 1830 about 27,000. Joseph Smith Sr. and his brother John traveled through county visiting relatives and preaching. JS purchased property in 1842 and ...More Info, and State of VermontArea served as early thoroughfare for traveling Indian tribes. French explored area, 1609, and erected fort on island in Lake Champlain, 1666. First settled by Massachusetts emigrants, 1724. Claimed by British colonies of New York and New Hampshire, but during...More Info, has this day for and in consideration of the sum of One Hundred—— dollars in hand paid by Mary. Ann Bullard of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, bargained and sold unto the said Mary. Ann. Bullard— a certain lot or piece of land lying and situated in Kimball’s [blank] addition to NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info in said countyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and stateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info last mentioned, as will more fully appear by refference to the plat of said addition, being part of lot No. 72 in block No. two in said addition to the Town of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info ,— To wit.— beginning at the North East corner of said Lot and Block, running South thirty two and a half Rods thence west twenty Rods thence North thirty two and a half Rods then East to the place of beginning being more or Less— TO HAVE AND TO HOLD The above described lot or piece of land with all and singular the appurtenances thereunto belonging to him her the said Mary. Ann— Bullard his her heirs and assigns forever. And the the said ETHAN KIMBALL for himself his heirs and assigns administrators and executors, do warrant and forever defend the title of the lot or piece of land against every person or persons claiming by, through, or under him in any manner whatsoever. or any other persons whatever IN TESTIMONY WHEREOF He has hereunto set his name and affixed his seal this Si 6th day of February— in the year of our Lord one thousand eight hundred and forty-three Ethan Kimball -[SEAL.]- by his Attorney Hiram Kimball31 May 1806–27 Apr. 1863. Merchant, iron foundry operator, mail carrier. Born in West Fairlee, Orange Co., Vermont. Son of Phineas Kimball and Abigail. Moved to Commerce (later Nauvoo), Hancock Co., Illinois, 1833, and established several stores. Married ...View Full Bio the words (part of) are interlined between the sixth & Seventh lines In preasance of Heman Hyde18 June 1812–26 May 1842. Born at Strafford, Orange Co., Vermont. Son of Heman Hyde and Polly Wyman Tilton. Moved to what became York, Livingston Co., New York, 1812. Moved to Freedom, Cattaraugus Co., New York, 1825. Baptized into Church of Jesus Christ ...View Full Bio Newell Nurse [Nourse]21 Mar. 1792–ca. 1875. Farmer, mechanic. Born in Framingham, Middlesex Co., Massachusetts. Son of Asa Nourse and Lois Glover. Served in War of 1812. Married Harriet Bullard, 26 Aug. 1819, in Holliston, Middlesex Co. Moved to Holliston, by 1820. Baptized into...View Full Bio Certification in handwriting of Ebenezer Robinson.State of Illinois) ss. County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I, Ebenezer Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio, a Justice of the Peace, in and for the said countyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, do certify that Ethan Kimball, by his Attorney, Hiram Kimball31 May 1806–27 Apr. 1863. Merchant, iron foundry operator, mail carrier. Born in West Fairlee, Orange Co., Vermont. Son of Phineas Kimball and Abigail. Moved to Commerce (later Nauvoo), Hancock Co., Illinois, 1833, and established several stores. Married ...View Full Bio, whose signature appears to the foregoing Deed, is personally Known to me to be the person described in and who executed the same, and who acknowledged the same to be his free and voluntary act and Deed for the uses and purposes therein mentioned. Given under my hand and seal this sixth day of February, in the year of our Lord one thousand Eight hundred and forty-three. E. Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio, J. P. L. S. [p. [1]]
+
+  Certification in handwriting of William Clayton.State of Illinois) Hancock County) City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info) Recorders Office May 21st. 1844 I Joseph Smith Recorder in and for the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info in the CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid do hereby certify that the within Deed and certificate of acknowledgment were this day duly recorded in Book B Page 158 and numbered 400 Joseph Smith Recorder by Wm Clayton17 July 1814–4 Dec. 1879. Bookkeeper, clerk. Born at Charnock Moss, Penwortham, Lancashire, England. Son of Thomas Clayton and Ann Critchley. Married Ruth Moon, 9 Oct. 1836, at Penwortham. Baptized into Church of Jesus Christ of Latter-day Saints by Heber...View Full Bio Clerk Docket in handwriting of William Clayton.Ethan Kimball Deed To Mary Ann Bullard Notations in handwriting of William Clayton.Filed for Record May 21st. 1844 Fees 80 cts No 400 [p. [2]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Footnotes
+
+**[]** Certification in handwriting of Ebenezer Robinson.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

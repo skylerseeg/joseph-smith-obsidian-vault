@@ -1,0 +1,63 @@
+# JSPP — Letter from John V. Curtis, 27 November 1843
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** November 27, 1843
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/letter-from-john-v-curtis-27-november-1843/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+GallipolisPost village located on Ohio River about one hundred miles southeast of Columbus. Organized 1810. County seat. Population in 1843 about 1,400. Population in 1850 about 2,200.More Info O[hio] November 27th 1843. Genl. Joseph Smith Dear Sir You will I hope pardon me for thus presumptously intruding on your time…
+
+---
+
+## Full Transcript
+
+GallipolisPost village located on Ohio River about one hundred miles southeast of Columbus. Organized 1810. County seat. Population in 1843 about 1,400. Population in 1850 about 2,200.More Info O[hio] November 27th 1843. Genl. Joseph Smith Dear Sir You will I hope pardon me for thus presumptously intruding on your time and patience, my object in doing so is this, Having a high regard and Esteem for a person of so much forsight, understanding, wisdom and judgment, one who has Excited the Envy of the great, and the jeoulesy of all other denominations, a person who has raised up a ChurchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary which was small in the beginning but by its true, doctrins and Correct principles has attracted people from all Quarters of the globe,1By November 1843, the church had converts from British North America and the British Isles and had sent missionaries to Jerusalem, Australia, and the Sandwich Islands. (See Historical Introduction to Revelation, 12 Oct. 1833 [D&C 100]; Historical Introduction to Letter from John Mills, 1 Sept. 1843; Letter from Orson Hyde, 15 June 1841; Map of Orson Hyde’s Mission Travels, June–Dec. 1841; Orson Hyde, “Interesting News from Alexandria and Jerusalem,” Millennial Star, Jan. 1842, 2:132–136; Hyde, Voice from Jerusalem, 27–33; Devitry-Smith, “William James Barratt,” 53–66; and Ellsworth, Journals of Addison Pratt, 114–122, 150–158, 169.)Comprehensive Works Cited Latter-day Saints’ Millennial Star. Manchester, England, 1840–1842; Liverpool, 1842–1932; London, 1932–1970. Hyde, Orson. A Voice from Jerusalem, or a Sketch of the Travels and Ministry of Elder Orson Hyde, Missionary of the Church of Jesus Christ of Latter Day Saints, to Germany, Constantinople, and Jerusalem. Liverpool: P. P. Pratt, 1842. Devitry-Smith, John. “William James Barratt: The First Mormon ‘Down Under.’” BYU Studies 28 (Summer 1988): 53–66. Ellsworth, S. George, ed. The Journals of Addison Pratt, being a Narrative of Yankee Whaling in the Eighteen Twenties, a Mormon Mission to the Society Islands. . . . Salt Lake City: University of Utah Press, 1990. A Church and a Prophet which has passed through the fire and Come out unscathed Cannot but prosper, and it is destined Ere long to become the only Church triumphant.— I have heard that odious Man J[ohn C.] Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio lecturing against you and Mormanism2In 1842 and 1843, after being excommunicated from the church, Bennett toured parts of the eastern and midwestern United States lecturing against JS. This tour included stops in St. Louis; Louisville, Kentucky; Cincinnati and Cleveland; Buffalo, New York; New York City; and Boston. It is unknown if Bennett stopped in Gallipolis, though it is possible given its location on the Ohio River. Curtis possibly heard Bennett in one of these cities or simply read about Bennett’s lectures, which were widely published in regional newspapers. (See Notice, 11 May 1842; and Smith, Saintly Scoundrel, 105–109, 114–122, 129–134, 138–139.)Comprehensive Works CitedSmith, Andrew F. The Saintly Scoundrel: The Life and Times of Dr. John Cook Bennett. Urbana: University of Illinois Press, 1997. but what he Said only went to disgrace him3Some newspapers likewise portrayed Bennett as an unsavory person. (See, for example, “A Row among the Mormons,” New-York Spectator [New York City], 20 July 1842, [2]; and “From Nauvoo and the Mormons,” New York Herald [New York City], 9 Oct. 1842, [2].)Comprehensive Works CitedNew-York Spectator. New York City. 1804–1867.New York Herald. New York City. 1835–1924. and raise you in the Eyes of the people. My writing to you is this, wishing to become a resident of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info and a member of that Church, I wish to Know of you if you Can give me Employment as a Clerk Agent or anything Else you see fit4Curtis was not the only individual seeking to join the church and gain employment. James Toner wrote to JS in December 1842, likely feigning interest in the church in order to obtain employment. In early August 1843, D. S. Perry wrote to JS of his intention to become a member of the church and his belief that he had “some quality or talent, that in some great crisis in the career of the saints, will be called forth unto their good, and unto his glory.” (Letter from James Toner, 4 Dec. 1842; Letter from D. S. Perry, ca. 8 Aug. 1843.) if these lines should meet with your approbation it will give me much [p. [1]]
+
+  pleasure immediately, please address to this place Yours Most Humble & obt svt Jno. V CurtisMar. 1822–13 May 1904. Physician. Born in Ohio. Son of Benajah Curtis and Sally Clark. Married Nancy Maria Culbretson, 14 Apr. 1848, in Miami Co., Ohio. Captain in U.S. Army during Civil War. Died at Columbus, Franklin Co., Ohio.View Full Bio To Genl. Joseph Smith NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info Ill. [1/2 page blank] [p. [2]]
+
+  [page [3] blank] [p. [3]]
+
+  <​GALLIPOLISPost village located on Ohio River about one hundred miles southeast of Columbus. Organized 1810. County seat. Population in 1843 about 1,400. Population in 1850 about 2,200.More Info O. NOV 30​>Circular postmark stamped in black ink. <​25​>Postage in blue ink in unidentified handwriting. Genl. Joseph Smith Nauvoo CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info Ill [p. [4]]
+
+---
+
+## Source Note
+
+On 27 November 1843, John V. CurtisMar. 1822–13 May 1904. Physician. Born in Ohio. Son of Benajah Curtis and Sally Clark. Married Nancy Maria Culbretson, 14 Apr. 1848, in Miami Co., Ohio. Captain in U.S. Army during Civil War. Died at Columbus, Franklin Co., Ohio.View Full Bio wrote a letter from GallipolisPost village located on Ohio River about one hundred miles southeast of Columbus. Organized 1810. County seat. Population in 1843 about 1,400. Population in 1850 about 2,200.More Info, Ohio, to JS in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, expressing his desire to move to Nauvoo, become a member of the churchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary, and obtain employment from JS. In his letter, Curtis lauded JS, his mettle, and the church he founded. He also mentioned hearing John C. Bennett3 Aug. 1804–5 Aug. 1867. Physician, minister, poultry breeder. Born at Fairhaven, Bristol Co., Massachusetts. Son of John Bennett and Abigail Cook. Moved to Marietta, Washington Co., Ohio, 1808; to Massachusetts, 1812; and back to Marietta, 1822. Married ...View Full Bio’s lectures opposing JS and commented on their disgracefulness before requesting that JS employ him as a clerk or agent. CurtisMar. 1822–13 May 1904. Physician. Born in Ohio. Son of Benajah Curtis and Sally Clark. Married Nancy Maria Culbretson, 14 Apr. 1848, in Miami Co., Ohio. Captain in U.S. Army during Civil War. Died at Columbus, Franklin Co., Ohio.View Full Bio mailed the featured letter from the GallipolisPost village located on Ohio River about one hundred miles southeast of Columbus. Organized 1810. County seat. Population in 1843 about 1,400. Population in 1850 about 2,200.More Info post office three days after writing it. The letter likely arrived in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info by mid-December 1843. There is no known response; it is unknown if Curtis migrated to Nauvoo.
+
+---
+
+## Footnotes
+
+**[1]** By November 1843, the church had converts from British North America and the British Isles and had sent missionaries to Jerusalem, Australia, and the Sandwich Islands. (See Historical Introduction to Revelation, 12 Oct. 1833 [D&C 100]; Historical Introduction to Letter from John Mills, 1 Sept. 1843; Letter from Orson Hyde, 15 June 1841; Map of Orson Hyde’s Mission Travels, June–Dec. 1841; Orson Hyde, “Interesting News from Alexandria and Jerusalem,” Millennial Star, Jan. 1842, 2:132–136; Hyde, Voice from Jerusalem, 27–33; Devitry-Smith, “William James Barratt,” 53–66; and Ellsworth, Journals of Addison Pratt, 114–122, 150–158, 169.)
+**[2]** In 1842 and 1843, after being excommunicated from the church, Bennett toured parts of the eastern and midwestern United States lecturing against JS. This tour included stops in St. Louis; Louisville, Kentucky; Cincinnati and Cleveland; Buffalo, New York; New York City; and Boston. It is unknown if Bennett stopped in Gallipolis, though it is possible given its location on the Ohio River. Curtis possibly heard Bennett in one of these cities or simply read about Bennett’s lectures, which were widely published in regional newspapers. (See Notice, 11 May 1842; and Smith, Saintly Scoundrel, 105–109, 114–122, 129–134, 138–139.)
+**[3]** Some newspapers likewise portrayed Bennett as an unsavory person. (See, for example, “A Row among the Mormons,” New-York Spectator [New York City], 20 July 1842, [2]; and “From Nauvoo and the Mormons,” New York Herald [New York City], 9 Oct. 1842, [2].)
+**[4]** Curtis was not the only individual seeking to join the church and gain employment. James Toner wrote to JS in December 1842, likely feigning interest in the church in order to obtain employment. In early August 1843, D. S. Perry wrote to JS of his intention to become a member of the church and his belief that he had “some quality or talent, that in some great crisis in the career of the saints, will be called forth unto their good, and unto his glory.” (Letter from James Toner, 4 Dec. 1842; Letter from D. S. Perry, ca. 8 Aug. 1843.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - journal-december-1841-december-1842]]
+- [[JSPP - journal-december-1842-june-1844-book-1-21-december-1842-10-march-1843]]
+- [[JSPP - letter-from-d-s-perry-circa-8-august-1843]]
+- [[JSPP - letter-from-james-toner-4-december-1842]]
+- [[JSPP - letter-from-john-mills-1-september-1843]]
+- [[JSPP - letter-from-orson-hyde-15june-1841]]
+- [[JSPP - notice-11-may-1842]]
+- [[JSPP - revelation-12-october-1833-dc-100]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

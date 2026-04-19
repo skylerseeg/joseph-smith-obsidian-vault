@@ -1,0 +1,59 @@
+# JSPP — Discourse, 9 April 1842, as Reported by Wilford Woodruff
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** April 9, 1842
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/discourse-9-april-1842-as-reported-by-wilford-woodruff/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+PresidentThe highest presiding body of the church. An 11 November 1831 revelation stated that the president of the high priesthood was to preside over the church. JS was ordained as president of the high priesthood on 25 January 1832. In March 1832, JS appointed two...View Glossary Joseph Smith spoke upon…
+
+---
+
+## Full Transcript
+
+PresidentThe highest presiding body of the church. An 11 November 1831 revelation stated that the president of the high priesthood was to preside over the church. JS was ordained as president of the high priesthood on 25 January 1832. In March 1832, JS appointed two...View Glossary Joseph Smith spoke upon the occasion with much feelings & interest among his remarks he said it is a vary solomn & awful time I never felt more solomn it calles to mind the death of my oldest Brother11 Feb. 1798–19 Nov. 1823. Farmer, carpenter. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; returned to Tunbridge, before May 1803. Moved to Royalton, Windsor Co., Vermont, 1804, and to...View Full Bio who died in New YorkLocated in northeast region of U.S. Area settled by Dutch traders, 1620s; later governed by Britain, 1664–1776. Admitted to U.S. as state, 1788. Population in 1810 about 1,000,000; in 1820 about 1,400,000; in 1830 about 1,900,000; and in 1840 about 2,400,...More Info1Alvin Smith died in Palmyra, New York, on 19 November 1823 at the age of twenty-five. (Morgan, Cemetery Records, Palmyra, Wayne, New York, 2; Joseph Smith Sr., “To the Public,” Wayne Sentinel [Palmyra, NY], 29 Sept. 1824, [3].)Comprehensive Works CitedMorgan, Sara, comp. Cemetery Records, Palmyra, Wayne, New York. Salt Lake City: Genealogical Society, 1945. Copy at FHL.Wayne Sentinel. Palmyra, NY. 1823–1852, 1860–1861. & my Youngest Brother Carloss [Don Carlos] Smith25 Mar. 1816–7 Aug. 1841. Farmer, printer, editor. Born at Norwich, Windsor Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Palmyra, Ontario Co., New York, 1816–Jan. 1817. Moved to Manchester, Ontario Co., 1825. Baptized into Church of Jesus...View Full Bio who died in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info2Don Carlos Smith died in Nauvoo, Illinois, on 7 August 1841 at the age of twenty-five. (“Death of General Don Carlos Smith,” Times and Seasons, 16 Aug. 1841, 2:503.)Comprehensive Works Cited Times and Seasons. Commerce/Nauvoo, IL. Nov. 1839–Feb. 1846. It has been hard for me to live on earth & see those young men upon whome we have leaned upon as a support & comfort taken from us in the midst of their youth, yes it has been hard to be reconciled to these things I have sometimes felt that I should have felt more reconciled to have been called myself if it could have been the will of God, yet I know we ought to be still & know it is of God3See Psalm 46:10; and Revelation, 16–17 Dec. 1833 [D&C 101:16]. & be reconciled all is right it will be but a short time before we shall all in like manner be called, It may be the case with me as well as you Some has supposed that Br Joseph could not die but this is a mistake it is true their has been times when I have had the promise of my life to accomplish such & such things, but having accomplish[ed] those things I have not at present any lease of my life & am as liable to die as other men4In a sermon delivered to the Female Relief Society of Nauvoo three weeks later, JS again candidly expressed sentiments about his own mortality. On a few prior occasions, JS suggested that his life was preserved so that he could accomplish the Lord’s work on earth. In November 1835, for example, JS told the Quorum of the Twelve Apostles, “I supposed I had established this church on a permanent foundation when I went to the Missourie and indeed I did so, for if I had been taken away it would have been enough, but I yet live, and therefore God requires more at my hands.” (Discourse, 28 Apr. 1842; JS, Journal, 12 Nov. 1835.) [p. [144]]
+
+  I can say in my heart that I have not done any thing against Ephraim Marks12 Feb. 1818–7 Apr. 1842. Son of William Marks and Rosannah R. Robinson. Died in Nauvoo, Hancock Co., Illinois.View Full Bio that I am sorry for & I would ask any of his Companions if they have done any thing against him that they are sorry for. or that they would not like to meet at the bar of God5See Book of Mormon, 1840 ed., 138, 570 [Jacob 6:13; Moroni 10:27]. if so let it prove as a warning to all men to deal justly before God & with all men then we shall be clear in the day of judgment When we loose a near & dear friend upon whom we have set our hearts we can never feel the same afterwards Knowing that if we set our hearts upon others they may in like manner be taken from us President Smith made many other interesting remarks[.] [p. [145]]
+
+---
+
+## Source Note
+
+On Saturday, 9 April 1842, JS delivered a discourse at the funeral of churchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary member Ephraim Marks12 Feb. 1818–7 Apr. 1842. Son of William Marks and Rosannah R. Robinson. Died in Nauvoo, Hancock Co., Illinois.View Full Bio. The son of William15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio and Rosannah Robinson Marks, twenty-four-year-old Ephraim died of an undisclosed cause two days earlier.1Woodruff, Journal, 9 Apr. 1842; Huntington, Cemetery Records, [1].Comprehensive Works Cited Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. On Saturday morning, mourners assembled at the home of William Marks in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, and made their way in a procession to a groveBefore partial completion of Nauvoo temple, all large meetings were held outdoors in groves located near east and west sides of temple site. Had portable stands for speakers. JS referred to area as “temple stand” due to its location on brow of hill.More Info of trees near the templeLocated in portion of Nauvoo known as the bluff. JS revelation dated Jan. 1841 commanded Saints to build temple and hotel (Nauvoo House). Cornerstone laid, 6 Apr. 1841. Saints volunteered labor, money, and other resources for temple construction. Construction...More Info for funeral and burial services.2JS, Journal, 9 Apr. 1842; Woodruff, Journal, 9 Apr. 1842; Lyman O. Littlefield, “Funeral of Ephraim Marks,” Wasp, 16 Apr. 1842, [4].Comprehensive Works Cited Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. The Wasp. Nauvoo, IL. Apr. 1842–Apr. 1843. In his sermon JS reflected on the untimely death of Ephraim Marks, as well as on the difficulty of losing his own brothers Alvin11 Feb. 1798–19 Nov. 1823. Farmer, carpenter. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; returned to Tunbridge, before May 1803. Moved to Royalton, Windsor Co., Vermont, 1804, and to...View Full Bio and Don Carlos Smith25 Mar. 1816–7 Aug. 1841. Farmer, printer, editor. Born at Norwich, Windsor Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Palmyra, Ontario Co., New York, 1816–Jan. 1817. Moved to Manchester, Ontario Co., 1825. Baptized into Church of Jesus...View Full Bio in their youth. JS also considered his own mortality, telling those gathered at the service that he, too, was “liable to die as other men” although his life had been spared on previous occasions so that he could “accomplish such & such things.” Wilford Woodruff1 Mar. 1807–2 Sept. 1898. Farmer, miller. Born at Farmington, Hartford Co., Connecticut. Son of Aphek Woodruff and Beulah Thompson. Moved to Richland, Oswego Co., New York, 1832. Baptized into Church of Jesus Christ of Latter-day Saints by Zera Pulsipher,...View Full Bio, who was in the audience, may have taken notes on the discourse when JS delivered this sermon or shortly thereafter. He later recorded portions of the discourse in his journal. That version is featured here. Woodruff’s text appears to be the earliest surviving version of the 9 April sermon, and it was later copied into JS’s 1838–1856 history.3JS History, vol. C-1 Addenda, 43–44. 7634840377031858806 Woodruff, Journal, 9 Apr. 1842; Huntington, Cemetery Records, [1]. 1 number Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. 6998070797462700439 JS, Journal, 9 Apr. 1842; Woodruff, Journal, 9 Apr. 1842; Lyman O. Littlefield, “Funeral of Ephraim Marks,” Wasp, 16 Apr. 1842, [4]. 2 number Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. The Wasp. Nauvoo, IL. Apr. 1842–Apr. 1843. 14157690326197972273 JS History, vol. C-1 Addenda, 43–44. 3 number
+
+---
+
+## Footnotes
+
+**[1]** Alvin Smith died in Palmyra, New York, on 19 November 1823 at the age of twenty-five. (Morgan, Cemetery Records, Palmyra, Wayne, New York, 2; Joseph Smith Sr., “To the Public,” Wayne Sentinel [Palmyra, NY], 29 Sept. 1824, [3].)
+**[2]** Don Carlos Smith died in Nauvoo, Illinois, on 7 August 1841 at the age of twenty-five. (“Death of General Don Carlos Smith,” Times and Seasons, 16 Aug. 1841, 2:503.)
+**[3]** See Psalm 46:10; and Revelation, 16–17 Dec. 1833 [D&C 101:16].
+**[4]** In a sermon delivered to the Female Relief Society of Nauvoo three weeks later, JS again candidly expressed sentiments about his own mortality. On a few prior occasions, JS suggested that his life was preserved so that he could accomplish the Lord’s work on earth. In November 1835, for example, JS told the Quorum of the Twelve Apostles, “I supposed I had established this church on a permanent foundation when I went to the Missourie and indeed I did so, for if I had been taken away it would have been enough, but I yet live, and therefore God requires more at my hands.” (Discourse, 28 Apr. 1842; JS, Journal, 12 Nov. 1835.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - discourse-28-april-1842]]
+- [[JSPP - discourse-7november-1841-as-reported-by-wilford-woodruff]]
+- [[JSPP - history-1838-1856-volume-c-1-addenda]]
+- [[JSPP - history-of-joseph-smith]]
+- [[JSPP - journal-1835-1836]]
+- [[JSPP - journal-december-1841-december-1842]]
+- [[JSPP - revelation-16-17-december-1833-dc-101]]
+- [[JSPP - william-d-huntington-cemetery-records-1839-1846]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

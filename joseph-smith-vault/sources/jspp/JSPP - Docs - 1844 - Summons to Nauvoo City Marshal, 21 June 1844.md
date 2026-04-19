@@ -1,0 +1,42 @@
+# JSPP — Summons to Nauvoo City Marshal, 21 June 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** June 21, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/summons-to-nauvoo-city-marshal-21-june-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+State of Illinois) sct City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info) The mayor to the Marshal3 Sept.…
+
+---
+
+## Full Transcript
+
+State of Illinois) sct City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info) The mayor to the Marshal3 Sept. 1793–10 Sept. 1844. Farmer, shoemaker, printer, publisher. Born at Herkimer, Herkimer Co., New York. Son of John Coddington Greene and Anna Chapman. Married first Rhoda Young, 11 Feb. 1813. Moved to Aurelius, Cayuga Co., New York, 1814; to Brownsville...View Full Bio of said CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, greeting You are hereby commanded to notify Hyrum Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio, W[illiam] W. Phelps17 Feb. 1792–7 Mar. 1872. Writer, teacher, printer, newspaper editor, publisher, postmaster, lawyer. Born at Hanover, Morris Co., New Jersey. Son of Enon Phelps and Mehitabel Goldsmith. Moved to Homer, Cortland Co., New York, 1800. Married Sally Waterman,...View Full Bio, Geo P. Stil[e]s18 July 1816–Sept. 1885. Attorney, judge, politician. Born in Watertown, Jefferson Co., New York. Son of John Stiles and Persis Cole. Moved to Le Ray, Jefferson Co., by 1820. Moved to Pamela, Jefferson Co., by 1830. Married first Julian Mackemer, 7 Nov. 1841...View Full Bio, Aaron Johnson22 June 1806–10 May 1877. Farmer, gunmaker. Born in Haddam, Middlesex Co., Connecticut. Son of Didymus Johnson and Ruhamah Stephens. Joined Methodist church, early 1820s. Married Polly Zeruah Kelsey, 13 Sept. 1827, in New Haven, New Haven Co., Connecticut...View Full Bio, John Taylor1 Nov. 1808–25 July 1887. Preacher, editor, publisher, politician. Born at Milnthorpe, Westmoreland, England. Son of James Taylor and Agnes Taylor, members of Church of England. Around age sixteen, joined Methodist church and was local preacher. Migrated ...View Full Bio, Phinehas [Phineas] Richards15 Nov. 1788–25 Nov. 1874. Cabinetmaker, joiner, carpenter, botanic physician. Born at Framingham, Middlesex Co., Massachusetts. Son of Joseph Richards and Rhoda Howe. Served as sergeant major during War of 1812. Married Wealthy Dewey, 24 Feb. 1818. Moved...View Full Bio, B[enjamin] Warrington1810–June 1850. Wheelwright. Born in New Jersey. Married Sarah Horner, 16 Jan. 1834, in Preble Co., Ohio. Owned lots in Somerville, Milford Township, Butler Co., Ohio, 1835–ca. 1838. Moved to Hancock Co., Illinois, by 1840. Appointed quartermaster sergeant...View Full Bio, E[dward] Hunter22 June 1793–16 Oct. 1883. Farmer, currier, surveyor, merchant. Born at Newtown Township, Delaware Co., Pennsylvania. Son of Edward Hunter and Hannah Maris. Volunteer cavalryman in Delaware Co. militia, 1822–1829. Served as Delaware Co. commissioner. Moved...View Full Bio, Levi Richards14 Apr. 1799–18 June 1876. Teacher, mechanic, inventor, physician. Born at Hopkinton, Middlesex Co., Massachusetts. Son of Joseph Richards and Rhoda Howe. Baptized into Church of Jesus Christ of Latter-day Saints, 31 Dec. 1836, in Kirtland, Geauga Co., Ohio...View Full Bio, Orson Spence[r]14 Mar./13 May 1802–15 Oct. 1855. Teacher, minister, university professor and chancellor. Born in West Stockbridge, Berkshire Co., Massachusetts. Son of Daniel Spencer and Chloe Wilson. Moved to Lenox, Berkshire Co., 1817; to Schenectady, Schenectady Co.,...View Full Bio, D[aniel] H Wells27 Oct. 1814–24 Mar. 1891. Farmer, teacher, ferry operator, lumber merchant, manager of nail factory, politician. Born in Trenton, Oneida Co., New York. Son of Daniel Wells and Catherine Chapin. Moved to Marietta, Washington Co., Ohio, ca. 1832. Moved to ...View Full Bio, Elias Smith6 Sept. 1804–24 June 1888. Teacher, printer, postmaster, bookkeeper, probate judge, newspaper editor. Born in Royalton, Windsor Co., Vermont. Son of Asahel Smith and Elizabeth Schellenger. Moved to Stockholm, St. Lawrence Co., New York, 1809. Baptized into...View Full Bio, G[eorge] W. Harris1 Apr. 1780–1857. Jeweler. Born at Lanesboro, Berkshire Co., Massachusetts. Son of James Harris and Diana (Margaret) Burton. Married first Elizabeth, ca. 1800. Married second Margaret, who died in 1828. Moved to Batavia, Genesee Co., New York, by 1830. Married...View Full Bio, Sam[u]el Bennet[t]Ca. 1810–May 1893. Market inspector, barometer manufacturer, physician. Born in England. Married Selina Campion, 9 Aug. 1836. Baptized into Church of Jesus Christ of Latter-day Saints, by 1839, in U.S. Ordained an elder, 23 Dec. 1839, in Philadelphia. Served...View Full Bio, Wm Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio, N[ewel] K. Whitney3/5 Feb. 1795–23 Sept. 1850. Trader, merchant. Born at Marlborough, Windham Co., Vermont. Son of Samuel Whitney and Susanna Kimball. Moved to Fairfield, Herkimer Co., New York, 1803. Merchant at Plattsburg, Clinton Co., New York, 1814. Mercantile clerk for...View Full Bio Gustavus Hills29 Jan. 1804–18 Oct. 1846. Music teacher, engraver, jeweler, newspaper editor, judge. Born in Chatham, Middlesex Co., Connecticut. Son of Lebbeus Hills and Mary Gibson. Married Elizabeth Mansfield, 25 Dec. 1827, in Middletown, Middlesex Co. Moved to Warren...View Full Bio, & Hiram Kimball31 May 1806–27 Apr. 1863. Merchant, iron foundry operator, mail carrier. Born in West Fairlee, Orange Co., Vermont. Son of Phineas Kimball and Abigail. Moved to Commerce (later Nauvoo), Hancock Co., Illinois, 1833, and established several stores. Married ...View Full Bio to be in session in city council at the council chamber, instanter. Her[e]of fail and not & make due return, In testim[ony]y wherof I have hereto set my Hand & Corporation seal at NauvoPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info aforesaid this 21. day of June 1844 2¼ o clock P. M. W[illard] Richards24 June 1804–11 Mar. 1854. Teacher, lecturer, doctor, clerk, printer, editor, postmaster. Born at Hopkinton, Middlesex Co., Massachusetts. Son of Joseph Richards and Rhoda Howe. Moved to Richmond, Berkshire Co., Massachusetts, 1813; to Chatham, Columbia Co...View Full Bio Recorder C. N. [p. [1]]
+
+  Notation in handwriting of John P. Greene.Jun 21— notified the within alderman & Counselers— fee $2.00 J[ohn] P Green3 Sept. 1793–10 Sept. 1844. Farmer, shoemaker, printer, publisher. Born at Herkimer, Herkimer Co., New York. Son of John Coddington Greene and Anna Chapman. Married first Rhoda Young, 11 Feb. 1813. Moved to Aurelius, Cayuga Co., New York, 1814; to Brownsville...View Full Bio C M Docket in handwriting of Thomas Bullock.June 21, 1844 Notification to City Council to meet [p. [2]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

@@ -1,0 +1,42 @@
+# JSPP — Bond from William Marks, 10 March 1842
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** March 10, 1842
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/bond-from-william-marks-10-march-1842/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+31<​Bond​> <​William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio to City of NauvooPrincipal gathering place…
+
+---
+
+## Full Transcript
+
+31<​Bond​> <​William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio to City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info For pt of E½ of N.E ¼ of the 6 Township to Range 8 W​>Know All Men By These Presents, I William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio of the city of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, in the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, am held and firmly bound unto city of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, in the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info in the sum of one thousand dollars, for the payment of which, well and Truly to be made I bind myself my heirs, executors and administrators, firmly by these presents.Now The Condition of The Above Obligation is such, That whereas, the said William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio hath this day sold unto the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info a certain Lot of ground, situated, lying and being in the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, and described as beginning at a stake fifteen Rods South of North East corner of a certain tract of Land owned by winslow Farr12 Jan. 1794–22 Aug. 1865. Farmer. Born in Chesterfield, Cheshire Co., New Hampshire. Son of Asahel Farr and Lydia Snow. Married Olive Hovey Freeman, 5 Dec. 1816, in Waterford, Caledonia Co., Vermont. Baptized into Church of Jesus Christ of Latter-day Saints...View Full Bio, and North West corner of Land owned by William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio and is in the East half of the North East quarter of section (7) seven Township six (6) Range Eight (8) west, thence South twenty five (25) Rods, thence East twenty seven (27) thence North Twenty five (25) Rods, thence West twenty seven (27) Rods, to the place of beginning Containing Four (4) acres and thirty five Rods and recieved in payment for said Lot, one Note of Hand bearing even date herewith, for the sum of one hundred and twenty six Dollars, & fifty six & one fourth Cents, payable upon the first day of April next. [p. 28]
+
+  Now if the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info shall well and truly pay or cause to be paid, the amount of said note according to the tenor and effect thereof, when due the said William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio Doth bind himself his heirs, executors and administrators, to make, or cause to be made, to the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info. a good and sufficient Deed for the above described lot upon or before the first day of May A.D (1845) one thousand eight hundred and forty five and then this bond shall become null and void, otherwise to remain in full force and virtue. Given under my hand and seal this tenth day of March in the year of our Lord one thousand eight hundred and forty two William Marks15 Nov. 1792–22 May 1872. Farmer, printer, publisher, postmaster. Born at Rutland, Rutland Co., Vermont. Son of Cornell (Cornwall) Marks and Sarah Goodrich. Married first Rosannah R. Robinson, 2 May 1813. Lived at Portage, Allegany Co., New York, where he...View Full Bio sealAcknowledged in Presence ofJames Sloan28 Oct. 1792–24 Oct. 1886. City recorder, notary public, attorney, judge, farmer. Born in Donaghmore, Co. Tyrone, Ireland. Son of Alexander Sloan and Anne. Married Mary Magill. Baptized into Church of Jesus Christ of Latter-day Saints. Ordained an elder, ...View Full Bio Recorded June 11th. 1842 [p. 29]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

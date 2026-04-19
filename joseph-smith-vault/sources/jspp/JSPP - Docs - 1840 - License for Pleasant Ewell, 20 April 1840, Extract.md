@@ -1,0 +1,42 @@
+# JSPP — License for Pleasant Ewell, 20 April 1840, Extract
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** April 20, 1840
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/license-for-pleasant-ewell-20-april-1840-extract/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+This may Certify that Pleasant EwellView Full Bio has been regularly ordainedThe conferral of power and authority; to appoint, decree, or set apart. Church members, primarily adults, were ordained to ecclesiastical offices and other responsibilities by the laying on of hands by those with the proper authority. Ordinations to priesthood...View…
+
+---
+
+## Full Transcript
+
+This may Certify that Pleasant EwellView Full Bio has been regularly ordainedThe conferral of power and authority; to appoint, decree, or set apart. Church members, primarily adults, were ordained to ecclesiastical offices and other responsibilities by the laying on of hands by those with the proper authority. Ordinations to priesthood...View Glossary an ElderA male leader in the church generally; an ecclesiastical and priesthood office or one holding that office; a proselytizing missionary. The Book of Mormon explained that elders ordained priests and teachers and administered “the flesh and blood of Christ unto...View Glossary according to the rules of the Church of Jesus of Latter day Saints and has received a Licence from under our hands this 20th Day of April AD 1840 Joseph Smith Jr Pres. H[yrum] Smith9 Feb. 1800–27 June 1844. Farmer, cooper. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Randolph, Orange Co., 1802; to Tunbridge, before May 1803; to Royalton, Windsor Co., Vermont, 1804; to Sharon, Windsor Co., by...View Full Bio Clerk Protem [p. 35]
+
+---
+
+## Source Note
+
+See Historical Introduction to License for Hosea Stout, 20 Apr. 1840.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - license-for-hosea-stout-20-april-1840]]
+- [[JSPP - license-record-book]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]
