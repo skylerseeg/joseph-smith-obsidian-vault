@@ -1,0 +1,47 @@
+# JSPP — References to the Book of Mormon, circa 1835
+
+**Tags:** #source/joseph-smith-papers #jspp/revelations #era/ohio
+**Date:** December 31, 1835
+**Series:** Revelations & Translations Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/references-to-the-book-of-mormon-circa-1835/1
+**Scraped:** 2026-04-18
+
+---
+
+## Summary
+
+REFERENCESto theBOOK OF MORMON.FIRST BOOK OF NEPHI.PageThe language of the book.5Lehi flees into the wilderness.9An angel appears to Laman and his brethren.11Nephi slais Laban13Sariah complains of Lehi’s visions14Contents of the brass plates15Ishmael and his family takes their journey17Nephi is bound by his brethren. . [17]Messiah or the prophet spoken of22Nephi’s…
+
+---
+
+## Full Transcript
+
+REFERENCESto theBOOK OF MORMON.FIRST BOOK OF NEPHI.PageThe language of the book.5Lehi flees into the wilderness.9An angel appears to Laman and his brethren.11Nephi slais Laban13Sariah complains of Lehi’s visions14Contents of the brass plates15Ishmael and his family takes their journey17Nephi is bound by his brethren. . [17]Messiah or the prophet spoken of22Nephi’s vision24The great abominable church28Columbus spoken of29Situation of the bible spoken of. . [29]The book of Mormon promised31The Holy Spirit promised to the faithful. . [31]Other books promised also. . [31]The book of Mormon and bible to be one32A promise to the Gentiles. . [32]Annihilation spoken against. . [32]The two churches spoken of33Nephi saw John the revelator34Lehi’s sons take wives39Lehi finds a brass ball or director. . [39]Nephi breaks his bow40The directors work by faith. . [40]Death of Ishmael41Lehi and Nephi threatened by Laman and others. . [41]Nephi threatened again by his brethren46They were about to worship Nephi47Jacob and Joseph born48They dance in the ship. . [48]They arrive to the land of promise49They make plates of ore50Zenos Neum and Zenock spoken of51Quotation from the bible52Messiah or the prophet spoken of58SECOND BOOK OF NEPHI.Liberty promised if faithful60Adam and Eve in innocence &c.65A prophet promised to the Lamanites68The death of Lehi69Nephi seperates from Laman71Nephi builds a temple72Laman and his seed cursed73Quotation from the bible75Darkness of prophecy103Crucifixion of Christ foretold104Christ the only true Messiah105Use of the law of Moses. . [105]Priestcraft condemned109A great and marvelous work foretold. . [109]State of the Gentiles in that day112Mercy yet for the Gentiles116Lamanites is to become a delightsome people117Doctrine of Christ spoken of118BOOK OF JACOB.Death of Nephi124More than one wife forbidden127Trees removed by faith130The Jews sought dark sayings. . [130]Parable of the olive tree131Sherem the antichrist140BOOK OF ENOS.Records threatened by the Lamanites144BOOK OF OMNI.Zarahemla discovered149Engravings on a stone150THE WORDS OF MORMON.False christs, false prophets &c.153BOOK OF MOSIAH.King Benjamin’s sermon156Coming of Christ foretold160Interpreters and 24 plates172Abinadi the prophet179Of the resurection189 [p. [i]]
+
+  Preaching of Alma192Daughters of the Lamanites stolen196The twenty four plates200The Nephites flee into the wilderness201Kings forbidden of the Lord203Threatened for praying206King Limhi is baptized.208Priests and teachers labor.212Alma beheld an angel.212Alma struck dumb.212The twenty four plates translated.216The records given to Alma.217Judges chosen by the people.220BOOK OF ALMA.Nehor the universalian.221Amlici the universalist.224Amlici is made a king225Two armies unite.226Amlici slain in battle.227March of the Lamanites.228The Lamanites come up to battle229Great pride in the Church.230Wonderful preaching by Alma.232A commandment to meet often.238Alma sees an angel.243Names of money.252Zeezrom trembles.254The priest-hood of Melchesedek.258The scriptures and people burned.262A great earthquake.264Zeezrom healed.265The Lamanites converted.265King Lamoni falls, being overcome by the Spirit.276Ammon and Lamoni met Lamoni’s father.280Account of Aaron and his brethren.282Lamoni’s father converted.285Lamoni’s father falls.286They take the name of Anti-Lehi-Nephi.290Death of Lamoni’s father.291They bury their swords.292Massacre of the Anti-Lehi-Nephi’s.293Ammon rebuked by Aaron,296Ammon falls upon the earth.300The Anti-Lehi-Nephi’s remove to Jershon.301Great mourning among the Nephites.302Korihor the Anti-Christ305Korihor struck dumb.309The Zoramites worship Idols.310 do do preach election.311Alma laid hands on his brethren.313 do description of faith.315Words of Zenos the prophet.317 do do Zenock do do318Alma’s knowledge of Christ.319 do instruction to Helaman.323The directors spoken of.328Alma’s instruction to Shiblon330 do do do Corianton.332The unpardonable sin spoken of.332The resurrection spoken of.334 do restoration do do.336Moroni’s speech to Zerahemnah.345The prophecy of a soldier.346 do do do Alma. do348Alma’s strange departure.349Persecution of the Church.350Moroni’s curious standard.350The wonderful plot of Amalickiah.354The two thousand young men.376Forts built by Moroni.358Amalickiah killed by Teancum.370The Lamanites made Drunk with wine.380Moroni’s stratagem.384do complaint to the chief Judge.395The Judges reply.398Teancum slain.404Death of Moroni.405A great emigration by water.405Ships built by Hagoth.406Death of Shiblon.406BOOK OF HELAMAN.Assassination of Pahoran the chief Judge.408Gadianton the robber.410Death of Kishkumen.411Dement houses built.412The Nephites became Lamanites.413A great addition to the church.414Death of Helaman.415Nephi confers the judgment seat to another.417Eight thousand Lamanites converted.419Nephi and Lehi cast into prison.419Assassination of Cezoram the chief Judge.428 [p. ii]
+
+  The chief Judge Murdered by his brother.431Nephi hears the voice of God.434 do taken up by the Spirit.435A famine in the land436The Gadianton band destroyed.437The famine removed.437The reappearance of the robbers.438The hearts of the people hardened.439The movement of the earth.440The prophecy of Samuel the Lamanite.441The wicked spared for the righteous’ sake.442The hiding of riches in the earth.443The people complain of their fathers.443The precepts of men received.444They cast stones at Samuel449BOOK OF NEPHI THE SON OF NEPHI.The strange departure of Nephi.452The sign of the birth of Christ.453They contend about the law of Moses.454The curse of the Lamanites taken off.456An epistle of Giddianhi to Lachoneus.457The Nephites gather into one place.459The death of Giddianhi the robber.461Zemnarihah hanged.462Destruction of the government.467The dead raised to life.469The crucifixion of Christ.470The three days of darkness.471The end of the law of Moses.474Christ appeared to the Nephites.476The manner of baptism.478The doctrine of Christ.478The end of the law of Moses.485Christ spake of other sheep.486A blessing to the Gentiles on conditions.487A promise to the Israelites.488Quotation from the bible.488Christ healed their sick.489Christ spake words that could not be written.489Jesus administers the sacrament.490The example of prayer.491A commandment to meet often.492Open meetings set forth.492Unworthy members forbidden the sacrament.492Names of the twelve disciples.493The twelve baptized.494Christ appeared the second time.494The twelve made white.495Christ breaks bread again.496A curse upon the Gentiles.497The New Jerusalem spoken of.497The coming in of the Jews.498Quotation from the bible.498A sign of the fulness of times.499Joseph the seer spoken of.500The New Jerusalem spoken of.500Quotation from the bible.501The prophecy of Malachi written.503Our faith tried by the book of Mormon.506The children’s tongues loosed.506Christ raised a man from the dead.506The had all things common.507Christ appeared the third time.507The name of the church.507The gospel of Christ.508A peculiar blessing on the twelve.509A great blessing upon the Gentiles.513They had all things common.514They were all Nephites.515The Lamanites arose again.516The three disciples cast into prison.517The Gadianton nrobbers again.517BOOK OF MORMON.Amaron hid up the records.518The three disciples taken from them.519Their treasures become slippery.520Mormon dug up the plates from the hill Shim.526Mormon hid up the records in the hill Cumorah.528The Nephites destroyed from off the land.536The language of the book.538BOOK OF ETHER.Jared and his brother driven out.540Restrictions of those who live on this land.541The barges built.542The sixteen stones were moulten.543The Interpreters given to the broth [p. iii]
+
+  er of Jared.545They arrive to the promised land.549The wickedness of the daughter of Jared.553The names of animals.556The poisenous serpents.557Moroni’s discourse upon faith.563The mountain removed.565The New Jerusalem spoken of.566The people of Jared destroyed.573BOOK OF MORONI.Moroni’s discourse upon faith, hope and charity.577Mormon’s epistle to Moroni on baptism.581Mormon’s second epistle.583Moroni’s exhortation.585 [p. iv]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - book-of-mormon-1830]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]
