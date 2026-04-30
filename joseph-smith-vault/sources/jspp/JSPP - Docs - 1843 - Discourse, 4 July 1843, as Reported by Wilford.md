@@ -1,0 +1,55 @@
+# JSPP — Discourse, 4 July 1843, as Reported by Wilford Woodruff
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** July 4, 1843
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/discourse-4-july-1843-as-reported-by-wilford-woodruff/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+If the people will give ear a momen[t] I will address them, with few words in my own defence as touching my arest. In the first place I will state to those that can hear me that I never spent more than six months in MissouriArea acquired by U.S. in…
+
+---
+
+## Full Transcript
+
+If the people will give ear a momen[t] I will address them, with few words in my own defence as touching my arest. In the first place I will state to those that can hear me that I never spent more than six months in MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info except while in prison, while I was there I was at work for the suppor[t] of my family, I never was a prisioner of war during my stay for I had not made war, I never took a pistol, a gun, or sword & the much that has been said on this subject is false I have been willing to go before any governor Judge or tribunal where justice could be done & have the subject investigated. I could not have committed treason in that StateArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info while there I had no controll any whare in temporal things while there but in spiritual I was driven from that stateArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info by force of arms under the exterminating order of Governor [Lilburn W.] Boggs14 Dec. 1796–14 Mar. 1860. Bookkeeper, bank cashier, merchant, Indian agent and trader, lawyer, doctor, postmaster, politician. Born at Lexington, Fayette Co., Kentucky. Son of John M. Boggs and Martha Oliver. Served in War of 1812. Moved to St. Louis, ca...View Full Bio.1Lilburn W. Boggs, Jefferson City, MO, to John B. Clark, Fayette, MO, 27 Oct. 1838, copy, Mormon War Papers, Missouri State Archives, Jefferson City. On 7 July 1843, JS dictated an affidavit that elaborated on his argument that because he was a spiritual leader without civil or military command, he could not have committed treason. In the same affidavit, JS described being pursued after he was allowed to escape by his guards in April 1839. (Affidavit, 7 July 1843.)Comprehensive Works CitedRecords of Governor Thomas Reynolds, 1840–1844. MSA. I have never commited treason the people know vary well I [p. [66]]
+
+  have Been a peaceable Citizen but their has been a great hugh & cry about Jo Smith Govornor Bogs14 Dec. 1796–14 Mar. 1860. Bookkeeper, bank cashier, merchant, Indian agent and trader, lawyer, doctor, postmaster, politician. Born at Lexington, Fayette Co., Kentucky. Son of John M. Boggs and Martha Oliver. Served in War of 1812. Moved to St. Louis, ca...View Full Bio being shot, No crime can be done but what it is laid to Jo Smith Here I was again dragged to the United StatesNorth American constitutional republic. Constitution ratified, 17 Sept. 1787. Population in 1805 about 6,000,000; in 1830 about 13,000,000; and in 1844 about 20,000,000. Louisiana Purchase, 1803, doubled size of U.S. Consisted of seventeen states at time ...More Info Court, & was cleared & now it comes again, But as often as God sees fit for me to suffer I am ready But I am as innocent of these crimes as the Angels in heaven. I am not an enemy to mankind I am a friend to Mankind. I <​am​> not an enemy to MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info nor any any governors or people As to the military station I hold & the cause of my holding it is as follows. When we came here the StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info required us to bear arms & do military duty according to law, & as the ChurchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary had just been driven from the State of MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info & rob[b]ed of all their property & arms they were poor & destitute of armes: they were liable to be fined for not doing duty when they had not arms to do it with, they came to me for advice I advised them to organize themselves into independant companies, & demand arms of the StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, this they did, Again their were many EldersA male leader in the church generally; an ecclesiastical and priesthood office or one holding that office; a proselytizing missionary. The Book of Mormon explained that elders ordained priests and teachers and administered “the flesh and blood of Christ unto...View Glossary having licenceA document certifying an individual’s office in the church and authorizing him “to perform the duty of his calling.” The “Articles and Covenants” of the church implied that only elders could issue licenses; individuals ordained by a priest to an office in...View Glossary to preach which by law exhonorated them from Military duty but the officers would not release them on this ground I then told the Saints that though I was clear from Military duty by law in consequence of lameness in one of my legs, yet I would set them the example & would do duty myself, they then said they were willing to do duty if they could be formed into an independant company & I could be at their head & upon this ground came the Nauvoo LegionA contingent of the Illinois state militia provided for in the Nauvoo city charter. The Nauvoo Legion was organized into two cohorts: one infantry and one cavalry. Each cohort could potentially comprise several thousand men and was overseen by a brigadier...View Glossary & I [p. [67]]
+
+  holding the office of Lieutenant General not that I seek for power. & with regard to elections some say we all vote together & vote as I say: But I never tell any man how to vote or who to vote for, But I will show you how we have been situated by bringing a comparison Should their be a Methodist society here & two candidates running for office: one says if you will vote for me & put me in govornor I will exterminate the Methodist take away their Charters &c. The other candidate says if I am Govornor I will give all an equal privilege, which would the Methodist vote for, of course they would vote in mass for the candidate that would give them their rights; thus it has Been with us Joseph Duncan22 Feb. 1794–15 Jan. 1844. Soldier, politician. Born at Paris, Bourbon Co., Kentucky. Son of Joseph Duncan and Anna Maria McLaughlin. Presbyterian. Served in War of 1812. Moved to Kaskaskia, Randolph Co., Illinois, 1818. Moved to Jackson Co., Illinois, by...View Full Bio said if the people would elect him he would exterminate the mormons & take away their charters As to Mr [Thomas] Ford5 Dec. 1800–3 Nov. 1850. Schoolteacher, newspaperman, lawyer, politician, judge, author. Born in Uniontown, Fayette Co., Pennsylvania. Son of Robert Ford and Elizabeth Logue Forquer. Moved to St. Louis, 1804; to New Design (later American Bottom), Randolph...View Full Bio he made no such threats, but manifested a spirit in his speaches to give every man their rights; hence the ChurchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary universally voted for Mr Ford5 Dec. 1800–3 Nov. 1850. Schoolteacher, newspaperman, lawyer, politician, judge, author. Born in Uniontown, Fayette Co., Pennsylvania. Son of Robert Ford and Elizabeth Logue Forquer. Moved to St. Louis, 1804; to New Design (later American Bottom), Randolph...View Full Bio & he was elected Govornor; But he has issued writs against me the first time the Missourians made a demand for me & this is the second one he has issued for me which has caused me much trouble & expense.2Woodruff at this point noted, “President Smith Also rehearsed the account of his being taken By [Joseph H.] Reynolds & [Harmon T.] Wilson & the unlawful treatment he received at their hands.” (Woodruff, Journal, 4 July 1843.)Comprehensive Works Cited Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. [p. [68]]
+
+---
+
+## Source Note
+
+See Historical Introduction to Discourse, 4 July 1843, as Reported by Willard Richards.
+
+---
+
+## Footnotes
+
+**[1]** Lilburn W. Boggs, Jefferson City, MO, to John B. Clark, Fayette, MO, 27 Oct. 1838, copy, Mormon War Papers, Missouri State Archives, Jefferson City. On 7 July 1843, JS dictated an affidavit that elaborated on his argument that because he was a spiritual leader without civil or military command, he could not have committed treason. In the same affidavit, JS described being pursued after he was allowed to escape by his guards in April 1839. (Affidavit, 7 July 1843.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - affidavit-7-july-1843-a]]
+- [[JSPP - discourse-17-january-1843-as-reported-by-wilford-woodruff]]
+- [[JSPP - discourse-4-july-1843-as-reported-by-willard-richards]]
+- [[JSPP - history-1838-1856-volume-e-1-1-july-1843-30-april-1844]]
+- [[JSPP - history-of-joseph-smith]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

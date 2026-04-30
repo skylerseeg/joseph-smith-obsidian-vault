@@ -1,0 +1,57 @@
+# JSPP — Revelation, circa 2 November 1831 [D&C 67]
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/ohio
+**Date:** November 2, 1831
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/revelation-circa-2-november-1831-dc-67/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+711John Whitmer assigned this number to the revelation when recording it in Revelation Book 1. Revelation given Nov 2nd. 1831 Behold & hearken oh ye EldersA male leader in the church generally; an ecclesiastical and priesthood office or one holding that office; a proselytizing missionary. The Book of Mormon explained…
+
+---
+
+## Full Transcript
+
+711John Whitmer assigned this number to the revelation when recording it in Revelation Book 1. Revelation given Nov 2nd. 1831 Behold & hearken oh ye EldersA male leader in the church generally; an ecclesiastical and priesthood office or one holding that office; a proselytizing missionary. The Book of Mormon explained that elders ordained priests and teachers and administered “the flesh and blood of Christ unto...View Glossary of my ChurchThe Book of Mormon related that when Christ set up his church in the Americas, “they which were baptized in the name of Jesus, were called the church of Christ.” The first name used to denote the church JS organized on 6 April 1830 was “the Church of Christ...View Glossary who have assembelled yourselves together whose prayers I have heard & whose hearts desires have come up before me behold & [p. 114]
+
+  Lo mine eyes are upon you & the heavens & the earth are in mine hands & the riches of eternity2See Revelation, 2 Jan. 1831 [D&C 38:39]; and Revelation, 1 Nov. 1831–A [D&C 68:31]. are mine to give[.] ye endeavour to believe that you ye should receive the blessing which was offered unto you but behold verily I say unto you there were fears in your hearts & verily this is the reason that ye did not receive3Although the “blessing” not received that is discussed here may refer to the efforts of some elders to obtain confirmation that JS’s revelations truly came from God, it may also refer to the promise given at the end of the revelation that individuals could see God by his Spirit. At a conference a week earlier, JS declared that “could we all come together with one heart and one mind in perfect faith the vail might as well be rent to day as next week or any other time.” (Minutes, 25–26 Oct. 1831.) & now I the Lord give unto you a testimony of the truth of those commandments which I are lying before you your eyes have been upon my Servent Joseph & his language you have known & his imperfections you have known & you have sought in your hearts knowlege that you might express beyond his language this you also know now seek ye out of the Book of commandments even the least that is among them & appoint him that is the most wise among you or if there be any among you that shall make one like unto it then ye are Justified in saying that ye do not know that is true but if you cannot make one like unto it ye are under condemnation if you ye do not bear that it is true for ye know that there is no unrighteousness in it & that which is righteous cometh down from above from the father of lights4See James 1:17. & again verily I say unto you that it is your privilege & a promise I give unto you that have been ordained unto the ministry that in as much as ye strip yourselves from Jealesies & fears & humble yourselves before me for ye are not sufficiently humble the veil shall not be wrent5See Revelation, 2 Jan. 1831 [D&C 38:8]. & you shall see me & know that I am6See Book of Mormon, 1830 ed., 479 [3 Nephi 12:1–2]; Revelation, 2 Jan. 1831 [D&C 38:8]; and Revelation, 9 May 1831 [D&C 50:45]. not with the carnal neither natural7When this revelation was published in the 1835 edition of the Doctrine and Covenants, the word “mind” was inserted here. (Doctrine and Covenants 25:3, 1835 ed.) but with the spiritual for no man hath seen God at any time in the flesh but by the Spirit of God8See John 1:18; and 1 John 4:12. neither can any natural man abide the presence of God9When JS revised the first chapters of Genesis in June 1830, he added an account of Moses talking to God “face to face.” According to the revision, after this encounter, Moses sees God not with his “own eyes” but through God’s “glory” resting on him and “transfiger[ing]” him. (Visions of Moses, June 1830 [Moses 1:11].) neither after the carnal mind ye are not to able to abide the presence of God now neither the ministering of Angels wherefore continue in patience untill ye are perfected let not your minds turn back & when ye are worthy in mine own due time ye shall see & know that which was confirmed <​upon you​> by the hands of my Ser[v]ant Joseph10“That which was confirmed upon you” may refer to the high priesthood. Of the ten conference participants listed in the minutes, seven had been ordained to the high priesthood and one was ordained at the 1–2 November conference. (Minutes, ca. 3–4 June 1831; Minute Book 2, 28 Aug. 1831; Minutes, 25–26 Oct. 1831; Minutes 1–2 Nov. 1831.) Amen [p. 115]
+
+---
+
+## Source Note
+
+At a 1–2 November 1831 conferenceA meeting where ecclesiastical officers and other church members could conduct church business. The “Articles and Covenants” of the church directed the elders to hold conferences to perform “Church business.” The first of these conferences was held on 9 June...View Glossary that discussed the publication of the Book of Commandments, JS “received” a “testimony of the witnesses to the book of the Lord’s commandmentsGenerally, a divine mandate that church members were expected to obey; more specifically, a text dictated by JS in the first-person voice of Deity that served to communicate knowledge and instruction to JS and his followers. Occasionally, other inspired texts...View Glossary.”1JS History, vol. A-1, 162. For additional information on this conference, see Minutes, 1–2 Nov. 1831. Several eldersA male leader in the church generally; an ecclesiastical and priesthood office or one holding that office; a proselytizing missionary. The Book of Mormon explained that elders ordained priests and teachers and administered “the flesh and blood of Christ unto...View Glossary signed the statement and, by so doing, testified that the Holy Ghost had “born record” that the revelations “are given by inspiration of God & are profitable for all men & are verily true.”2Testimony, ca. 2 Nov. 1831. At this same conference, JS dictated this revelation, which addressed the fact that some of the elders had not received such a spiritual conviction. That manifestation had not come, the revelation explained, because of “fears” in the hearts of the elders. The revelation also disclosed that some of the elders questioned the “imperfections” in the language JS used in the revelations, even though another revelation that emerged from the conference declared that the commandments were given to God’s “Servents in their weakness after the manner of their Language.”3Revelation, 1 Nov. 1831–B [D&C 1:24]. To dispel the hesitation to testify about the source of the revelations, this November revelation challenged the elders to write a revelation “like unto” those dictated by JS, emphasizing that if the elders failed, they would be justified in testifying to the world of the divine origin of JS’s revelations and condemned if they did not so testify. The original manuscript of this revelation is not extant, but John Whitmer27 Aug. 1802–11 July 1878. Farmer, stock raiser, newspaper editor. Born in Pennsylvania. Son of Peter Whitmer Sr. and Mary Musselman. Member of German Reformed Church, Fayette, Seneca Co., New York. Baptized by Oliver Cowdery, June 1829, most likely in Seneca...View Full Bio dated it 2 November when he copied it into Revelation Book 1, likely sometime before his departure for MissouriArea acquired by U.S. in Louisiana Purchase, 1803, and established as territory, 1812. Missouri Compromise, 1820, admitted Missouri as slave state, 1821. Population in 1830 about 140,000; in 1836 about 240,000; and in 1840 about 380,000. Latter-day Saint ...More Info on 20 November 1831.4See Historical Introduction to Revelation Book 1; Whitmer, History 38. Unlike the minutes for proceedings of the conference on 1 November, the minutes for 2 November do not specifically mention dictation of a revelation, leaving open the possibility that this revelation could be the one referred to in the 1 November minutes as coming after JS “asked the conference what testimony they were willing to attach to these commandments.” According to the minutes, several elders “arose and said that they were willing to testify to the world that they knew that they were of the Lord.” Thereafter, a revelation was “received relative to the same”—perhaps this revelation, despite its being dated 2 November.5Minutes, 1–2 Nov. 1831. A later JS history supports this possibility, stating that after the dictation of the preface to the Book of Commandments on 1 November, “some conversation was had concerning Revelations and language.” The history then presents this revelation as following that conversation.6JS History, vol. A-1, 161. Although this is a plausible scenario for the production of the revelation, it does not explain why Whitmer then dated the document 2 November.7It is possible that Whitmer simply made an error in dating the document—either because he copied the revelation into Revelation Book 1 on 2 November or because he remembered the date of its dictation incorrectly. It is also possible that the JS history is referencing a different revelation. Whatever the case, it is clear that the revelation—addressed to “ye Elders of my Church who have assembelled yourselves together”—was dictated sometime during the 1–2 November conference. 18027233180330219192 JS History, vol. A-1, 162. For additional information on this conference, see Minutes, 1–2 Nov. 1831. 1 number 5907569194467859003 Testimony, ca. 2 Nov. 1831. 2 number 5665737941488458761 Revelation, 1 Nov. 1831–B [D&C 1:24]. 3 number 2978483007635934863 See Historical Introduction to Revelation Book 1; Whitmer, History 38. 4 number 3459651197993802379 Minutes, 1–2 Nov. 1831. 5 number 7457224975712884422 JS History, vol. A-1, 161. 6 number 4211011387507269098 It is possible that Whitmer simply made an error in dating the document—either because he copied the revelation into Revelation Book 1 on 2 November or because he remembered the date of its dictation incorrectly. It is also possible that the JS history is referencing a different revelation. 7 number
+
+---
+
+## Footnotes
+
+**[1]** John Whitmer assigned this number to the revelation when recording it in Revelation Book 1.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - book-of-commandments-1833]]
+- [[JSPP - doctrine-and-covenants-1835]]
+- [[JSPP - doctrine-and-covenants-1844]]
+- [[JSPP - history-1838-1856-volume-a-1-23-december-1805-30-august-1834]]
+- [[JSPP - history-of-joseph-smith]]
+- [[JSPP - minutes-1-2-november-1831]]
+- [[JSPP - revelation-1-november-1831-b-dc-1]]
+- [[JSPP - revelation-book-1]]
+- [[JSPP - testimony-circa-2-november-1831]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

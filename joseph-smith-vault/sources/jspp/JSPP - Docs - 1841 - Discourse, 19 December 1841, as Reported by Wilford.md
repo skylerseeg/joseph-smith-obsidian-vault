@@ -1,0 +1,54 @@
+# JSPP — Discourse, 19 December 1841, as Reported by Wilford Woodruff
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** December 19, 1841
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/discourse-19-december-1841-as-reported-by-wilford-woodruff/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+Joseph the Seer arose & read a chapter in the New Testiment containing the parable of the vine & its branches1See John 15:1–8. & explained it much to our edification & said “if we kept the commandments of God we should bring forth fruit & be the friends of God…
+
+---
+
+## Full Transcript
+
+Joseph the Seer arose & read a chapter in the New Testiment containing the parable of the vine & its branches1See John 15:1–8. & explained it much to our edification & said “if we kept the commandments of God we should bring forth fruit & be the friends of God & know what our Lord did,2At this point the Book of Revelations version includes the following line: “& he would reveal his secrets unto us but his servent knew not what his Lord doeth.” (Woodruff, “Book of Revelations,” [2]–[3].)Comprehensive Works CitedWoodruff, Wilford. “Book of Revelations,” ca. 1837–1860. CHL. “Some say Joseph is a fallen Prophet because he does not bring forth more of the word of the Lord” “Why does he not do it” are we able to receive it No (says he) not one in this room, He then chastized us for our wickedness & unbelief knowing that whom the Lord loveth he chasteneth & scourgeth evry son & daughter whom He receiveth & if we do not receive chastizements then are we Bastards & not Sons.3See Hebrews 12:6–8. On Revelation He said “A man would command his son to dig potatoes, saddle his horse but before he had done either tell him to do somthing els, this is all consider[ed] right “But as soon as the Lord gives a commandment & revokes that decree & commands somthing els then the prophet is considerd fallen &c” Because we will not receive chastizment at the hand of the Prophet & ApostlesMembers of a governing body in the church, with special administrative and proselytizing responsibilities. A June 1829 revelation commanded Oliver Cowdery and David Whitmer to call twelve disciples, similar to the twelve apostles in the New Testament and ...View Glossary the Lord chastizeth us with sickness & death “Let not any man publish his own righteousness for others can do that for him.” sooner let him confess his sins & then he will be forgiven & he will bring forth more fruit [p. [115]]
+
+  when A man is chastized he gets angry & will not endure it. The reason we do not have the secrets of the Lord revealed unto us is because we do not keep them but reveal them, 4The material from this point to “He spoke of love” is not included in the Book of Revelations version. (See Woodruff, “Book of Revelations,” [3].)Comprehensive Works CitedWoodruff, Wilford. “Book of Revelations,” ca. 1837–1860. CHL.we do not keep our own secrets but reveal our difficulties to the world even to our enemies then how would we keep the secrets of the Lord Joseph says I can keep a secret till dooms day He spoke of love what greater love hath any man than that he lay down his life for his friend5See John 15:13. then why not fight for our friend untill we die & many other things of interest was spoken. [p. [116]]
+
+---
+
+## Source Note
+
+On the evening of Sunday, 19 December 1841, JS delivered a discourse at his home in NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, on revelation and several other subjects. ApostleMembers of a governing body in the church, with special administrative and proselytizing responsibilities. A June 1829 revelation commanded Oliver Cowdery and David Whitmer to call twelve disciples, similar to the twelve apostles in the New Testament and ...View Glossary Wilford Woodruff1 Mar. 1807–2 Sept. 1898. Farmer, miller. Born at Farmington, Hartford Co., Connecticut. Son of Aphek Woodruff and Beulah Thompson. Moved to Richland, Oswego Co., New York, 1832. Baptized into Church of Jesus Christ of Latter-day Saints by Zera Pulsipher,...View Full Bio, who was present on the occasion, recorded summaries and excerpts of JS’s teachings in his journal. Though Woodruff did not comment on the length of JS’s discourse, he noted that JS spoke after sermons by Heber C. Kimball14 June 1801–22 June 1868. Blacksmith, potter. Born at Sheldon, Franklin Co., Vermont. Son of Solomon Farnham Kimball and Anna Spaulding. Married Vilate Murray, 22 Nov. 1822, at Mendon, Monroe Co., New York. Member of Baptist church at Mendon, 1831. Baptized...View Full Bio and Sidney RobertsView Full Bio1Roberts was a church member living on the bluff near the Nauvoo temple construction site, having moved to Nauvoo in fall 1841. He was a blacksmith, carpenter, and wagonmaker with a shop on Water and Bain streets. (Nauvoo, IL, Tax List, 1842, p. 232, microfilm 7,706, U.S. and Canada Record Collection, FHL; Woodruff, Journal, 29 Sept. 1841; Pioneer Women of Faith and Fortitude, 3:2613; Miller, Westward Migration of the Mormons with Special Emphasis on the History of Nauvoo, 307, 325; Advertisement, Nauvoo Neighbor, 8 Nov. 1843, [4].)Comprehensive Works CitedU.S. and Canada Record Collection. FHL. Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. Pioneer Women of Faith and Fortitude. 4 vols. Salt Lake City: Daughters of Utah Pioneers, 1998. Miller, David E. Westward Migration of the Mormons with Special Emphasis on the History of Nauvoo. Salt Lake City: University of Utah, 1963. Nauvoo Neighbor. Nauvoo, IL. 1843–1845. and that JS was followed by Brigham Young1 June 1801–29 Aug. 1877. Carpenter, painter, glazier, colonizer. Born at Whitingham, Windham Co., Vermont. Son of John Young and Abigail (Nabby) Howe. Brought up in Methodist household; later joined Methodist church. Moved to Sherburne, Chenango Co., New...View Full Bio, who briefly commented on the importance of building a templeLocated in portion of Nauvoo known as the bluff. JS revelation dated Jan. 1841 commanded Saints to build temple and hotel (Nauvoo House). Cornerstone laid, 6 Apr. 1841. Saints volunteered labor, money, and other resources for temple construction. Construction...More Info in Nauvoo.2Woodruff, Journal, 19 Dec. 1841.Comprehensive Works Cited Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. According to Woodruff1 Mar. 1807–2 Sept. 1898. Farmer, miller. Born at Farmington, Hartford Co., Connecticut. Son of Aphek Woodruff and Beulah Thompson. Moved to Richland, Oswego Co., New York, 1832. Baptized into Church of Jesus Christ of Latter-day Saints by Zera Pulsipher,...View Full Bio, JS read and explained the parable of the vine in John chapter 15 and then addressed a variety of other topics, most notably revelation, chastisement, and instruction from God. JS was apparently responding to the concern of some church members that he was a fallen prophet either because he delivered revelation less frequently than in times past or because he provided revelation containing direction that differed from earlier revealed instruction. JS may have been countering these criticisms by teaching the need for continuing revelation and for humility in accepting chastisement and new direction from God. JS also addressed the importance of being able to keep secrets and spoke about love. Woodruff1 Mar. 1807–2 Sept. 1898. Farmer, miller. Born at Farmington, Hartford Co., Connecticut. Son of Aphek Woodruff and Beulah Thompson. Moved to Richland, Oswego Co., New York, 1832. Baptized into Church of Jesus Christ of Latter-day Saints by Zera Pulsipher,...View Full Bio mainly paraphrased the content of the sermon, but he enclosed various phrases within quotation marks, indicating his attempt to capture some of JS’s exact words. Woodruff also recorded an account of this discourse in his “Book of Revelations,” likely around the same time.3Woodruff, “Book of Revelations,” [2]–[3].Comprehensive Works CitedWoodruff, Wilford. “Book of Revelations,” ca. 1837–1860. CHL. It is possible that both texts were copied from earlier notes he made on the occasion. However, the expanded version from his journal, featured here, likely served as the original source for the more abbreviated version in his Book of Revelations. The two instances of significant textual difference are identified in footnotes below. 11826764930167897087 Roberts was a church member living on the bluff near the Nauvoo temple construction site, having moved to Nauvoo in fall 1841. He was a blacksmith, carpenter, and wagonmaker with a shop on Water and Bain streets. (Nauvoo, IL, Tax List, 1842, p. 232, microfilm 7,706, U.S. and Canada Record Collection, FHL; Woodruff, Journal, 29 Sept. 1841; Pioneer Women of Faith and Fortitude, 3:2613; Miller, Westward Migration of the Mormons with Special Emphasis on the History of Nauvoo, 307, 325; Advertisement, Nauvoo Neighbor, 8 Nov. 1843, [4].) 1 number U.S. and Canada Record Collection. FHL. Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. Pioneer Women of Faith and Fortitude. 4 vols. Salt Lake City: Daughters of Utah Pioneers, 1998. Miller, David E. Westward Migration of the Mormons with Special Emphasis on the History of Nauvoo. Salt Lake City: University of Utah, 1963. Nauvoo Neighbor. Nauvoo, IL. 1843–1845. 2509587195438968740 Woodruff, Journal, 19 Dec. 1841. 2 number Woodruff, Wilford. Journals, 1833–1898. Wilford Woodruff, Journals and Papers, 1828–1898. CHL. MS 1352. 5538365752633585790 Woodruff, “Book of Revelations,” [2]–[3]. 3 number Woodruff, Wilford. “Book of Revelations,” ca. 1837–1860. CHL.
+
+---
+
+## Footnotes
+
+**[1]** See John 15:1–8.
+**[2]** At this point the Book of Revelations version includes the following line: “& he would reveal his secrets unto us but his servent knew not what his Lord doeth.” (Woodruff, “Book of Revelations,” [2]–[3].)
+**[3]** See Hebrews 12:6–8.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - discourse-19-december-1841-as-recorded-in-woodruff-book-of-revelations]]
+- [[JSPP - discourse-7november-1841-as-reported-by-wilford-woodruff]]
+- [[JSPP - history-1838-1856-volume-c-1-addenda]]
+- [[JSPP - history-of-joseph-smith]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

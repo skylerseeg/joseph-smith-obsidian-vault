@@ -1,0 +1,52 @@
+# JSPP — Deed to Charity Cole Stoddard, 1 February 1842
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** February 1, 1842
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/deed-to-charity-cole-stoddard-1-february-1842/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+42 <​Joseph Smith to Charity [Cole] Stoddard For 1/2 of s 1/2 L 1 in B 126 of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City,…
+
+---
+
+## Full Transcript
+
+42 <​Joseph Smith to Charity [Cole] Stoddard For 1/2 of s 1/2 L 1 in B 126 of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info​>1TEXT: Insertion in left margin. This Indenture made, and entered into, this First day of February in the year of our Lord one thousand eight hundred and forty two between Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife, of the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, of the one part, and Charity Stoddard of the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid, of the other part, Witnesseth, that the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife, for and in consideration of the sum of one hundred and fifty Dollars, to them in hand paid, the receipt whereof is hereby acknowledged, do hereby grant, bargain, sell, convey, and confirm unto the said Charity Stoddard her heirs and assigns forever, all that tract or parcel of Land, situate and being in the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info in the state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, viz: the equal undivided half of South half of lot No. one in Block No. one hundred and twenty six in said CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info as recorded on the plat of the Town of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info. Together with all and singular the appurtenances thereunto belonging, or in anywise appertaining. To Have and To Hold the above described premises unto the said Chirity Stoddard her heirs and assigns forever. And the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife, their heirs and assigns, the aforesaid premises, unto the said Charity Stoddard her heirs and assigns, against the claim or claims of all and every person whomsoever, do and will Warrant and forever defend by these presents. In Testimony Whereof, the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife of the first part, have hereunto set their hands and seals, the day and year above written. Joseph Smith L. S.2TEXT: “L. S.” enclosed in a hand-drawn representation of a seal. Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio L. S.3TEXT: “L. S.” enclosed in a hand-drawn representation of a seal. Signed sealed delivered in presence of Samuel H Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio State of Illinois) ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I Samuel H Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio a Justice of the Peace of Nauvoo CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, do certify, that Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife, whose signatures appear to the foregoing deed, and who are personally known to me to be the persons described in, and who executed the same, did severally acknowledge that they had executed the said conveyance, for the uses and purposes therein mentioned, and the said Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio haveing been by me made acquainted with the Contents of the said Deed, and examined separate and apart from her said husband acknowledged that she had executed the same, and relinquished her dower to the premises therein conveyed, voluntarily, freely, and without compulsion of her said husband. Given under my hand and seal, this eighth day of February in the year of our Lord, one thousand eight hundred and forty two. Samuel H. Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio J. P. L. S.4TEXT: “L. S.” enclosed in a hand-drawn representation of a seal. of Nauvoo CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info Recorded July 14th. 1842 [p. 37]
+
+---
+
+## Source Note
+
+See Historical Introduction to Deed, Samuel and Sabrina Davenport Canfield, to Emma Smith, 1 Oct. 1836.
+
+---
+
+## Footnotes
+
+**[1]** TEXT: Insertion in left margin.
+**[2]** TEXT: “L. S.” enclosed in a hand-drawn representation of a seal.
+**[3]** TEXT: “L. S.” enclosed in a hand-drawn representation of a seal.
+**[4]** TEXT: “L. S.” enclosed in a hand-drawn representation of a seal.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - deed-samuel-and-sabrina-davenport-canfield-to-emma-smith-1-october-1836]]
+- [[JSPP - deed-to-charity-cole-stoddard-1-february-1842-as-recorded-in-hancock-county-deeds]]
+- [[JSPP - nauvoo-registry-of-deeds-deed-record-book-a-1840-1843]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

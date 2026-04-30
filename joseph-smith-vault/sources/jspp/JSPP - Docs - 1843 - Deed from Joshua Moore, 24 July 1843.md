@@ -1,0 +1,43 @@
+# JSPP — Deed from Joshua Moore, 24 July 1843
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** July 24, 1843
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/deed-from-joshua-moore-24-july-1843/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+5776 J. J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor,…
+
+---
+
+## Full Transcript
+
+5776 J. J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio To J. Smith Trus. Recorded 6th Novr 1843 This Indenture Made, and entered into, this twenty fourth day of July in the year of our Lord, one thousand eight hundred and forty-three between Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio of the City of PhiladelphiaPort city founded as Quaker settlement by William Penn, 1681. Site of signing of Declaration of Independence and drafting of U.S. Constitution. Nation’s capital city, 1790–1800. Population in 1830 about 170,000; in 1840 about 260,000; and in 1850 about 410...More Info and State of Pa.Area first settled by Swedish immigrants, 1628. William Penn received grant for territory from King Charles II, 1681, and established British settlement, 1682. Philadelphia was center of government for original thirteen U.S. colonies from time of Revolutionary...More Info of the first part and Joseph Smith, as sole Trustee in Trust, for the Church of Jesus Christ of Latter Day Saints, of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info, of the second part. Witnesseth, that the said Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio, party of the first part, for and in consideration of the love and good will he bears to the Church of Jesus Christ of Latter Day Saints, of which the said Joseph Smith, party of the second part, is sole Trustee in Trust, and also for the sum of one dollar, to him hand paid, the receipt whereof is hereby acknowledged, do hereby grant, bargain, sell, convey, and confirm unto the said Joseph Smith, as sole Trustee in Trust for the Church of Jesus Christ of Latter Day Saints, party of the second part, his successors in office and assigns forever, all that tract or parcel of land, situate and being in the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info in the State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info known and described as follows, to wit, the North East quarter of Section number thirty three in Township number Seven North of Range number Eight West of the fourth principal meridian together with all and singular the appurtenances thereunto belonging, or in any wise appertaining. To Have and To Hold the above described premises unto the said Joseph Smith party of the second part, his successors in office and assigns forever. And the said Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio, party of the first part, his heirs and assigns the aforesaid premises, unto the said Joseph Smith, as sole Trustee in Trust &c. party of the second part, his successors in office and assigns against the claim or claims of all and every person whomsoever, do and will warrant and forever defend by these presents. In testimony, Whereof, the said Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio party of the first part, hath hereunto set his hand and seal the day and year above written. Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio (ss.) (L. S.) Signed sealed and delivered in presence of E[benezer] Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio) State of Illinois) ss. Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I Ebenezar Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio a Justice of the Peace in and for the said CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, do Certify, that Joshua J. MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio whose signature appears to the foregoing deed, and who is personally known to me to be the person described in, and who executed the same did acknowledge that he had executed the said conveyance [p. 9]
+
+  for the uses and purposes therein mentioned. Given under my hand and seal, this twenty fourth day of July in the year of our Lord one thousand eight hundred and forty three. E. Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio. J. P. (L.S) N.E. 33. 7 N. 8 W.1TEXT: Inserted in left margin on p. 9. Fees 0.952TEXT: Inserted in left margin. [p. 10]
+
+---
+
+## Source Note
+
+See Historical Introduction to Letter to Alfred Randall and Others, 15 Mar. 1844.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - letter-to-alfred-randall-and-others-15-march-1844]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

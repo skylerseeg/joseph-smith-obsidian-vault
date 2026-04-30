@@ -1,0 +1,50 @@
+# JSPP — Deed from Horace and Betsy Ann Chase Eldredge, 31 January 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** January 31, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/deed-from-horace-and-betsy-ann-chase-eldredge-31-january-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+No 294 Horace S Eldredge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio to City of NauvooPrincipal gathering…
+
+---
+
+## Full Transcript
+
+No 294 Horace S Eldredge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio to City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info p[ar]t L[ot] 4 B[lock] 151 of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info1TEXT: The recorder added this notation to the left margin when copying the deed into the deed record. This Indenture, made and entered into, this thirty first day of January in the year of our Lord, one thousand eight hundred and forty four between Horace S. Eldridge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio and Betsey Ann [Betsy Ann Chase Eldredge]View Full Bio his wife, of the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, and State of Illinois, of the one part, and the city of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info of the county of Hancock and State aforesaid, of the other part, Witnesseth, that the said Horace S. Eldridge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio and Betsey AnnView Full Bio his wife, for and in consideration of the sum of one dollar, to them in hand paid, the receipt whereof is hereby acknowledged, do hereby grant, bargain, sell, convey and confirm unto the said city of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info forever, all that tract or parcel of land, situate and being in the county of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, in the State of Illinois: viz: commencing sixty six feet South of the N.E. [northeast] corner of Lot four (4) in block one hundred and fifty one (151) thence N 72 Deg[rees] W[est] 12 Rods 20½ links to a post, thence South 64 feet, thence South 72 Deg. E. 12 R 20½ Links, thence North 64 feet to the place of begining, Together with all and singular the appurtenances thereunto belonging, or in any wise appertaining. To have and to hold the above described premises unto the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info for a publick Street forever. And the said Horace S. Eldridge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio and Betsey AnnView Full Bio his wife, their heirs and assigns, the aforesaid premises, unto the said City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, against the claim or claims of all and every person whomsoever, do and will warrant and forever defend by these presents. In testimony whereof the said Horace S. Eldridge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio and Betsey AnnView Full Bio his wife of the first part, have hereunto set their hands and seals, the day and year first above written. Horace S. Eldredge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio L. S.2TEXT: Instances of “L. S.” (locus sigilli, Latin for “location of the seal”) are enclosed in hand-drawn representations of seals. Betsey Ann EldredgeView Full Bio L. S. Signed sealed and delivered) in presence of Aaron Johnson22 June 1806–10 May 1877. Farmer, gunmaker. Born in Haddam, Middlesex Co., Connecticut. Son of Didymus Johnson and Ruhamah Stephens. Joined Methodist church, early 1820s. Married Polly Zeruah Kelsey, 13 Sept. 1827, in New Haven, New Haven Co., Connecticut...View Full Bio) State of Illinois, Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info, sc[ilice]t. I Aaron Johnson22 June 1806–10 May 1877. Farmer, gunmaker. Born in Haddam, Middlesex Co., Connecticut. Son of Didymus Johnson and Ruhamah Stephens. Joined Methodist church, early 1820s. Married Polly Zeruah Kelsey, 13 Sept. 1827, in New Haven, New Haven Co., Connecticut...View Full Bio a Justice of the Peace, in and for the said County, do certify that Horace S. Eldredge6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio and Betsey AnnView Full Bio his wife, whose signatures appear to the foregoing Deed, and who are personally known to me to be the persons described in, and who executed the same, did severally acknowledge that they had executed the said conveyance, for the uses and purposes therein mentioned. And the said Betsey Ann EldredgeView Full Bio having been by me made acquainted with the contents of the said Deed, and examined separate and apart from her said husband, acknowledged that [p. 68]
+
+  she had executed the same, and relinquished her dower to the premises therein conveyed, voluntarily, freely, and without compulsion of her said husband6 Feb. 1816–6 Sept. 1888. Constable, farmer, military officer, merchant, banker, business executive. Born in Brutus, Cayuga Co., New York. Son of Alanson Eldredge and Esther Sunderlin. Joined Baptist church, ca. 1832. Baptized into Church of Jesus Christ ...View Full Bio. In testimony whereof I have hereunto set my hand and seal this thirty first day of January in the year of our Lord one thousand eight hundred and forty four. Aaron Johnson22 June 1806–10 May 1877. Farmer, gunmaker. Born in Haddam, Middlesex Co., Connecticut. Son of Didymus Johnson and Ruhamah Stephens. Joined Methodist church, early 1820s. Married Polly Zeruah Kelsey, 13 Sept. 1827, in New Haven, New Haven Co., Connecticut...View Full Bio J. P. L. S. Fees 85 cts Recorded Feby 1st. 18443TEXT: The recorder added these notations to the left margin while copying the deed into the deed record. [p. 69]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Footnotes
+
+**[1]** TEXT: The recorder added this notation to the left margin when copying the deed into the deed record.
+**[2]** TEXT: Instances of “L. S.” (locus sigilli, Latin for “location of the seal”) are enclosed in hand-drawn representations of seals.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - nauvoo-registry-of-deeds-deed-record-book-b-1843-1846]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

@@ -1,0 +1,47 @@
+# JSPP — Deed to Elmira Pond Miller, 15 February 1842
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** February 15, 1842
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/deed-to-elmira-pond-miller-15-february-1842/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+<​8141​> <​J. Smith to E[lmira Pond] MillerView Full Bio​> <​Recorded May 11th 1846​>1TEXT: Insertions in left margin. This Indenture made and entered into this fifteenth day of February in the year of our Lord One thousand Eight hundred and forty two between Joseph Smith and Emma Smith10 July 1804–30 Apr.…
+
+---
+
+## Full Transcript
+
+<​8141​> <​J. Smith to E[lmira Pond] MillerView Full Bio​> <​Recorded May 11th 1846​>1TEXT: Insertions in left margin. This Indenture made and entered into this fifteenth day of February in the year of our Lord One thousand Eight hundred and forty two between Joseph Smith and Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info of the one part and Elmira MillerView Full Bio of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid of the other part Witnesseth that the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife for and in consideration of the sum of four hundred Dollars to them in hand paid the receipt whereof is hereby acknowledged do hereby grant bargain sell convey and confirm unto the said Elmira MillerView Full Bio her heirs and assigns forever all that tract of parcel of land situate and being in the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info in the state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info Viz Known and discribed as three quarters of lot No four on the east side running north and south in block One hundred and forty one as laid down on the plat of the city of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info Together with all and singular the appurtenances thereunto belonging or in anywise appertaining To Have and to Hold the above discribed premises unto the said Elmira MillerView Full Bio her heirs and assigns forever And the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife their heirs and assigns the aforesaid premises unto the said Elmira MillerView Full Bio her heirs and assigns against the Claim or claims of all and every person whomsoever do and will warrant and forever defend by these presents In testimony whereof the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife of the first part have hereunto set their hands and seals the day and year above written Joseph Smith (LS) Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio (LS) signed sealed and delivered in presence of V[inson] Knight14 Mar. 1804–31 July 1842. Farmer, druggist, school warden. Born at Norwich, Hampshire Co., Massachusetts. Son of Rudolphus Knight and Rispah (Rizpah) Lee. Married Martha McBride, July 1826. Moved to Perrysburg, Cattaraugus Co., New York, by 1830. Owned farm...View Full Bio Samuel H Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio State of Illinois) ss Hancock County City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info) I Samuel H Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio a Justice of the peace do certify that Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife whose— signatures appear to the foregoing deed and who are personally known to me to be the persons discribed in and who executed the same did severally acknowledge that they had executed the said conveyance for the uses and purposes therein mentioned And the said Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio having been by me made acquainted with the contents of the said deed and examined separate and apart from her said husband acknowledged that she had— executed the same and relinquished her dower to the premises therein conveyed Voluntarily freely and without compulsion of her said husband Given under my hand and seal this fifteenth day of February in the year of our Lord one thousand eight hundred and forty two Samuel H. Smith13 Mar. 1808–30 July 1844. Farmer, logger, scribe, builder, tavern operator. Born at Tunbridge, Orange Co., Vermont. Son of Joseph Smith Sr. and Lucy Mack. Moved to Royalton, Windsor Co., Vermont, by Mar. 1810; to Lebanon, Grafton Co., New Hampshire, 1811...View Full Bio for Nauvoo CityPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info [p. 111]
+
+---
+
+## Source Note
+
+See Historical Introduction to Deed, Samuel and Sabrina Davenport Canfield, to Emma Smith, 1 Oct. 1836.
+
+---
+
+## Footnotes
+
+**[1]** TEXT: Insertions in left margin.
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - deed-samuel-and-sabrina-davenport-canfield-to-emma-smith-1-october-1836]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

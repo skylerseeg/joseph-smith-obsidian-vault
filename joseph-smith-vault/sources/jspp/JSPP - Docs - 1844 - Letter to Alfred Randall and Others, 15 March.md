@@ -1,0 +1,57 @@
+# JSPP — Letter to Alfred Randall and Others, 15 March 1844
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** March 15, 1844
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/letter-to-alfred-randall-and-others-15-march-1844/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+To Brothers Wm [illegible],1TEXT: Page torn. Randle [Alfred Randall]View Full Bio, Clark and Mr [James] Davis8 Aug. 1801–1 Aug. 1847. Born in La Prairie, Lower Canada. Son of Experience Davis and Rhoda Darrow. Married Roxana Davis, 16 Jan. 1831, in Geauga Co., Ohio. Baptized into Church of Jesus Christ of…
+
+---
+
+## Full Transcript
+
+To Brothers Wm [illegible],1TEXT: Page torn. Randle [Alfred Randall]View Full Bio, Clark and Mr [James] Davis8 Aug. 1801–1 Aug. 1847. Born in La Prairie, Lower Canada. Son of Experience Davis and Rhoda Darrow. Married Roxana Davis, 16 Jan. 1831, in Geauga Co., Ohio. Baptized into Church of Jesus Christ of Latter-day Saints. Requested by JS to relinquish claim to...View Full Bio Dr Brethren:— I send this note this morning to solicit you on behalf of brother<​s​> [Abraham] HoaglandView Full Bio and [Benjamin] Mcginness You know how I have been used in regard to the land of which you hold the Tax title,2A tax title was a title to land based on a sale of the property to pay delinquent taxes. (See An Act Supplemental to an Act, Entitled “An Act to Provide for Raising a Revenue,” [19 Jan. 1829], Revised Code of Laws, of Illinois [1828–1829], p. 123, sec. 11.)Comprehensive Works CitedThe Revised Code of Laws, of Illinois, Enacted at the Fifth General Assembly, at Their Session Held at Vandalia, Commencing on the Fourth Day of December, 1826, and Ending the Nineteenth of February, 1827. Vandalia, IL: Robert Blackwell, 1827. the whole circumstances are before you. If you will relinquish your claim and transfer your title to me so that these men can have immediate possession I will satisfy you with any amount of other property you may wish, I will let you have till you are satisfied. and will moreover bless you in the name of the Lord and do you all the good I can I remain your obedient servant and brother— Joseph Smith— NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info March 15— 1844 [foot of page cut] [p. [1]]
+
+  [page [2] blank] [p. [2]]
+
+---
+
+## Source Note
+
+On 15 March 1844, JS wrote a letter from NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info, Illinois, to four men requesting their assistance in clarifying who owned a 160-acre tract of land. JS received a deed for this property—which lay a mile and a half east of Nauvoo’s city limits—from Joshua MooreCa. 1814–12 Feb. 1871. Farmer. Born in New Jersey. Sold property to Daniel H. Wells, 9 Mar. 1843. Sold property to JS, 24 July 1843. Named as witness in Phelps, Assignee of JS v. Wilson Law, 20 May 1844, in Hancock Co., Illinois. Married Ann A. Naylor, 3 ...View Full Bio on 24 July 1843.1Hancock Co., IL, Deed Records, 1817–1917, vol. M, pp. 9–10, 24 July 1843, microfilm 954,598, U.S. and Canada Record Collection, FHL. The property in question was the northeast quarter of section 33 in Township 7 North, Range 8 West. Although the deed from Moore suggested the land was a gift, JS paid him $300 and gave him a promissory note for $420 on 24 July 1843. JS was still trying to settle his account with Moore in May 1844. (Clayton, Journal, 13 June 1843; 24 July 1843; 1–2 May 1844; JS to Joshua Moore, Promissory Note, Nauvoo, IL, 2 May 1844, photocopy, CHL.)Comprehensive Works CitedClayton, William. Journals, 1842–1845. CHL. Prior to this, JS sold 100 acres of the tract to Abraham HoaglandView Full Bio in June 1843.2Trustees Land Book B, 22 June 1843, 20; Clayton, Journal, 12–13 June and 11 July 1843; JS to Abraham Hoagland, Promissory Note, Nauvoo, IL, 11 July 1843, JS Collection, CHL.Comprehensive Works CitedClayton, William. Journals, 1842–1845. CHL. Later, in August 1843, JS sold the remaining 60 acres to Benjamin McGinness.3Clayton, Journal, 31 July and 3 Aug. 1843; Trustees Land Book B, 3 Aug. 1843, 21.Comprehensive Works CitedClayton, William. Journals, 1842–1845. CHL. At some point, JS apparently discovered that the ownership of this land was disputed and made an effort to resolve the matter. In the letter, JS asked the men if they would relinquish their claims to the 160 acres in exchange for other property so that he could have undisputed ownership and be able to transfer the title to HoaglandView Full Bio and McGinness. The letter was apparently transmitted within a day, because on 16 March two of the letter’s recipients—Alfred RandallView Full Bio and James Davis8 Aug. 1801–1 Aug. 1847. Born in La Prairie, Lower Canada. Son of Experience Davis and Rhoda Darrow. Married Roxana Davis, 16 Jan. 1831, in Geauga Co., Ohio. Baptized into Church of Jesus Christ of Latter-day Saints. Requested by JS to relinquish claim to...View Full Bio—received promissory notes from JS in which he agreed to pay them for their interests in the property.4Clayton, Journal, 16 Mar. 1844; JS to Alfred Randall, Promissory Note, Nauvoo, IL, 16 Mar. 1844; JS to James Davis, Promissory Note, Nauvoo, IL, 16 Mar. 1844–A; JS to James Davis, Promissory Note, Nauvoo, IL, 16 Mar. 1844–B, JS Collection, CHL. The promissory note to Randall specified that he would be paid $98.25 “payable in Brick, neat stock or such other property as the Trustee can pay and will suit said Randle.” Davis received two promissory notes from JS. One committed JS to pay $125 “payable in Brick, neat stock or other property,” while the other required that he pay Davis $25 in cash “between this date and next fall.”Comprehensive Works CitedClayton, William. Journals, 1842–1845. CHL. The identities of the other two recipients are unclear.5The third addressee was a Brother Clark. William Clayton’s journal makes no mention of a Clark being involved in the 16 March settlement for the northeast quarter of section 33, and no promissory note to such a person has been located, suggesting that Clark may not have agreed to JS’s offer. The letter’s fourth recipient cannot be identified because a tear in the paper has removed the last name. Although the abbreviation for William is clearly visible before the tear, Clayton recorded making a settlement on 16 March with a John Gribble regarding his share in the northeast quarter of section 33. There is also a pay order from that same day requesting Abraham Hoagland to pay John Gribble $200. One potential explanation is that the letter could have mistakenly been addressed to William Gribble, who also lived in Nauvoo. (Clayton, Journal, 16 Mar. 1844; JS to Abraham Hoagland for John Gribble, Pay Order, Nauvoo, IL, 16 Mar. 1844, JS Collection [Supplement], CHL; Nauvoo Second Ward Census, [26]; Nauvoo Fourth Ward Census, [25], Nauvoo Stake, Ward Census, 1842, CHL.)Comprehensive Works CitedClayton, William. Journals, 1842–1845. CHL.Nauvoo Stake. Ward Census, 1842. CHL. The original letter JS sent is featured here. No responses to JS’s letter from the various property owners are extant. 6835751884937900518 Hancock Co., IL, Deed Records, 1817–1917, vol. M, pp. 9–10, 24 July 1843, microfilm 954,598, U.S. and Canada Record Collection, FHL. The property in question was the northeast quarter of section 33 in Township 7 North, Range 8 West. Although the deed from Moore suggested the land was a gift, JS paid him $300 and gave him a promissory note for $420 on 24 July 1843. JS was still trying to settle his account with Moore in May 1844. (Clayton, Journal, 13 June 1843; 24 July 1843; 1–2 May 1844; JS to Joshua Moore, Promissory Note, Nauvoo, IL, 2 May 1844, photocopy, CHL.) 1 number Clayton, William. Journals, 1842–1845. CHL. 15690891286909854895 Trustees Land Book B, 22 June 1843, 20; Clayton, Journal, 12–13 June and 11 July 1843; JS to Abraham Hoagland, Promissory Note, Nauvoo, IL, 11 July 1843, JS Collection, CHL. 2 number Clayton, William. Journals, 1842–1845. CHL. 13900456963506066529 Clayton, Journal, 31 July and 3 Aug. 1843; Trustees Land Book B, 3 Aug. 1843, 21. 3 number Clayton, William. Journals, 1842–1845. CHL. 12280731922473248409 Clayton, Journal, 16 Mar. 1844; JS to Alfred Randall, Promissory Note, Nauvoo, IL, 16 Mar. 1844; JS to James Davis, Promissory Note, Nauvoo, IL, 16 Mar. 1844–A; JS to James Davis, Promissory Note, Nauvoo, IL, 16 Mar. 1844–B, JS Collection, CHL. The promissory note to Randall specified that he would be paid $98.25 “payable in Brick, neat stock or such other property as the Trustee can pay and will suit said Randle.” Davis received two promissory notes from JS. One committed JS to pay $125 “payable in Brick, neat stock or other property,” while the other required that he pay Davis $25 in cash “between this date and next fall.” 4 number Clayton, William. Journals, 1842–1845. CHL. 12372948087555894738 The third addressee was a Brother Clark. William Clayton’s journal makes no mention of a Clark being involved in the 16 March settlement for the northeast quarter of section 33, and no promissory note to such a person has been located, suggesting that Clark may not have agreed to JS’s offer. The letter’s fourth recipient cannot be identified because a tear in the paper has removed the last name. Although the abbreviation for William is clearly visible before the tear, Clayton recorded making a settlement on 16 March with a John Gribble regarding his share in the northeast quarter of section 33. There is also a pay order from that same day requesting Abraham Hoagland to pay John Gribble $200. One potential explanation is that the letter could have mistakenly been addressed to William Gribble, who also lived in Nauvoo. (Clayton, Journal, 16 Mar. 1844; JS to Abraham Hoagland for John Gribble, Pay Order, Nauvoo, IL, 16 Mar. 1844, JS Collection [Supplement], CHL; Nauvoo Second Ward Census, [26]; Nauvoo Fourth Ward Census, [25], Nauvoo Stake, Ward Census, 1842, CHL.) 5 number Clayton, William. Journals, 1842–1845. CHL.Nauvoo Stake. Ward Census, 1842. CHL.
+
+---
+
+## Footnotes
+
+**[1]** TEXT: Page torn.
+**[2]** A tax title was a title to land based on a sale of the property to pay delinquent taxes. (See An Act Supplemental to an Act, Entitled “An Act to Provide for Raising a Revenue,” [19 Jan. 1829], Revised Code of Laws, of Illinois [1828–1829], p. 123, sec. 11.)
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - deed-from-joshua-moore-24-july-1843]]
+- [[JSPP - pay-order-to-abraham-hoagland-for-john-gribble-16-march-1844]]
+- [[JSPP - promissory-note-to-abraham-hoagland-11-july-1843]]
+- [[JSPP - promissory-note-to-alfred-randall-16-march-1844]]
+- [[JSPP - promissory-note-to-james-d-davis-16-march-1844-a]]
+- [[JSPP - promissory-note-to-james-d-davis-16-march-1844-b]]
+- [[JSPP - promissory-note-to-joshua-moore-2-may-1844]]
+- [[JSPP - trustees-land-book-b-4-august-1842-8-december-1845]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

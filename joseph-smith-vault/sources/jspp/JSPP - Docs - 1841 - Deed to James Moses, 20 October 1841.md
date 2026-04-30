@@ -1,0 +1,44 @@
+# JSPP — Deed to James Moses, 20 October 1841
+
+**Tags:** #source/joseph-smith-papers #jspp/documents #era/nauvoo
+**Date:** October 20, 1841
+**Series:** Documents Series
+**Document Type:** Document
+**Location:** Unknown
+**Source URL:** https://www.josephsmithpapers.org/paper-summary/deed-to-james-moses-20-october-1841/1
+**Scraped:** 2026-04-19
+
+---
+
+## Summary
+
+<​7887​> <​Smith To [James] MosesView Full Bio​> <​Recorded 23 April 1846.​> This Indenture made and entered into this twentieth day of October in the year of our Lord One thousand Eight hundred and forty one between Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born…
+
+---
+
+## Full Transcript
+
+<​7887​> <​Smith To [James] MosesView Full Bio​> <​Recorded 23 April 1846.​> This Indenture made and entered into this twentieth day of October in the year of our Lord One thousand Eight hundred and forty one between Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and State of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info of the one part and James MosesView Full Bio of the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info and StateBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info aforesaid of the other part. Witnesseth that the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife for and in consideration of the sum of Six hundred and fifty dollars, to them in hand paid the receipt whereof is hereby acknowledged, do grant bargain sell convey and confirm unto the said James MosesView Full Bio his heirs and assigns forever all that tract or parcel of land situate and being in the County of HancockFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info in the state of IllinoisBecame part of Northwest Territory of U.S., 1787. Admitted as state, 1818. Population in 1840 about 480,000. Population in 1845 about 660,000. Plentiful, inexpensive land attracted settlers from northern and southern states. Following expulsion from Missouri...More Info and Known and described on the plat of the City of NauvooPrincipal gathering place for Saints following expulsion from Missouri. Beginning in 1839, Church of Jesus Christ of Latter-day Saints purchased lands in earlier settlement of Commerce and planned settlement of Commerce City, as well as surrounding areas....More Info as being lot four (4) in Block one hundred and thirty nine. Together with all and singular the appurtenances thereunto belonging or in anywise appertaining. To Have and to hold the above described premises unto the said James MosesView Full Bio his heirs and assigns forever. And the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife their heirs and assigns the aforesaid premises unto the said James MosesView Full Bio his heirs and assigns against the claim or claims of all and every person whomsoever, do and will Warrant and forever defend by these presents. In testimony whereof the said Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife of the first part have hereunto set their hands and seals the day and year first above written Joseph Smith LS Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio LS Signed sealed and Delivered in presence of) Jno S Fullmer21 July 1807–8 Oct. 1883. Farmer, newsman, postmaster, teacher, merchant. Born at Huntington, Luzerne Co., Pennsylvania. Son of Peter Fullmer and Susannah Zerfass. Moved to Nashville, Davidson Co., Tennessee, spring 1832. Married Mary Ann Price, 24 May 1837...View Full Bio [p. [518]]
+
+  State of Illinois)SS.Hancock CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info) I Ebenezer Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio a Justice of the Peace of said CountyFormed from Pike Co., 1825. Described in 1837 as predominantly prairie and “deficient in timber.” Early settlers came mainly from mid-Atlantic and southern states. Population in 1835 about 3,200; in 1840 about 9,900; and in 1844 at least 15,000. Carthage ...More Info do certify that Joseph Smith and Emma10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio his wife whose signatures appear to the foregoing deed and who are personally known to me to be the persons described in and who executed the same, did severally acknowledge that they had executed the said Conveyance for the uses and purposes therein mentioned. And the said Emma Smith10 July 1804–30 Apr. 1879. Scribe, editor, boardinghouse operator, clothier. Born at Willingborough Township (later in Harmony), Susquehanna Co., Pennsylvania. Daughter of Isaac Hale and Elizabeth Lewis. Member of Methodist church at Harmony (later in Oakland...View Full Bio having been by me made acquainted with the contents of the said Deed and examined seperate and apart from her said husband acknowledged that she had executed the same, and relinquished her dower to the premises therein conveyed voluntarily freely and without compulsion of her said husband. Given under my hand and seal this fourth day of March in the year of our Lord one thousand eight hundred and forty two. E Robinson25 May 1816–11 Mar. 1891. Printer, editor, publisher. Born at Floyd (near Rome), Oneida Co., New York. Son of Nathan Robinson and Mary Brown. Moved to Utica, Oneida Co., ca. 1831, and learned printing trade at Utica Observer. Moved to Ravenna, Portage Co....View Full Bio J P. L S [p. [519]]
+
+---
+
+## Source Note
+
+*See source URL above for archival details.*
+
+---
+
+## Related Documents
+
+- [[JSPP - [uri]]]
+- [[JSPP - deed-to-james-moses-20-october-1841-as-recorded-in-nauvoo-registry-of-deeds]]
+- [[JSPP - nauvoo-registry-of-deeds-deed-record-book-a-1840-1843]]
+
+---
+
+## Vault Cross-Links
+
+- [[Joseph Smith Papers Project - Integration Plan]]
+- [[Sources MOC]]

@@ -1,0 +1,19 @@
+# Python environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Scraper output data (too large for git — keep locally only)
+scraper/data/raw/
+scraper/data/notes/
+scraper/logs/
+
+# Temporary test files
+scraper/nextdata_*.json
+scraper/dump_*.json
+
+# OS
+.DS_Store
+Thumbs.db
